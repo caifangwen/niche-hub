@@ -49,12 +49,12 @@
   --cover-grad-a: #f0f0f0;
   --cover-grad-b: #e0e0e0;
   --kicker-border: rgba(255,255,255,0.25);
-  --shadow-1: 0 2px 8px rgba(0,0,0,0.04);
-  --shadow-2: 0 4px 12px rgba(0,0,0,0.05);
-  --shadow-3: 0 4px 16px rgba(0,0,0,0.06);
-  --shadow-4: 0 6px 20px rgba(0,0,0,0.06);
-  --shadow-5: 0 8px 24px rgba(0,0,0,0.07);
-  --shadow-6: 0 12px 32px rgba(0,0,0,0.08);
+  --shadow-1: none;
+  --shadow-2: none;
+  --shadow-3: none;
+  --shadow-4: none;
+  --shadow-5: none;
+  --shadow-6: none;
   --r-8: 4px;
   --r-10: 4px;
   --r-12: 6px;
@@ -123,9 +123,9 @@
   --nc-r:            6px;
   --nc-r-sm:         4px;
   --nc-r-lg:         8px;
-  --nc-shadow:       0 2px 8px rgba(0,0,0,0.04);
-  --nc-shadow-md:    0 4px 12px rgba(0,0,0,0.05);
-  --nc-shadow-lg:    0 8px 24px rgba(0,0,0,0.07);
+  --nc-shadow: none;
+  --nc-shadow-md: none;
+  --nc-shadow-lg: none;
   /* Data Visualization Palette */
   --nc-data-primary:   var(--nc-blue);
   --nc-data-secondary: var(--nc-amber);
@@ -205,7 +205,6 @@ header h1 {
 
 .table-wrap {
   overflow-x: auto;
-  border: 1px solid var(--border);
   border-radius: var(--r-12);
   margin-bottom: var(--gap-2xl)}
 
@@ -234,7 +233,6 @@ header h1 {
   background: transparent}
 .b2b-table td {
   padding: 10px 14px;
-  border-bottom: 1px solid var(--border);
   overflow-wrap: break-word;
   word-break: break-word;
   vertical-align: top}
@@ -243,7 +241,7 @@ header h1 {
 .b2b-table td:first-child {
   font-weight: 600;
   width: 35%;
-  border-right: 1px solid var(--border)}
+  /* border-right removed */}
 
 .finder-box h2 {
   margin-top: 0;
@@ -877,7 +875,7 @@ header h1 {
   font-size: 18px;
   line-height: 1.65;
   margin: 28px 0;
-  box-shadow: var(--nc-shadow)}
+  /* box-shadow removed */}
 
 .nc-post pre code {
   background: none;
@@ -957,8 +955,7 @@ header .hero-lead,
 .stat-desc {
   color: #fff}
 .stat-item {
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
   border-radius: var(--r-12);
   padding: var(--pad-card)}
 
