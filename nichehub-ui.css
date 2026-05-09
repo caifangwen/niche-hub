@@ -299,11 +299,17 @@ th {
   margin-bottom: var(--gap-md)}
 
 .nav-card {
+  display: flex;
+  flex-direction: column;
   border: 1px solid var(--border);
   border-radius: var(--r-10);
   padding: var(--pad-card);
   background: var(--surface);
   box-shadow: var(--shadow-1)}
+
+.nav-card .btn {
+  margin-top: auto;
+  align-self: start}
 
 .content-note {
   background: var(--surface);
