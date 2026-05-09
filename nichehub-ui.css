@@ -214,18 +214,16 @@ th {
 
 .vs-card {
   display: block;
-  border: 1px solid var(--border);
+  border-left: 4px solid var(--muted-300);
   border-radius: var(--r-10);
   padding: var(--pad-card);
   text-decoration: none;
-  color: inherit;
-  background: var(--surface);
-  box-shadow: var(--shadow-1);
-  transition: var(--dur-fast)}
+  color: var(--text);
+  background: var(--light-gray);
+  transition: background var(--dur-fast)}
 
 .vs-card:hover {
-  border-color: var(--secondary);
-  box-shadow: var(--shadow-2)}
+  background: #e8e8e8}
 
 .quick-answers {
   background: var(--light-gray);
@@ -3271,23 +3269,8 @@ th {
   color: rgba(255,255,255,0.7)}
 
 
-/* VS cards with background image + mask */
-.vs-card {
-  position: relative;
-  background-size: cover;
-  background-position: center;
-  overflow: hidden}
-.vs-card::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to top, rgba(15,15,20,0.92) 0%, rgba(15,15,20,0.55) 60%, rgba(15,15,20,0.3) 100%);
-  border-radius: var(--r-10);
-  z-index: 1}
-.vs-card > * {
-  position: relative;
-  z-index: 2;
-  color: #fff}
-.vs-card:hover {
-  border-color: var(--secondary);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.25)}
+.vs-card[data-family="stainless"] { border-left-color: #4a7a8c }
+.vs-card[data-family="carbon"] { border-left-color: #b87333 }
+.vs-card[data-family="pm"] { border-left-color: #c53030 }
+.vs-card[data-family="damascus"] { border-left-color: #7a5a8a }
+.vs-card[data-family="tool"] { border-left-color: #666666 }
