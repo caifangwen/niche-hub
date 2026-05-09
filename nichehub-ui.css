@@ -76,7 +76,6 @@
   flex-direction: column;
   justify-content: center;
   isolation: isolate;
-  border-right: 3px solid var(--secondary);
   background-size: cover;
   background-position: center}
 
@@ -241,7 +240,6 @@ th {
   border-radius: var(--r-14);
   padding: 36px;
   margin: 55px 0;
-  border-left: 4px solid var(--secondary);
   box-shadow: var(--shadow-2)}
 
 .data-item {
@@ -277,7 +275,8 @@ th {
   box-shadow: var(--shadow-1)}
 
 .product-img {
-  height: 150px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   background-color: var(--surface-placeholder);
   background-size: cover;
   background-position: center;
@@ -336,7 +335,7 @@ th {
   padding: var(--gap-md);
   margin: calc(-1 * var(--pad-card)) calc(-1 * var(--pad-card)) var(--gap-sm) calc(-1 * var(--pad-card));
   color: #fff;
-  min-height: 60px;
+  min-height: 140px;
   display: flex;
   align-items: center;
   overflow: hidden}

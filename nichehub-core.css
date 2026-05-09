@@ -64,9 +64,9 @@
   --r-30: 8px;
   --r-pill-50: 4px;
   --r-pill: 999px;
-  --container-max: 1200px;
+  --container-max: 1400px;
   --container-pad-x: 20px;
-  --content-max: 900px;
+  --content-max: 1050px;
   --content-narrow: 860px;
   --cta-text-max: 760px;
   --table-min: 880px;
@@ -282,7 +282,7 @@ header h1 {
 
 .nav-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+  grid-template-columns: repeat(auto-fit,minmax(380px,1fr));
   gap: var(--gap-xl);
   margin-bottom: 45px}
 
