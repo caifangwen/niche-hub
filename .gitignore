@@ -1,0 +1,16 @@
+# Python temp scripts
+check_*.py
+collect_*.py
+fix_*.py
+match_*.py
+verify_*.py
+debug_*.py
+smart_plan.py
+detailed_insertion_plan.py
+
+# Output files
+check_urls.py
+emoji_search_result.txt
+
+# Misc
+*.tmp

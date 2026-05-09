@@ -1,0 +1,235 @@
+==========================================================================================
+本地 Pillar 页面引用博客文章计划
+==========================================================================================
+
+原则：
+1. 每个 Pillar 页面最多新增 5 个内链
+2. 优先引用同 Pillar 分类下的博客文章
+3. hub.html 已有大量引用，本次不作为新增源
+4. 引用需自然融入正文描述，不重复堆叠在按钮区
+5. 锚文本使用文章关键词或自然语句
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-american-knife-companies.html
+  所属分类: Business Planning, American & Premium Steels
+  当前已有链接数: 25
+  建议新增引用:
+    -> <a href="s125v-steel">s125v</a>  [同分类 / American & Premium Steels]
+    -> <a href="maxamet">maxamet</a>  [同分类 / American & Premium Steels]
+    -> <a href="d2-steel">d2 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="m4-steel">m4 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="a2-steel">a2 steel</a>  [同分类 / American & Premium Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-best-cookware-material.html
+  所属分类: Cast Iron, Enameled Cast Iron, Non-Stick Cookware, Cookware Business & Sourcing, Other Materials & Stainless Steel
+  当前已有链接数: 61
+  建议新增引用:
+    -> <a href="Japanese-steel">Japanese steel</a>  [同分类 / Other Materials & Stainless Steel]
+    -> <a href="enameled-cast-iron-care">enameled cast iron care</a>  [同分类 / Enameled Cast Iron]
+    -> <a href="custom-cookware-manufacturers">custom cookware manufacturers</a>  [同分类 / Cookware Business & Sourcing]
+    -> <a href="best-cookware-material-for-gas-stove">best cookware material for gas stove</a>  [同分类 / Other Materials & Stainless Steel]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-best-cutting-board-material.html
+  所属分类: Wood Types for Cutting Boards, Construction & Grain Types, Non-Wood Materials & Comparisons, Selection, Care & Hygiene, Specialty Boards & OEM
+  当前已有链接数: 55
+  建议新增引用:
+    -> <a href="face-grain-vs-edge-grain-vs-end-grain">edge grain vs end grain cutting board,
+face grain vs edge grain</a>  [同分类 / Construction & Grain Types]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-carbon-steels.html
+  所属分类: Carbon & Tool Steels, Chinese Steels
+  当前已有链接数: 48
+  建议新增引用:
+    -> <a href="w2-steel">w2 steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="8cr13mov">8cr13mov</a>  [同分类 / Chinese Steels]
+    -> <a href="7cr17mov">7cr17mov</a>  [同分类 / Chinese Steels]
+    -> <a href="5cr15mov">5cr15mov</a>  [同分类 / Chinese Steels]
+    -> <a href="9cr18mov">9cr18mov</a>  [同分类 / Chinese Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-cross-family-comparisons.html
+  所属分类: Steel Science & Selection, Carbon & Tool Steels, Stainless / Budget Steels
+  当前已有链接数: 39
+  建议新增引用:
+    -> <a href="w2-steel">w2 steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="1055-steel">1055 steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="1095-steel">1095 steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="65mn-steel">65mn steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="440c-steel">440c steel</a>  [同分类 / Stainless / Budget Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-damascus-layered.html
+  所属分类: Damascus & Layered Steels
+  当前已有链接数: 34
+  建议新增引用:
+    -> <a href="pattern-welding">pattern welding</a>  [同分类 / Damascus & Layered Steels]
+    -> <a href="wootz-steel-vs-damascus">wootz steel vs damascus</a>  [同分类 / Damascus & Layered Steels]
+    -> <a href="damascus-steel-vs-carbon-steel">damascus steel vs carbon steel</a>  [同分类 / Damascus & Layered Steels]
+    -> <a href="why-damascus-steel-so-expensive">why is damascus steel so expensive</a>  [同分类 / Damascus & Layered Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-european-knife-regions.html
+  所属分类: German & European Steels
+  当前已有链接数: 29
+  建议新增引用:
+    -> <a href="n690-steel">n690 steel</a>  [同分类 / German & European Steels]
+    -> <a href="k110-steel">k110 steel</a>  [同分类 / German & European Steels]
+    -> <a href="14c28n-steel">14c28n steel</a>  [同分类 / German & European Steels]
+    -> <a href="14c28n-vs-d2">14c28n vs d2</a>  [同分类 / German & European Steels]
+    -> <a href="420hc-vs-s30v">420hc vs s30v</a>  [同分类 / German & European Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-global-knife-sourcing.html
+  所属分类: Sourcing & OEM, Business Planning
+  当前已有链接数: 25
+  建议新增引用:
+    -> <a href="yangjiang-knife">yangjiang knife</a>  [同分类 / Sourcing & OEM]
+    -> <a href="oem-knife-manufacturers">oem knife manufacturers</a>  [同分类 / Sourcing & OEM]
+    -> <a href="how-to-buy-knives-wholesale">how to buy knives wholesale</a>  [同分类 / Sourcing & OEM]
+    -> <a href="private-label-knife-manufacturers">private label knife manufacturers</a>  [同分类 / Sourcing & OEM]
+    -> <a href="selling-knives-online">selling knives</a>  [跨分类 / Selling & Distribution]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-how-kitchen-knives-are-made.html
+  所属分类: Manufacturing Processes, Blade Anatomy & Construction
+  当前已有链接数: 29
+  建议新增引用:
+    -> <a href="knife-grinds-guide">knife grinds</a>  [同分类 / Blade Anatomy & Construction]
+    -> <a href="knife-balance">knife balance</a>  [同分类 / Blade Anatomy & Construction]
+    -> <a href="kitchen-knife-parts-and-anatomy">parts of a knife</a>  [同分类 / Blade Anatomy & Construction]
+    -> <a href="drop-point-blade">drop point blade</a>  [同分类 / Blade Anatomy & Construction]
+    -> <a href="clip-point-blade">clip point blade</a>  [同分类 / Blade Anatomy & Construction]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-how-to-care-for-knives.html
+  所属分类: Sharpening, Daily Care & Storage
+  当前已有链接数: 33
+  建议新增引用:
+    -> <a href="carbon-steel-patina">carbon steel patina</a>  [同分类 / Daily Care & Storage]
+    -> <a href="carbon-steel-knife-care">carbon steel knife care</a>  [同分类 / Daily Care & Storage]
+    -> <a href="knife-tang-full-or-partial">full tang</a>  [跨分类 / parts of a knife]
+    -> <a href="pakkawood">pakkawood</a>  [跨分类 / Handle Materials & Design]
+    -> <a href="wa-handle">wa handle</a>  [跨分类 / Handle Materials & Design]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-how-to-start-a-knife-brand.html
+  所属分类: Sourcing & OEM, Business Planning, Selling & Distribution
+  当前已有链接数: 28
+  建议新增引用:
+    -> <a href="yangjiang-knife">yangjiang knife</a>  [同分类 / Sourcing & OEM]
+    -> <a href="oem-knife-manufacturers">oem knife manufacturers</a>  [同分类 / Sourcing & OEM]
+    -> <a href="private-label-knife-manufacturers">private label knife manufacturers</a>  [同分类 / Sourcing & OEM]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-japanese-knife-brands.html
+  所属分类: Japanese Steels, japanese knife types
+  当前已有链接数: 26
+  建议新增引用:
+    -> <a href="pankiri-guide">pankiri</a>  [同分类 / japanese knife types]
+    -> <a href="yanagiba-guide">yanagiba</a>  [同分类 / japanese knife types]
+    -> <a href="chukabocho-cleaver-guide">chukabocho</a>  [同分类 / japanese knife types]
+    -> <a href="vg-10-steel">vg 10 steel</a>  [同分类 / Japanese Steels]
+    -> <a href="aus-8-steel">aus 8 steel</a>  [同分类 / Japanese Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-kitchen-tools-accessories.html
+  所属分类: Sharpening, Sheaths & Accessories
+  当前已有链接数: 49
+  建议新增引用:
+    -> <a href="whetstone-grit">whetstone grit</a>  [同分类 / Sharpening]
+    -> <a href="what-is-a-whetstone">what is a whetstone</a>  [同分类 / Sharpening]
+    -> <a href="honing-vs-sharpening">honing vs sharpening</a>  [同分类 / Sharpening]
+    -> <a href="whetstone-vs-sharpener">whetstone vs sharpener</a>  [同分类 / Sharpening]
+    -> <a href="knife-sharpening-angle">knife sharpening angle</a>  [同分类 / Sharpening]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-knife-history-traditions.html
+  所属分类: 
+  当前已有链接数: 45
+  建议新增引用:
+    -> <a href="s125v-steel">s125v</a>  [跨分类 / American & Premium Steels]
+    -> <a href="san-mai">san mai</a>  [跨分类 / Damascus & Layered Steels]
+    -> <a href="maxamet">maxamet</a>  [跨分类 / American & Premium Steels]
+    -> <a href="d2-steel">d2 steel</a>  [跨分类 / American & Premium Steels]
+    -> <a href="m4-steel">m4 steel</a>  [跨分类 / American & Premium Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-pocket-outdoor-knives.html
+  所属分类: Knife Selection & Sets, Legal & Compliance, Other Specialty / Table Knives
+  当前已有链接数: 47
+  建议新增引用:
+    -> <a href="ulu-knife-guide">ulu knife uses</a>  [同分类 / Other Specialty / Table Knives]
+    -> <a href="types-of-flatware">types of flatware</a>  [同分类 / Other Specialty / Table Knives]
+    -> <a href="cheese-knife-guide">cheese knife guide</a>  [同分类 / Other Specialty / Table Knives]
+    -> <a href="frame-lock-vs-liner-lock">frame lock vs liner lock</a>  [同分类 / Knife Selection & Sets]
+    -> <a href="knife-balance">knife balance</a>  [跨分类 / Blade Anatomy & Construction]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-powder-metallurgy-steels.html
+  所属分类: American & Premium Steels, Steel Science & Selection
+  当前已有链接数: 49
+  建议新增引用:
+    -> <a href="s125v-steel">s125v</a>  [同分类 / American & Premium Steels]
+    -> <a href="maxamet">maxamet</a>  [同分类 / American & Premium Steels]
+    -> <a href="d2-steel">d2 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="m4-steel">m4 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="a2-steel">a2 steel</a>  [同分类 / American & Premium Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-stainless-steels.html
+  所属分类: Other Materials & Stainless Steel, Chinese Steels, Stainless / Budget Steels
+  当前已有链接数: 51
+  建议新增引用:
+    -> <a href="7cr17mov">7cr17mov</a>  [同分类 / Chinese Steels]
+    -> <a href="9cr18mov">9cr18mov</a>  [同分类 / Chinese Steels]
+    -> <a href="440a-steel">440a steel</a>  [同分类 / Stainless / Budget Steels]
+    -> <a href="3cr13-steel">3cr13 steel</a>  [同分类 / Chinese Steels]
+    -> <a href="Japanese-steel">Japanese steel</a>  [同分类 / Other Materials & Stainless Steel]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-tool-semi-stainless.html
+  所属分类: Carbon & Tool Steels, American & Premium Steels
+  当前已有链接数: 40
+  建议新增引用:
+    -> <a href="w2-steel">w2 steel</a>  [同分类 / Carbon & Tool Steels]
+    -> <a href="d2-steel">d2 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="a2-steel">a2 steel</a>  [同分类 / American & Premium Steels]
+    -> <a href="cpm-spy27">cpm spy27</a>  [同分类 / American & Premium Steels]
+    -> <a href="1055-steel">1055 steel</a>  [同分类 / Carbon & Tool Steels]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-types-of-kitchen-knives.html
+  所属分类: Japanese Kitchen Knives, japanese knife types, Western Specialty Knives, Chef's Knives & All-Purpose, Cleavers & Butcher Knives, parts of a knife
+  当前已有链接数: 56
+  建议新增引用:
+    -> <a href="pankiri-guide">pankiri</a>  [同分类 / japanese knife types]
+    -> <a href="cai-dao">cai dao</a>  [同分类 / Cleavers & Butcher Knives]
+    -> <a href="chukabocho-cleaver-guide">chukabocho</a>  [同分类 / japanese knife types]
+    -> <a href="granton-edge">granton edge</a>  [同分类 / parts of a knife]
+    -> <a href="knife-testing">knife testing</a>  [同分类 / Japanese Kitchen Knives]
+
+------------------------------------------------------------------------------------------
+【源文件】pillar-yangjiang-oem-guide.html
+  所属分类: Sourcing & OEM, Chinese Steels
+  当前已有链接数: 28
+  建议新增引用:
+    -> <a href="8cr13mov">8cr13mov</a>  [同分类 / Chinese Steels]
+    -> <a href="3cr13-steel">3cr13 steel</a>  [同分类 / Chinese Steels]
+    -> <a href="10cr15comov">10cr15comov</a>  [同分类 / Chinese Steels]
+    -> <a href="8cr13mov-vs-d2">8cr13mov vs d2</a>  [同分类 / Chinese Steels]
+    -> <a href="yangjiang-knife">yangjiang knife</a>  [同分类 / Sourcing & OEM]
+
+==========================================================================================
+汇总
+==========================================================================================
+预计新增链接总数: 92
+涉及源文件数: 19
+
+执行方式：
+  1. 在源文件中找到与目标博客主题相关的正文段落
+  2. 用自然语句插入链接，例如：
+     "VG-10 是厨房刀具中最常用的日本钢材之一，详见 <a href="vg-10-steel">VG-10 钢材详解</a>。"
+  3. 每个文件新增不超过 5 个链接

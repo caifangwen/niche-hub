@@ -1,0 +1,1066 @@
+================================================================================
+ARTICLE INTERNAL LINK REFERENCE REPORT
+Generated from: 内容匹配_filled.xlsx
+Total rows in Excel: 492
+Rows with mandatory links: 41
+Local HTML files scanned: 21
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: ARTICLES WITH MANDATORY INTERNAL LINKS (from Excel)
+--------------------------------------------------------------------------------
+
+[Project 1] vg 10 steel
+  URL slug: vg-10-steel
+  Pillar: Japanese Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected vg-10-steel.html)
+
+[Project 2] zdp 189 steel
+  URL slug: zdp-189-steel
+  Pillar: Japanese Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected zdp-189-steel.html)
+
+[Project 3] aus 8 steel
+  URL slug: aus-8-steel
+  Pillar: Japanese Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected aus-8-steel.html)
+
+[Project 4] sg2 steel
+  URL slug: sg2-steel
+  Pillar: Japanese Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected sg2-steel.html)
+
+[Project 5] shirogami vs aogami
+  URL slug: shirogami-vs-aogami
+  Pillar: Japanese Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected shirogami-vs-aogami.html)
+
+[Project 6] ats 34 steel
+  URL slug: ats-34-steel
+  Pillar: American & Premium Steels
+  Required links: Japanese steel
+  Local HTML: NOT FOUND (expected ats-34-steel.html)
+
+[Project 26] carbon steel vs stainless steel knife
+  URL slug: carbon-steel-vs-stainless-steel-knife
+  Pillar: Carbon & Tool Steels
+  Required links: carbon steel knife care, carbon steel patina
+  Local HTML: NOT FOUND (expected carbon-steel-vs-stainless-steel-knife.html)
+
+[Project 30] best steel for kitchen knives
+  URL slug: best-steel-for-kitchen-knives
+  Pillar: parts of a knife
+  Required links: knife steel types, best steel for knife making, types of steel for knives, best steel for chef knife, best blade material for kitchen knives, best high carbon steel for kitchen knives
+  Local HTML: NOT FOUND (expected best-steel-for-kitchen-knives.html)
+
+[Project 34] kitchen knife handle
+  URL slug: kitchen-knife-handle
+  Pillar: parts of a knife
+  Required links: pakkawood
+  Local HTML: NOT FOUND (expected kitchen-knife-handle.html)
+
+[Project 37] pakkawood
+  URL slug: pakkawood
+  Pillar: Handle Materials & Design
+  Required links: kitchen knife handle
+  Local HTML: NOT FOUND (expected pakkawood.html)
+
+[Project 38] Japanese steel
+  URL slug: Japanese-steel
+  Pillar: Other Materials & Stainless Steel
+  Required links: vg 10 steelzdp 189 steelaus 8 steelsg2 steelshirogami vs aogamiats 34 steel
+  Local HTML: NOT FOUND (expected Japanese-steel.html)
+
+[Project 39] damascus patterns
+  URL slug: damascus-patterns
+  Pillar: Damascus & Layered Steels
+  Required links: what is damascus steel
+  Local HTML: NOT FOUND (expected damascus-patterns.html)
+
+[Project 41] carbon steel knife care
+  URL slug: carbon-steel-knife-care
+  Pillar: Daily Care & Storage
+  Required links: carbon steel vs stainless steel knife
+  Local HTML: NOT FOUND (expected carbon-steel-knife-care.html)
+
+[Project 42] carbon steel patina
+  URL slug: carbon-steel-patina
+  Pillar: Daily Care & Storage
+  Required links: carbon steel vs stainless steel knife
+  Local HTML: NOT FOUND (expected carbon-steel-patina.html)
+
+[Project 44] dropship knives
+  URL slug: dropship-knives
+  Pillar: Selling & Distribution
+  Required links: dropship knives服务页
+  Local HTML: NOT FOUND (expected dropship-knives.html)
+
+[Project 45] private label knife manufacturers
+  URL slug: private-label-knife-manufacturers
+  Pillar: Sourcing & OEM
+  Required links: private label knife服务页
+  Local HTML: NOT FOUND (expected private-label-knife-manufacturers.html)
+
+[Project 46] oem knife manufacturers
+  URL slug: oem-knife-manufacturers
+  Pillar: Sourcing & OEM
+  Required links: oem knife服务页
+  Local HTML: NOT FOUND (expected oem-knife-manufacturers.html)
+
+[Project 49] japanese vs german knives
+  URL slug: japanese-vs-german-knives
+  Pillar: Japanese Kitchen Knives
+  Required links: https://leeknives.com/japanese-kitchen-knives/ 
+https://leeknives.com/western-kitchen-knives/
+  Local HTML: NOT FOUND (expected japanese-vs-german-knives.html)
+
+[Project 50] chinese cleaver
+  URL slug: chinese-cleaver
+  Pillar: Cleavers & Butcher Knives
+  Required links: https://leeknives.com/chinese-cleavers/
+  Local HTML: NOT FOUND (expected chinese-cleaver.html)
+
+[Project 51] cai dao
+  URL slug: cai-dao
+  Pillar: Cleavers & Butcher Knives
+  Required links: https://leeknives.com/chinese-cleavers/
+  Local HTML: NOT FOUND (expected cai-dao.html)
+
+[Project 53] japanese knife types
+  URL slug: japanese-knife-types
+  Pillar: parent
+  Required links: cluster pages and corresponding category pages
+  Local HTML: NOT FOUND (expected japanese-knife-types.html)
+
+[Project 77] 10cr15comov
+  URL slug: 10cr15comov
+  Pillar: Chinese Steels
+  Required links: https://leeknives.com/blade-material/10cr15comov/
+  Local HTML: NOT FOUND (expected 10cr15comov.html)
+
+[Project 80] types of kitchen knives
+  URL slug: types-of-kitchen-knives
+  Pillar: 
+  Required links: 17 cluster pages (including project 50) and corresponding category pages
+  Local HTML: pillar-types-of-kitchen-knives.html (MATCHED)
+
+[Project 81] chef knife uses
+  URL slug: chef-knife-guide
+  Pillar: Chef's Knives & All-Purpose
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected chef-knife-guide.html)
+
+[Project 82] utility knife uses
+  URL slug: utility-knife-guide
+  Pillar: Chef's Knives & All-Purpose
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected utility-knife-guide.html)
+
+[Project 83] utility knife vs paring knife
+  URL slug: utility-knife-vs-paring-knife
+  Pillar: Chef's Knives & All-Purpose
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected utility-knife-vs-paring-knife.html)
+
+[Project 84] paring knife uses
+  URL slug: paring-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected paring-knife-guide.html)
+
+[Project 85] bread knife uses
+  URL slug: bread-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected bread-knife-guide.html)
+
+[Project 86] boning knife uses
+  URL slug: boning-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected boning-knife-guide.html)
+
+[Project 87] fillet knife uses
+  URL slug: fillet-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected fillet-knife-guide.html)
+
+[Project 88] boning knife vs fillet knife
+  URL slug: boning-knife-vs-fillet-knife
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected boning-knife-vs-fillet-knife.html)
+
+[Project 89] carving knife uses
+  URL slug: carving-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected carving-knife-guide.html)
+
+[Project 90] carving knife vs chef knife
+  URL slug: carving-knife-vs-chef-knife
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected carving-knife-vs-chef-knife.html)
+
+[Project 91] slicing knife uses
+  URL slug: slicing-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected slicing-knife-guide.html)
+
+[Project 92] slicing knife vs carving knife
+  URL slug: slicing-knife-vs-carving-knife
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected slicing-knife-vs-carving-knife.html)
+
+[Project 93] what is a meat cleaver
+  URL slug: meat-cleaver-guide
+  Pillar: Cleavers & Butcher Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected meat-cleaver-guide.html)
+
+[Project 94] butcher knife uses
+  URL slug: butcher-knife-guide
+  Pillar: Cleavers & Butcher Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected butcher-knife-guide.html)
+
+[Project 95] steak knives serrated or not
+  URL slug: serrated-vs-non-serrated-steak-knives
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected serrated-vs-non-serrated-steak-knives.html)
+
+[Project 96] what is a tourne knife used for
+  URL slug: tourne-knife-guide
+  Pillar: Western Specialty Knives
+  Required links: the pillar page
+  Local HTML: NOT FOUND (expected tourne-knife-guide.html)
+
+[Project 293] best axe brands
+  URL slug: best-axe-brands
+  Pillar: Sourcing & OEM
+  Required links: axe makers
+  Local HTML: NOT FOUND (expected best-axe-brands.html)
+
+[Project 312] famous american knife makers
+  URL slug: https://leeknives.com/famous-american-knife-makers/
+  Pillar: Sourcing & OEM
+  Required links: oem knife服务页
+  Local HTML: NOT FOUND (expected https://leeknives.com/famous-american-knife-makers/.html)
+
+--------------------------------------------------------------------------------
+SECTION 2: LOCAL HTML FILES - INTERNAL LINK SUMMARY
+--------------------------------------------------------------------------------
+
+hub.html:
+  Total internal links: 60
+    -> 1095-steel-review
+    -> 14c28n-steel
+    -> 14c28n-steel-review
+    -> 5cr15mov-steel-review
+    -> 8cr13mov-vs-d2
+    -> a2-tool-steel
+    -> d2-steel-review
+    -> damasteel-vs-damascus
+    -> https://leeknives.com/contact/
+    -> hub
+    -> k110-steel-guide
+    -> m390-steel
+    -> m390-steel-review
+    -> magnacut-steel
+    -> nitro-v-steel
+    -> pillar-american-knife-companies
+    -> pillar-best-cookware-material
+    -> pillar-best-cookware-material.html#care
+    -> pillar-best-cookware-material.html#comparison
+    -> pillar-best-cookware-material.html#sourcing
+    -> pillar-best-cutting-board-material
+    -> pillar-best-cutting-board-material.html#comparison
+    -> pillar-best-cutting-board-material.html#grain
+    -> pillar-best-cutting-board-material.html#wood
+    -> pillar-carbon-steels
+    -> pillar-cross-family-comparisons
+    -> pillar-damascus-layered
+    -> pillar-european-knife-regions
+    -> pillar-global-knife-sourcing
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-kitchen-knives-are-made.html#forging
+    -> pillar-how-kitchen-knives-are-made.html#handle
+    -> pillar-how-kitchen-knives-are-made.html#heat-treatment
+    -> pillar-how-to-care-for-knives
+    -> pillar-how-to-care-for-knives.html#sharpening
+    -> pillar-how-to-care-for-knives.html#steel-specific
+    -> pillar-how-to-care-for-knives.html#storage
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-japanese-knife-brands
+    -> pillar-kitchen-tools-accessories
+    -> pillar-kitchen-tools-accessories.html#safety
+    -> pillar-kitchen-tools-accessories.html#storage
+    -> pillar-kitchen-tools-accessories.html#whetstones
+    -> pillar-knife-history-traditions
+    -> pillar-pocket-outdoor-knives
+    -> pillar-pocket-outdoor-knives.html#folding
+    -> pillar-pocket-outdoor-knives.html#hunting
+    -> pillar-powder-metallurgy-steels
+    -> pillar-stainless-steels
+    -> pillar-tool-semi-stainless
+    -> pillar-types-of-kitchen-knives
+    -> pillar-types-of-kitchen-knives.html#japanese
+    -> pillar-types-of-kitchen-knives.html#specialty
+    -> pillar-types-of-kitchen-knives.html#western
+    -> pillar-yangjiang-oem-guide
+    -> s35vn-steel-review
+    -> s35vn-vs-d2
+    -> san-mai
+    -> sg2-steel-review
+    -> vg-10-steel-review
+
+pillar-american-knife-companies.html:
+  Total internal links: 11
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/knife-companies-in-oregon/
+    -> hub
+    -> pillar-carbon-steels
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-stainless-steels
+    -> s30v-steel
+    -> s90v-steel
+    -> shirogami-vs-aogami
+    -> yangjiang-knife
+
+pillar-best-cookware-material.html:
+  Total internal links: 44
+    -> 1810-188-180-stainless-steel
+    -> alternatives-to-non-stick-pan
+    -> are-non-stick-pans-dishwasher-safe
+    -> best-cookware-material
+    -> best-non-stick-pan-material
+    -> can-cast-iron-skillet-go-in-oven
+    -> can-enameled-cast-iron-go-in-the-oven
+    -> can-non-stick-pans-go-in-the-oven
+    -> cast-aluminum-vs-cast-iron
+    -> cast-iron-cookware-manufacturers
+    -> cast-iron-in-dishwasher
+    -> cast-iron-on-glass-top-stove
+    -> cast-iron-skillet-sizes
+    -> cast-iron-vs-stainless-steel
+    -> cookware-manufacturers
+    -> cookware-wholesale-distributors
+    -> damascus-steel-vs-carbon-steel
+    -> does-cast-iron-work-on-induction
+    -> does-enameled-cast-iron-work-on-induction
+    -> enamel-vs-ceramic-cookware
+    -> enameled-cast-iron-cookware-pros-cons
+    -> enameled-cast-iron-vs-cast-iron
+    -> enameled-cast-iron-vs-stainless-steel
+    -> history-of-cast-iron-cookware
+    -> how-are-cast-iron-skillets-made
+    -> https://leeknives.com/contact/
+    -> hub
+    -> is-cast-iron-non-stick
+    -> is-cookware-made-in-china-safe
+    -> is-enameled-cast-iron-dishwasher-safe
+    -> is-enameled-cast-iron-non-stick
+    -> is-enameled-cast-iron-safe
+    -> is-lodge-cast-iron-made-in-china
+    -> is-non-stick-cookware-safe
+    -> metal-utensils-on-enameled-cast-iron
+    -> non-stick-vs-stainless-steel
+    -> oem-knife-manufacturers
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-kitchen-tools-accessories
+    -> pillar-knife-history-traditions
+    -> pillar-pocket-outdoor-knives
+    -> pillar-types-of-kitchen-knives
+    -> what-is-enameled-cast-iron
+
+pillar-best-cutting-board-material.html:
+  Total internal links: 38
+    -> acacia-wood-vs-teak
+    -> are-glass-cutting-boards-good
+    -> are-marble-cutting-boards-good
+    -> are-plastic-cutting-boards-safe
+    -> are-wood-cutting-boards-sanitary
+    -> bamboo-vs-wood-cutting-board
+    -> best-cookware-material-for-gas-stove
+    -> best-cutting-board-for-knives
+    -> best-wood-for-charcuterie-board
+    -> best-wood-for-cutting-board
+    -> butcher-block-vs-cutting-board
+    -> charcuterie-board-vs-cutting-board
+    -> cutting-board-sizes
+    -> https://leeknives.com/contact/
+    -> hub
+    -> is-acacia-wood-good-for-cutting-boards
+    -> is-alder-good-for-cutting-boards
+    -> is-ash-good-for-cutting-boards
+    -> is-bamboo-good-for-cutting-boards
+    -> is-birch-good-for-cutting-boards
+    -> is-cedar-good-for-cutting-boards
+    -> is-cherry-good-for-cutting-boards
+    -> is-mahogany-good-for-cutting-boards
+    -> is-oak-good-for-cutting-boards
+    -> is-poplar-good-for-cutting-boards
+    -> is-teak-good-for-cutting-boards
+    -> is-walnut-good-for-cutting-boards
+    -> is-zebra-wood-good-for-cutting-boards
+    -> most-sanitary-cutting-board
+    -> oem-knife-manufacturers
+    -> pillar-best-cookware-material
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-to-care-for-knives
+    -> pillar-kitchen-tools-accessories
+    -> pillar-knife-history-traditions
+    -> pillar-types-of-kitchen-knives
+    -> types-of-cutting-boards
+    -> wood-vs-plastic-cutting-board
+
+pillar-carbon-steels.html:
+  Total internal links: 32
+    -> 1055-steel
+    -> 1084-steel-review
+    -> 1095-steel
+    -> 1095-steel-review
+    -> 52100-steel
+    -> 52100-steel-review
+    -> aogami-2-blue-paper-steel-steel-review
+    -> carbon-steel-patina
+    -> forged-vs-stamped-knives
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/contact/?steel=1075&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=1084&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=1095&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=15n20&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=5160&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=52100&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=aogami2&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=aogami_super&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=shirogami1&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/contact/?steel=w2&amp;utm_source=carbon_pillar
+    -> https://leeknives.com/types-of-hunting-knives/
+    -> hub
+    -> pillar-cross-family-comparisons
+    -> pillar-damascus-layered
+    -> pillar-powder-metallurgy-steels
+    -> pillar-stainless-steels
+    -> pillar-tool-semi-stainless
+    -> private-label-knife-manufacturers
+    -> shirogami-1-white-paper-steel-steel-review
+    -> w2-steel-review
+
+pillar-cross-family-comparisons.html:
+  Total internal links: 22
+    -> 14c28n-vs-d2
+    -> 420-steel
+    -> 420hc-vs-s30v
+    -> 8cr13mov
+    -> 8cr13mov-vs-440c
+    -> Japanese-steel
+    -> a2-steel
+    -> aus-8-vs-d2
+    -> d2-vs-s30v
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/knife-sharpener-manufacturers/
+    -> hub
+    -> nitro-v-steel
+    -> pillar-carbon-steels
+    -> pillar-powder-metallurgy-steels
+    -> pillar-stainless-steels
+    -> s30v-steel
+    -> s30v-vs-s35vn
+    -> s30v-vs-s90v
+    -> s35vn-vs-m390
+    -> sg2-steel
+    -> why-damascus-steel-so-expensive
+
+pillar-damascus-layered.html:
+  Total internal links: 23
+    -> ceramic-vs-steel-knife
+    -> custom-cookware-manufacturers
+    -> damascus-patterns
+    -> damasteel-vs-damascus
+    -> how-is-damascus-steel-made
+    -> how-to-tell-if-damascus-is-real
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/contact/?construction=damascus_vg10&amp;utm_source=damascus_pillar
+    -> https://leeknives.com/contact/?construction=damasteel&amp;utm_source=damascus_pillar
+    -> https://leeknives.com/contact/?construction=pattern_welded&amp;utm_source=damascus_pillar
+    -> https://leeknives.com/contact/?construction=sanmai&amp;utm_source=damascus_pillar
+    -> https://leeknives.com/contact/?construction=sg2_damascus&amp;utm_source=damascus_pillar
+    -> hub
+    -> is-damascus-steel-strong
+    -> layered-steel-knife
+    -> pillar-powder-metallurgy-steels
+    -> pillar-tool-semi-stainless
+    -> private-label-knife-manufacturers
+    -> rwl-34-steel
+    -> san-mai
+    -> sg2-steel
+    -> sg2-steel-review
+    -> what-is-damascus-steel
+
+pillar-european-knife-regions.html:
+  Total internal links: 15
+    -> 1-4116-steel
+    -> 12c27-steel
+    -> boning-knife-vs-fillet-knife
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/
+    -> https://leeknives.com/contact/
+    -> hub
+    -> japanese-vs-german-knives
+    -> oem-knife-manufacturers
+    -> pillar-american-knife-companies
+    -> pillar-global-knife-sourcing
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-japanese-knife-brands
+    -> pillar-stainless-steels
+    -> slicing-knife-vs-carving-knife
+    -> x50crmov15
+
+pillar-global-knife-sourcing.html:
+  Total internal links: 12
+    -> 5cr15mov
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/where-is-caraway-cookware-manufactured/
+    -> hub
+    -> pillar-american-knife-companies
+    -> pillar-european-knife-regions
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-japanese-knife-brands
+    -> pillar-yangjiang-oem-guide
+    -> s30v-steel
+    -> sg2-steel
+    -> x50crmov15
+
+pillar-how-kitchen-knives-are-made.html:
+  Total internal links: 10
+    -> 5cr15mov
+    -> forged-vs-stamped-knives
+    -> heat-treating-knives
+    -> https://leeknives.com/contact/
+    -> hub
+    -> knife-testing
+    -> pillar-how-to-care-for-knives
+    -> pillar-pocket-outdoor-knives
+    -> quenching
+    -> rockwell-hardness-scale
+
+pillar-how-to-care-for-knives.html:
+  Total internal links: 15
+    -> honing-vs-sharpening
+    -> https://leeknives.com/contact/
+    -> hub
+    -> k390-steel
+    -> knife-sharpening-angle
+    -> knife-sharpness-test
+    -> oem-knife-manufacturers
+    -> pillar-kitchen-tools-accessories
+    -> pillar-pocket-outdoor-knives
+    -> pillar-types-of-kitchen-knives
+    -> s90v-steel
+    -> types-of-sharpening-stones
+    -> what-is-a-whetstone
+    -> whetstone-grit
+    -> whetstone-vs-sharpener
+
+pillar-how-to-start-a-knife-brand.html:
+  Total internal links: 11
+    -> dropship-knives
+    -> frame-lock-vs-liner-lock
+    -> how-to-buy-knives-wholesale
+    -> https://leeknives.com/contact/
+    -> hub
+    -> pillar-cross-family-comparisons
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-to-care-for-knives
+    -> pillar-stainless-steels
+    -> pillar-types-of-kitchen-knives
+    -> selling-knives-online
+
+pillar-japanese-knife-brands.html:
+  Total internal links: 13
+    -> 5cr15mov
+    -> gyuto-guide
+    -> gyuto-vs-santoku
+    -> https://leeknives.com/contact/
+    -> hub
+    -> japanese-knife-types
+    -> japanese-vs-german-knives
+    -> pillar-carbon-steels
+    -> pillar-damascus-layered
+    -> pillar-stainless-steels
+    -> san-mai
+    -> sg2-steel
+    -> shirogami-vs-aogami
+
+pillar-kitchen-tools-accessories.html:
+  Total internal links: 29
+    -> best-cookware-material-for-gas-stove
+    -> best-leather-for-knife-sheath
+    -> best-wood-for-knife-handles
+    -> chukabocho-cleaver-guide
+    -> g10-material
+    -> granton-edge
+    -> guide-to-knife-handle-material
+    -> https://leeknives.com/contact/
+    -> hub
+    -> kitchen-knife-handle
+    -> kitchen-knife-parts-and-anatomy
+    -> knife-balance
+    -> knife-handle-designs
+    -> micarta-material
+    -> micarta-vs-g10
+    -> oem-knife-manufacturers
+    -> pakkawood
+    -> pankiri-guide
+    -> pillar-best-cookware-material
+    -> pillar-best-cutting-board-material
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-to-care-for-knives
+    -> pillar-types-of-kitchen-knives
+    -> types-of-flatware
+    -> types-of-sheaths
+    -> ultem-material
+    -> unagisaki-eel-knife-guide
+    -> wa-handle
+    -> what-is-stabilized-wood
+
+pillar-knife-history-traditions.html:
+  Total internal links: 22
+    -> 1095-steel
+    -> 440c-steel
+    -> 65mn-steel
+    -> ats-34-steel
+    -> carbon-steel-vs-stainless-steel-knife
+    -> forged-vs-stamped-knives
+    -> how-is-damascus-steel-made
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/what-is-a-bowie-knife/
+    -> hub
+    -> pattern-welding
+    -> pillar-american-knife-companies
+    -> pillar-how-kitchen-knives-are-made
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-japanese-knife-brands
+    -> pillar-pocket-outdoor-knives
+    -> pillar-stainless-steels
+    -> pillar-types-of-kitchen-knives
+    -> rockwell-hardness-scale
+    -> s30v-steel
+    -> wootz-steel-vs-damascus
+    -> x50crmov15
+
+pillar-pocket-outdoor-knives.html:
+  Total internal links: 29
+    -> 1095-steel
+    -> 154cm-steel
+    -> 420-steel
+    -> 440c-steel
+    -> 5cr15mov
+    -> 8cr13mov
+    -> best-pocket-knife-steels
+    -> cai-dao
+    -> carving-knife-guide
+    -> chinese-cleaver
+    -> clip-point-blade
+    -> drop-point-blade
+    -> frn-handle
+    -> https://leeknives.com/contact/
+    -> hub
+    -> knife-blade-shapes-guide
+    -> knife-grinds-guide
+    -> knife-lock-types-guide
+    -> knife-opening-mechanisms-guide
+    -> lc200n-steel
+    -> meat-cleaver-guide
+    -> oem-knife-manufacturers
+    -> paring-knife-guide
+    -> pillar-how-to-care-for-knives
+    -> pillar-types-of-kitchen-knives
+    -> pocket-knife-anatomy
+    -> s30v-steel
+    -> what-are-automatic-knives
+    -> what-are-switchblades
+
+pillar-powder-metallurgy-steels.html:
+  Total internal links: 38
+    -> 154cm-steel
+    -> 20cv-steel
+    -> ats-34-steel
+    -> cpm-spy27
+    -> cts-204p-steel
+    -> cts-bd1-steel
+    -> cts-xhp-steel
+    -> elmax-steel
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/contact/?steel=cts204p&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=elmax&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=m390&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=magnacut&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=rwl34&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=s30v&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=s35vn&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=s45vn&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=s90v&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=sg2&amp;utm_source=pm_pillar
+    -> https://leeknives.com/contact/?steel=zdp189&amp;utm_source=pm_pillar
+    -> hub
+    -> m390-steel-review
+    -> magnacut-steel
+    -> pillar-damascus-layered
+    -> pillar-stainless-steels
+    -> pillar-tool-semi-stainless
+    -> private-label-knife-manufacturers
+    -> rex-45-steel
+    -> rwl-34-steel
+    -> s30v-steel
+    -> s35vn-steel-review
+    -> s35vn-vs-d2
+    -> s45vn-steel-review
+    -> s90v-steel
+    -> sg2-steel
+    -> sg2-steel-review
+    -> types-of-kitchen-knives
+    -> zdp-189-steel-review
+
+pillar-stainless-steels.html:
+  Total internal links: 40
+    -> 1-4116-steel
+    -> 10cr15comov
+    -> 14c28n-steel
+    -> 14c28n-steel-review
+    -> 154cm-steel
+    -> 420-steel
+    -> 420j2-steel
+    -> 440c-steel
+    -> 5cr15mov
+    -> 5cr15mov-steel-review
+    -> 8cr13mov
+    -> aeb-l-steel
+    -> aus-10-steel
+    -> aus-6-steel
+    -> butcher-knife-guide
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/contact/?steel=14c28n&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=420hc&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=440c&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=5cr15&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=cpm154&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=lc200n&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=n690&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=nitrov&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=vg10&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/contact/?steel=x50crmov15&amp;utm_source=stainless_pillar
+    -> https://leeknives.com/martensitic-stainless-steel/
+    -> https://leeknives.com/types-of-hunting-knives/
+    -> hub
+    -> lc200n-steel
+    -> n690-steel-review
+    -> nitro-v-steel
+    -> pillar-powder-metallurgy-steels
+    -> pillar-tool-semi-stainless
+    -> private-label-knife-manufacturers
+    -> s125v-steel
+    -> s30v-steel
+    -> types-of-kitchen-knives
+    -> vg-10-steel-review
+    -> x50crmov15
+
+pillar-tool-semi-stainless.html:
+  Total internal links: 30
+    -> 12c27-steel
+    -> 3v-steel
+    -> 8cr13mov
+    -> a2-tool-steel
+    -> bg42-steel
+    -> cruwear-steel
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/contact/?steel=12c27&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=a2&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=cpm3v&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=cpmm4&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=d2&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=niolox&amp;utm_source=tool_pillar
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=tool_pillar
+    -> https://leeknives.com/martensitic-stainless-steel/
+    -> https://leeknives.com/types-of-hunting-knives/
+    -> hub
+    -> k110-steel
+    -> k110-steel-guide
+    -> k390-steel
+    -> m4-steel
+    -> maxamet
+    -> niolox-steel
+    -> o1-tool-steel
+    -> pillar-carbon-steels
+    -> pillar-powder-metallurgy-steels
+    -> pillar-stainless-steels
+    -> private-label-knife-manufacturers
+    -> s125v-steel
+    -> vanadis-4e
+
+pillar-types-of-kitchen-knives.html:
+  Total internal links: 39
+    -> boning-knife-guide
+    -> bread-knife-guide
+    -> bunka-guide
+    -> cheese-knife-guide
+    -> chef-knife-guide
+    -> deba-guide
+    -> fillet-knife-guide
+    -> gyuto-guide
+    -> gyuto-vs-chef-knife
+    -> gyuto-vs-santoku
+    -> honesuki-guide
+    -> https://leeknives.com/contact/
+    -> hub
+    -> japanese-knife-types
+    -> kiritsuke-guide
+    -> kiritsuke-vs-gyuto-vs-chef-knife
+    -> kitchen-knife-handle
+    -> kitchen-knife-parts-and-anatomy
+    -> knife-bevel-single-or-double
+    -> knife-bolster
+    -> knife-tang-full-or-partial
+    -> nakiri-guide
+    -> nakiri-vs-santoku
+    -> oem-knife-manufacturers
+    -> petty-knife-guide
+    -> pillar-how-to-care-for-knives
+    -> pillar-pocket-outdoor-knives
+    -> santoku-vs-chef-knife
+    -> serrated-vs-non-serrated-steak-knives
+    -> slicing-knife-guide
+    -> sujihiki-guide
+    -> sujihiki-vs-yanagiba
+    -> tourne-knife-guide
+    -> ulu-knife-guide
+    -> usuba-vs-nakiri
+    -> utility-knife-guide
+    -> utility-knife-vs-paring-knife
+    -> wharncliffe-blade
+    -> yanagiba-guide
+
+pillar-yangjiang-oem-guide.html:
+  Total internal links: 14
+    -> 14c28n-steel
+    -> 5cr15mov
+    -> 7cr17mov
+    -> 9cr18mov
+    -> how-to-buy-knives-wholesale
+    -> https://leeknives.com/contact/
+    -> https://leeknives.com/yangjiang-knives-history/
+    -> hub
+    -> pillar-carbon-steels
+    -> pillar-cross-family-comparisons
+    -> pillar-global-knife-sourcing
+    -> pillar-how-to-start-a-knife-brand
+    -> pillar-stainless-steels
+    -> shirogami-vs-aogami
+
+--------------------------------------------------------------------------------
+SECTION 3: MOST FREQUENTLY LINKED TARGETS
+--------------------------------------------------------------------------------
+
+   21x  -> https://leeknives.com/contact/
+   21x  -> hub
+   11x  -> pillar-stainless-steels
+    8x  -> pillar-types-of-kitchen-knives
+    7x  -> pillar-how-to-care-for-knives
+    7x  -> pillar-how-to-start-a-knife-brand
+    7x  -> s30v-steel
+    7x  -> oem-knife-manufacturers
+    6x  -> pillar-carbon-steels
+    6x  -> pillar-how-kitchen-knives-are-made
+    6x  -> pillar-pocket-outdoor-knives
+    6x  -> pillar-powder-metallurgy-steels
+    6x  -> 5cr15mov
+    5x  -> pillar-tool-semi-stainless
+    5x  -> private-label-knife-manufacturers
+    5x  -> sg2-steel
+    4x  -> pillar-american-knife-companies
+    4x  -> pillar-cross-family-comparisons
+    4x  -> pillar-damascus-layered
+    4x  -> pillar-japanese-knife-brands
+    4x  -> pillar-kitchen-tools-accessories
+    4x  -> 8cr13mov
+    4x  -> x50crmov15
+    3x  -> 14c28n-steel
+    3x  -> nitro-v-steel
+    3x  -> pillar-best-cookware-material
+    3x  -> pillar-global-knife-sourcing
+    3x  -> pillar-knife-history-traditions
+    3x  -> san-mai
+    3x  -> sg2-steel-review
+    3x  -> https://leeknives.com/best-custom-knife-makers-in-texas/
+    3x  -> s90v-steel
+    3x  -> shirogami-vs-aogami
+    3x  -> 1095-steel
+    3x  -> forged-vs-stamped-knives
+    3x  -> https://leeknives.com/types-of-hunting-knives/
+    3x  -> 420-steel
+    3x  -> 440c-steel
+    3x  -> 154cm-steel
+    2x  -> 1095-steel-review
+    2x  -> 14c28n-steel-review
+    2x  -> 5cr15mov-steel-review
+    2x  -> a2-tool-steel
+    2x  -> damasteel-vs-damascus
+    2x  -> k110-steel-guide
+    2x  -> m390-steel-review
+    2x  -> magnacut-steel
+    2x  -> pillar-best-cutting-board-material
+    2x  -> pillar-european-knife-regions
+    2x  -> pillar-yangjiang-oem-guide
+
+--------------------------------------------------------------------------------
+SECTION 4: HTML FILES WITH NO INTERNAL LINKS
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+SECTION 5: MANDATORY LINKS vs LOCAL HTML COVERAGE
+--------------------------------------------------------------------------------
+
+[Project 1] vg 10 steel
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 2] zdp 189 steel
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 3] aus 8 steel
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 4] sg2 steel
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 5] shirogami vs aogami
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 6] ats 34 steel
+  [NOT FOUND in local HTML] Japanese steel
+
+[Project 26] carbon steel vs stainless steel knife
+  [NOT FOUND in local HTML] carbon steel knife care
+  [NOT FOUND in local HTML] carbon steel patina
+
+[Project 30] best steel for kitchen knives
+  [NOT FOUND in local HTML] knife steel types
+  [NOT FOUND in local HTML] best steel for knife making
+  [NOT FOUND in local HTML] types of steel for knives
+  [NOT FOUND in local HTML] best steel for chef knife
+  [NOT FOUND in local HTML] best blade material for kitchen knives
+  [NOT FOUND in local HTML] best high carbon steel for kitchen knives
+
+[Project 34] kitchen knife handle
+  [FOUND] pakkawood
+
+[Project 37] pakkawood
+  [NOT FOUND in local HTML] kitchen knife handle
+
+[Project 38] Japanese steel
+  [NOT FOUND in local HTML] vg 10 steelzdp 189 steelaus 8 steelsg2 steelshirogami vs aogamiats 34 steel
+
+[Project 39] damascus patterns
+  [NOT FOUND in local HTML] what is damascus steel
+
+[Project 41] carbon steel knife care
+  [NOT FOUND in local HTML] carbon steel vs stainless steel knife
+
+[Project 42] carbon steel patina
+  [NOT FOUND in local HTML] carbon steel vs stainless steel knife
+
+[Project 44] dropship knives
+  [NOT FOUND in local HTML] dropship knives服务页
+
+[Project 45] private label knife manufacturers
+  [NOT FOUND in local HTML] private label knife服务页
+
+[Project 46] oem knife manufacturers
+  [NOT FOUND in local HTML] oem knife服务页
+
+[Project 49] japanese vs german knives
+  [NOT FOUND in local HTML] https://leeknives.com/japanese-kitchen-knives/
+  [NOT FOUND in local HTML] https://leeknives.com/western-kitchen-knives/
+
+[Project 50] chinese cleaver
+  [FOUND] https://leeknives.com/chinese-cleavers/
+
+[Project 51] cai dao
+  [FOUND] https://leeknives.com/chinese-cleavers/
+
+[Project 53] japanese knife types
+  [NOT FOUND in local HTML] cluster pages and corresponding category pages
+
+[Project 77] 10cr15comov
+  [FOUND] https://leeknives.com/blade-material/10cr15comov/
+
+[Project 80] types of kitchen knives
+  [NOT FOUND in local HTML] 17 cluster pages (including project 50) and corresponding category pages
+
+[Project 81] chef knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 82] utility knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 83] utility knife vs paring knife
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 84] paring knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 85] bread knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 86] boning knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 87] fillet knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 88] boning knife vs fillet knife
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 89] carving knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 90] carving knife vs chef knife
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 91] slicing knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 92] slicing knife vs carving knife
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 93] what is a meat cleaver
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 94] butcher knife uses
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 95] steak knives serrated or not
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 96] what is a tourne knife used for
+  [NOT FOUND in local HTML] the pillar page
+
+[Project 293] best axe brands
+  [NOT FOUND in local HTML] axe makers
+
+[Project 312] famous american knife makers
+  [NOT FOUND in local HTML] oem knife服务页

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Background Test</title>
+<link href="nichehub-core.css" rel="stylesheet">
+<style>
+body { margin: 0; font-family: sans-serif; }
+</style>
+</head>
+<body>
+<button class="toc-toggle" aria-label="Toggle table of contents" onclick="var t=document.querySelector('.toc-wrap'),b=this;t&amp;&amp;(t.classList.toggle('open'),b.classList.toggle('open'))">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+</button>
+
+<header style="background-image: url('https://img.leeknives.com/wp-content/uploads/2022/06/The-blacksmith-manually-forging-the-red-hot-metal-on-the-anvil-in-smithy-with-spark-fireworks..jpg');">
+<div class="container">
+<h1>Test Header</h1>
+<p class="hero-lead">If you can see the forge background image behind this text, it is working.</p>
+</div>
+</header>
+<div style="padding: 40px; text-align: center;">
+<p>Open browser DevTools (F12) → Elements → select header</p>
+<p>Check Computed styles for background-image</p>
+</div>
+<script>
+(function(){
+  var toc=document.querySelector('.toc-wrap'),toggle=document.querySelector('.toc-toggle');
+  if(!toc&&toggle)toggle.style.display='none';
+  document.addEventListener('click',function(e){
+    if(toc&&toc.classList.contains('open')&&!toc.contains(e.target)&&!toggle.contains(e.target)){
+      toc.classList.remove('open');toggle.classList.remove('open');
+    }
+  });
+})();
+</script>
+</body>
+</html>

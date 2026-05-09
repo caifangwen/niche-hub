@@ -1,0 +1,873 @@
+==========================================================================================
+段落级内链插入详细计划（改进版）
+==========================================================================================
+
+原则：
+1. 只在语义相关的正文段落中插入
+2. 锚文本自然，不生硬中断句子
+3. 优先在介绍性段落（intro-narrative）和描述性段落（p.link-para / p.section-sub）中插入
+4. 同一文件中相邻段落不连续插入
+
+------------------------------------------------------------------------------------------
+【目标文件】hub.html
+  可用段落数: 75
+  需插入博客数: 2
+------------------------------------------------------------------------------------------
+
+博客: best-cutting-board-material
+  关键词: best cutting board material
+  所属分类: 
+  匹配理由: keyword "cutting", keyword "board", keyword "material"
+  目标段落类型: link-para
+  段落原文:
+    "Choose the right species in wood cutting boards, understand construction trade-offs in edge grain vs end grain, and comp..."
+  建议锚文本: "best cutting board material"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best cutting board material ..."
+
+博客: spay-blade
+  关键词: spey blade
+  所属分类: 
+  匹配理由: keyword "blade", descriptive paragraph
+  目标段落类型: link-para
+  段落原文:
+    "Carbon steels remain popular for users who value a keen edge and easy field maintenance. 1095 endures in commercial prod..."
+  建议锚文本: "spey blade"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... spey blade ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-american-knife-companies.html
+  可用段落数: 44
+  需插入博客数: 7
+------------------------------------------------------------------------------------------
+
+博客: d2-steel
+  关键词: d2 steel
+  所属分类: American & Premium Steels
+  匹配理由: keyword "steel", keyword "american", keyword "steels"
+  目标段落类型: narrative-content
+  段落原文:
+    "American knife making carries two distinct identities: the precision production culture of Oregon, where CNC machining a..."
+  建议锚文本: "d2 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... d2 steel ..."
+
+博客: s35vn-steel
+  关键词: s35vn steel
+  所属分类: American & Premium Steels
+  匹配理由: keyword "steel", keyword "american", keyword "steels"
+  目标段落类型: plain-p
+  段落原文:
+    "American knife making carries two distinct identities: the precision production culture of Oregon, where CNC machining a..."
+  建议锚文本: "s35vn steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... s35vn steel ..."
+
+博客: cpm-s45vn
+  关键词: cpm s45vn
+  所属分类: American & Premium Steels
+  匹配理由: keyword "american", keyword "premium"
+  目标段落类型: plain-p
+  段落原文:
+    "Original Loveless knives command premium prices at auction, often reaching five figures. His influence extends far beyon..."
+  建议锚文本: "cpm s45vn"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... cpm s45vn ..."
+
+博客: nitro-v-steel-vs-s35vn
+  关键词: nitro v steel vs s35vn
+  所属分类: American & Premium Steels
+  匹配理由: keyword "steel", keyword "american", keyword "premium"
+  目标段落类型: plain-p
+  段落原文:
+    "American premium brands publish core steel grades. Undisclosed or "equivalent" claims erode trust."
+  建议锚文本: "nitro v steel vs s35vn"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... nitro v steel vs s35vn ..."
+
+博客: nitro-v-steel-vs-d2
+  关键词: nitro v steel vs d2
+  所属分类: American & Premium Steels
+  匹配理由: keyword "steel", keyword "american", keyword "premium"
+  目标段落类型: content-note
+  段落原文:
+    "Practical translation You do not need to match American retail prices to match American quality expectations. Many overs..."
+  建议锚文本: "nitro v steel vs d2"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... nitro v steel vs d2 ..."
+
+博客: h1-steel
+  关键词: h1 steel
+  所属分类: American & Premium Steels
+  匹配理由: keyword "steel", keyword "american", keyword "steels"
+  目标段落类型: plain-p
+  段落原文:
+    "Explore high-carbon steels favored by many American custom makers and heritage brands."
+  建议锚文本: "h1 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... h1 steel ..."
+
+博客: cpm-s110v
+  关键词: cpm s110v
+  所属分类: American & Premium Steels
+  匹配理由: keyword "american", descriptive paragraph
+  目标段落类型: hero-lead
+  段落原文:
+    "A regional guide to the most influential American knife companies and custom makers. From Oregon production powerhouses ..."
+  建议锚文本: "cpm s110v"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... cpm s110v ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-best-cookware-material.html
+  可用段落数: 51
+  需插入博客数: 2
+------------------------------------------------------------------------------------------
+
+博客: enameled-cast-iron-care
+  关键词: enameled cast iron care
+  所属分类: Enameled Cast Iron
+  匹配理由: keyword "enameled", keyword "cast", keyword "iron"
+  目标段落类型: narrative-content
+  段落原文:
+    "Cookware material selection is a trade-off between thermal performance, durability, weight, maintenance, and cost. A pro..."
+  建议锚文本: "enameled cast iron care"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... enameled cast iron care ..."
+
+博客: dutch-oven-manufacturers
+  关键词: dutch oven manufacturers
+  所属分类: Cookware Business & Sourcing
+  匹配理由: keyword "cookware", keyword "sourcing"
+  目标段落类型: plain-p
+  段落原文:
+    "This guide compares the six dominant cookware materials: cast iron, enameled cast iron, stainless steel, non-stick (PTFE..."
+  建议锚文本: "dutch oven manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... dutch oven manufacturers ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-best-cutting-board-material.html
+  可用段落数: 56
+  需插入博客数: 1
+------------------------------------------------------------------------------------------
+
+博客: face-grain-vs-edge-grain-vs-end-grain
+  关键词: edge grain vs end grain cutting board,
+face grain vs edge grain
+  所属分类: Construction & Grain Types
+  匹配理由: keyword "edge", keyword "grain", keyword "end"
+  目标段落类型: narrative-content
+  段落原文:
+    "Cutting boards are the most overlooked tool in the kitchen. A bad board dulls knives faster, harbors bacteria in deep sc..."
+  建议锚文本: "edge grain vs end grain cutting board,
+face grain vs edge grain"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... edge grain vs end grain cutting board,
+face grain vs edge grain ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-carbon-steels.html
+  可用段落数: 44
+  需插入博客数: 1
+------------------------------------------------------------------------------------------
+
+博客: w2-steel
+  关键词: w2 steel
+  所属分类: Carbon & Tool Steels
+  匹配理由: keyword "steel", keyword "carbon", keyword "tool"
+  目标段落类型: steel-card-lead
+  段落原文:
+    "W2 is a water-hardening tool steel in the AISI W-series, characterized by its high carbon content (~1.0%) and trace vana..."
+  建议锚文本: "w2 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... w2 steel ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-cross-family-comparisons.html
+  可用段落数: 53
+  需插入博客数: 1
+------------------------------------------------------------------------------------------
+
+博客: powder-steel
+  关键词: powder steel
+  所属分类: Steel Science & Selection
+  匹配理由: keyword "powder", keyword "steel", keyword "steel"
+  目标段落类型: section-sub
+  段落原文:
+    "Powder metallurgy steels compared head-to-head for flagship and high-end product lines."
+  建议锚文本: "powder steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... powder steel ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-european-knife-regions.html
+  可用段落数: 33
+  需插入博客数: 2
+------------------------------------------------------------------------------------------
+
+博客: n690-steel
+  关键词: n690 steel
+  所属分类: German & European Steels
+  匹配理由: keyword "steel", keyword "european", keyword "steels"
+  目标段落类型: plain-p
+  段落原文:
+    "X50CrMoV15, VG-10, 14C28N, and other steels common in European and global production."
+  建议锚文本: "n690 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... n690 steel ..."
+
+博客: nitro-v-vs-14c28n
+  关键词: nitro v vs 14c28n
+  所属分类: German & European Steels
+  匹配理由: keyword "german", keyword "european", descriptive paragraph
+  目标段落类型: narrative-content
+  段落原文:
+    "European cutlery carries a weight of history that shapes modern perceptions. When a consumer sees "Made in Solingen" or ..."
+  建议锚文本: "nitro v vs 14c28n"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... nitro v vs 14c28n ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-global-knife-sourcing.html
+  可用段落数: 38
+  需插入博客数: 14
+------------------------------------------------------------------------------------------
+
+博客: axe-manufacturers
+  关键词: axe manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "sourcing", keyword "oem", descriptive paragraph
+  目标段落类型: narrative-content
+  段落原文:
+    "Every major knife-producing region has developed a distinct competitive profile. Japan's Seki and Sakai are synonymous w..."
+  建议锚文本: "axe manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... axe manufacturers ..."
+
+博客: au-axe-manufacturers
+  关键词: australian axe manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "oem"
+  目标段落类型: stat-desc
+  段落原文:
+    "MOQs range from 300 pieces per SKU in China to 1,000+ in Germany and Japan, with the USA rarely open to OEM."
+  建议锚文本: "australian axe manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... australian axe manufacturers ..."
+
+博客: axe-manufacturers-uk
+  关键词: axe manufacturers uk
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "oem"
+  目标段落类型: plain-p
+  段落原文:
+    "China dominates global knife manufacturing by volume and offers the most flexible OEM terms. Japan and Germany lead on p..."
+  建议锚文本: "axe manufacturers uk"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... axe manufacturers uk ..."
+
+博客: china-axe-suppliers
+  关键词: china axe supplier
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "china", keyword "oem"
+  目标段落类型: plain-p
+  段落原文:
+    "Every major knife-producing region has developed a distinct competitive profile. Japan's Seki and Sakai are synonymous w..."
+  建议锚文本: "china axe supplier"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... china axe supplier ..."
+
+博客: china-kitchen-utensil-manufacturers
+  关键词: kitchen utensils manufacturers in china
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "kitchen", keyword "china"
+  目标段落类型: plain-p
+  段落原文:
+    "Yangjiang produces the majority of the world's mid-market kitchen and EDC knives. Unmatched scale, material flexibility,..."
+  建议锚文本: "kitchen utensils manufacturers in china"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... kitchen utensils manufacturers in china ..."
+
+博客: silicone-kitchen-utensil-manufacturers
+  关键词: silicone kitchen utensils manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "sourcing"
+  目标段落类型: plain-p
+  段落原文:
+    "This guide is built for product teams, sourcing managers, and brand founders who need to choose a manufacturing region. ..."
+  建议锚文本: "silicone kitchen utensils manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... silicone kitchen utensils manufacturers ..."
+
+博客: stainless-steel-utensil-manufacturers
+  关键词: stainless steel utensils manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "steel", keyword "sourcing", steel context
+  目标段落类型: plain-p
+  段落原文:
+    "Factory tiers, steel options, MOQ negotiation, and quality control for China knife sourcing."
+  建议锚文本: "stainless steel utensils manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... stainless steel utensils manufacturers ..."
+
+博客: bamboo-utensil-manufacturers
+  关键词: bamboo utensils manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "sourcing"
+  目标段落类型: section-sub
+  段落原文:
+    "The four dominant knife manufacturing regions each occupy a distinct position in the global market. Understanding their ..."
+  建议锚文本: "bamboo utensils manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... bamboo utensils manufacturers ..."
+
+博客: wooden-utensil-manufacturers
+  关键词: wooden utensils manufacturers
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "oem"
+  目标段落类型: plain-p
+  段落原文:
+    "Oregon and Idaho host the densest concentration of premium production brands. American makers set global benchmarks for ..."
+  建议锚文本: "wooden utensils manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... wooden utensils manufacturers ..."
+
+博客: best-axe-brands
+  关键词: best axe brands
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "brands", keyword "oem"
+  目标段落类型: plain-p
+  段落原文:
+    "Most American brands do not accept third-party OEM. Custom collaborations possible at $60–$200+ per unit with long lead ..."
+  建议锚文本: "best axe brands"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best axe brands ..."
+
+博客: types-of-axes
+  关键词: types of axes
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "oem"
+  目标段落类型: plain-p
+  段落原文:
+    "American production brands set the global standard for blade centering, lock engagement, and handle tolerance. Use as a ..."
+  建议锚文本: "types of axes"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... types of axes ..."
+
+博客: throwing-axes
+  关键词: throwing axes
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "sourcing"
+  目标段落类型: plain-p
+  段落原文:
+    "Solingen, Thiers, Albacete, and Sheffield — heritage, brands, and sourcing perspectives."
+  建议锚文本: "throwing axes"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... throwing axes ..."
+
+博客: how-coolina-knives-are-made
+  关键词: how coolina knives are made
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "are", descriptive paragraph
+  目标段落类型: hero-lead
+  段落原文:
+    "A strategic overview of the world's major knife manufacturing regions. Compare Japan, Germany, the United States, and Ch..."
+  建议锚文本: "how coolina knives are made"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... how coolina knives are made ..."
+
+博客: serbian-chef-knife
+  关键词: serbian chef knife
+  所属分类: Sourcing & OEM
+  匹配理由: keyword "chef", keyword "knife", knife context
+  目标段落类型: plain-p
+  段落原文:
+    "Your retail price determines which regions are economically viable. A $25 retail chef knife cannot absorb Japanese or Ge..."
+  建议锚文本: "serbian chef knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... serbian chef knife ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-how-kitchen-knives-are-made.html
+  可用段落数: 55
+  需插入博客数: 9
+------------------------------------------------------------------------------------------
+
+博客: how-are-knives-made
+  关键词: how are knives made
+  所属分类: Manufacturing Processes
+  匹配理由: keyword "are", keyword "knives", descriptive paragraph
+  目标段落类型: process-lead
+  段落原文:
+    "Honing establishes the cutting apex. A coarse edge (hundreds of grit) bites aggressively but dulls faster. A fine edge (..."
+  建议锚文本: "how are knives made"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... how are knives made ..."
+
+博客: reverse-tanto-blade
+  关键词: reverse tanto
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", keyword "construction", descriptive paragraph
+  目标段落类型: narrative-content
+  段落原文:
+    "A kitchen knife is a system. The blade steel provides the foundation, but heat treatment activates that steel's potentia..."
+  建议锚文本: "reverse tanto"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... reverse tanto ..."
+
+博客: tanto-blade
+  关键词: tanto blade
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", keyword "blade", keyword "construction"
+  目标段落类型: plain-p
+  段落原文:
+    "A kitchen knife is a system. The blade steel provides the foundation, but heat treatment activates that steel's potentia..."
+  建议锚文本: "tanto blade"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... tanto blade ..."
+
+博客: tanto-vs-reverse-tanto
+  关键词: tanto vs reverse tanto
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", descriptive paragraph
+  目标段落类型: process-lead
+  段落原文:
+    "Most kitchen knives begin as either a hot-forged blank or a laser/precision-stamped blank. Forging aligns grain structur..."
+  建议锚文本: "tanto vs reverse tanto"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... tanto vs reverse tanto ..."
+
+博客: clip-point-vs-drop-point
+  关键词: clip point vs drop point
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "point", keyword "point"
+  目标段落类型: section-sub
+  段落原文:
+    "QC is not a final stage — it is a gate at every stage. These are the checkpoints that separate consistent programs from ..."
+  建议锚文本: "clip point vs drop point"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... clip point vs drop point ..."
+
+博客: sheepfoot-blade
+  关键词: sheepfoot blade
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", keyword "blade", descriptive paragraph
+  目标段落类型: process-lead
+  段落原文:
+    "Grinding transforms the heat-treated blank into a blade profile. This stage controls spine thickness, bevel angle, edge ..."
+  建议锚文本: "sheepfoot blade"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... sheepfoot blade ..."
+
+博客: spear-point-blade
+  关键词: spear point blade
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", keyword "blade", descriptive paragraph
+  目标段落类型: process-lead
+  段落原文:
+    "The handle is the user's primary interface with the knife. A poorly designed or improperly attached handle creates fatig..."
+  建议锚文本: "spear point blade"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... spear point blade ..."
+
+博客: hawkbill-blade
+  关键词: hawkbill blade
+  所属分类: Blade Anatomy & Construction
+  匹配理由: keyword "blade", keyword "blade", descriptive paragraph
+  目标段落类型: process-lead
+  段落原文:
+    "Surface finish creates the blade's microscopic topography. A mirror polish reduces corrosion initiation sites and improv..."
+  建议锚文本: "hawkbill blade"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... hawkbill blade ..."
+
+博客: best-handforged-knife-blades
+  关键词: best handforged knife blades
+  所属分类: Manufacturing Processes
+  匹配理由: keyword "best", keyword "knife", keyword "manufacturing"
+  目标段落类型: section-sub
+  段落原文:
+    "Not every knife profile benefits from the same manufacturing approach. This quick-reference table matches common kitchen..."
+  建议锚文本: "best handforged knife blades"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best handforged knife blades ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-how-to-care-for-knives.html
+  可用段落数: 57
+  需插入博客数: 2
+------------------------------------------------------------------------------------------
+
+博客: carbon-steel-knife-care
+  关键词: carbon steel knife care
+  所属分类: Daily Care & Storage
+  匹配理由: keyword "carbon", keyword "steel", keyword "knife"
+  目标段落类型: plain-p
+  段落原文:
+    "Knife care is not complicated, but it is specific. The right sharpening system depends on steel hardness and user skill...."
+  建议锚文本: "carbon steel knife care"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... carbon steel knife care ..."
+
+博客: knife-sharpener-manufacturers
+  关键词: knife sharpener manufacturers
+  所属分类: Sharpening
+  匹配理由: keyword "knife", keyword "sharpening", knife context
+  目标段落类型: narrative-content
+  段落原文:
+    "Most knife "problems" are actually care problems. Dullness is usually delayed sharpening, not bad steel. Rust is usually..."
+  建议锚文本: "knife sharpener manufacturers"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... knife sharpener manufacturers ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-how-to-start-a-knife-brand.html
+  可用段落数: 70
+  需插入博客数: 3
+------------------------------------------------------------------------------------------
+
+博客: best-chinese-knife-brands
+  关键词: best chinese knife brands
+  所属分类: Business Planning
+  匹配理由: keyword "best", keyword "knife", keyword "brands"
+  目标段落类型: phase-lead
+  段落原文:
+    "Most kitchen knife OEM production is concentrated in Yangjiang (China), Seki City (Japan), and Solingen (Germany). Each ..."
+  建议锚文本: "best chinese knife brands"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best chinese knife brands ..."
+
+博客: best-knife-brands
+  关键词: best knife brands
+  所属分类: Business Planning
+  匹配理由: keyword "best", keyword "knife", keyword "brands"
+  目标段落类型: plain-p
+  段落原文:
+    "Heritage knife-making region with unmatched reputation for Japanese profiles. Higher costs, higher MOQs, and longer lead..."
+  建议锚文本: "best knife brands"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best knife brands ..."
+
+博客: best-handforged-knife-brands
+  关键词: best handforged knife brands
+  所属分类: Business Planning
+  匹配理由: keyword "best", keyword "knife", keyword "brands"
+  目标段落类型: plain-p
+  段落原文:
+    "Historic European knife capital. Strong brand association for Western-style kitchen knives. Highest cost tier. Best for ..."
+  建议锚文本: "best handforged knife brands"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best handforged knife brands ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-japanese-knife-brands.html
+  可用段落数: 42
+  需插入博客数: 4
+------------------------------------------------------------------------------------------
+
+博客: vg-10-steel
+  关键词: vg 10 steel
+  所属分类: Japanese Steels
+  匹配理由: keyword "steel", keyword "japanese", keyword "steels"
+  目标段落类型: hero-lead
+  段落原文:
+    "A regional guide to Japan's legendary knife-making regions: Seki, Sakai, Echizen, and Tsubame-Sanjo. From traditional si..."
+  建议锚文本: "vg 10 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... vg 10 steel ..."
+
+博客: zdp-189-steel
+  关键词: zdp 189 steel
+  所属分类: Japanese Steels
+  匹配理由: keyword "steel", keyword "japanese", keyword "steels"
+  目标段落类型: section-sub
+  段落原文:
+    "Japanese kitchen knives use a distinct set of steels, from traditional Hitachi carbon grades to modern powder metallurgy..."
+  建议锚文本: "zdp 189 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... zdp 189 steel ..."
+
+博客: aus-8-steel
+  关键词: aus 8 steel
+  所属分类: Japanese Steels
+  匹配理由: keyword "steel", keyword "japanese", keyword "steels"
+  目标段落类型: section-sub
+  段落原文:
+    "These product cards illustrate how Japanese knife types and steels translate into OEM line planning."
+  建议锚文本: "aus 8 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... aus 8 steel ..."
+
+博客: 8cr13mov-vs-aus-8
+  关键词: 8cr13mov vs aus 8
+  所属分类: Japanese Steels
+  匹配理由: keyword "japanese", keyword "steels"
+  目标段落类型: plain-p
+  段落原文:
+    "Deep dive into Shirogami and Aogami, the carbon steels central to traditional Japanese knives."
+  建议锚文本: "8cr13mov vs aus 8"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... 8cr13mov vs aus 8 ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-kitchen-tools-accessories.html
+  可用段落数: 70
+  需插入博客数: 4
+------------------------------------------------------------------------------------------
+
+博客: grivory-vs-g10
+  关键词: grivory vs g10
+  所属分类: Handle Materials & Design
+  匹配理由: keyword "handle", keyword "materials", keyword "design"
+  目标段落类型: section-sub
+  段落原文:
+    "Handle resources: Japanese wa-handle, handle designs, handle materials, stabilized wood, leather sheaths, types of sheat..."
+  建议锚文本: "grivory vs g10"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... grivory vs g10 ..."
+
+博客: boltaron-vs-kydex
+  关键词: boltaron vs kydex
+  所属分类: Handle Materials & Design
+  匹配理由: keyword "handle", keyword "materials"
+  目标段落类型: section-sub
+  段落原文:
+    "Handle materials: micarta vs G10, G10, micarta, ultem."
+  建议锚文本: "boltaron vs kydex"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... boltaron vs kydex ..."
+
+博客: colored-carbon-fiber
+  关键词: colored carbon fiber
+  所属分类: Handle Materials & Design
+  匹配理由: keyword "handle"
+  目标段落类型: plain-p
+  段落原文:
+    "Stropping leather, rust erasers, and handle oil."
+  建议锚文本: "colored carbon fiber"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... colored carbon fiber ..."
+
+博客: lexan-material
+  关键词: lexan material
+  所属分类: Handle Materials & Design
+  匹配理由: keyword "material", keyword "design"
+  目标段落类型: section-sub
+  段落原文:
+    "The traditional storage method. Blocks protect edges and organize sets, but material and design choices affect hygiene a..."
+  建议锚文本: "lexan material"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... lexan material ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-pocket-outdoor-knives.html
+  可用段落数: 73
+  需插入博客数: 3
+------------------------------------------------------------------------------------------
+
+博客: types-of-pocket-knives
+  关键词: types of pocket knives
+  所属分类: Knife Selection & Sets
+  匹配理由: keyword "types", keyword "pocket", keyword "knives"
+  目标段落类型: narrative-content
+  段落原文:
+    "Pocket knives and outdoor fixed blades represent a massive product category spanning everyday carry, hunting, camping, t..."
+  建议锚文本: "types of pocket knives"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... types of pocket knives ..."
+
+博客: bushcraft-vs-survival-knife
+  关键词: bushcraft vs survival knife
+  所属分类: Knife Selection & Sets
+  匹配理由: keyword "bushcraft", keyword "knife", keyword "knife"
+  目标段落类型: plain-p
+  段落原文:
+    "This guide covers the major pocket and outdoor knife categories: folding mechanisms and lock types, fixed-blade profiles..."
+  建议锚文本: "bushcraft vs survival knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... bushcraft vs survival knife ..."
+
+博客: pocket-knife-rules-laws
+  关键词: is it illegal to carry a pocket knife, pocket knife laws
+  所属分类: Legal & Compliance
+  匹配理由: keyword "carry", keyword "pocket", keyword "knife"
+  目标段落类型: plain-p
+  段落原文:
+    "Pocket and outdoor knives serve fundamentally different purposes than kitchen knives. EDC folders prioritize compact car..."
+  建议锚文本: "is it illegal to carry a pocket knife, pocket knife laws"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... is it illegal to carry a pocket knife, pocket knife laws ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-stainless-steels.html
+  可用段落数: 62
+  需插入博客数: 1
+------------------------------------------------------------------------------------------
+
+博客: 440a-steel
+  关键词: 440a steel
+  所属分类: Stainless / Budget Steels
+  匹配理由: keyword "steel", keyword "stainless", keyword "steels"
+  目标段落类型: hero-lead
+  段落原文:
+    "Stainless steels are the mainstream choice for kitchen knives because they reduce rust risk and support consistent mass ..."
+  建议锚文本: "440a steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... 440a steel ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-types-of-kitchen-knives.html
+  可用段落数: 67
+  需插入博客数: 12
+------------------------------------------------------------------------------------------
+
+博客: best-steel-for-kitchen-knives
+  关键词: best steel for kitchen knives
+  所属分类: parts of a knife
+  匹配理由: keyword "best", keyword "steel", keyword "for"
+  目标段落类型: narrative-content
+  段落原文:
+    "Kitchen knives are not interchangeable. A Western chef's knife and a Japanese gyuto may look similar to casual buyers, b..."
+  建议锚文本: "best steel for kitchen knives"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... best steel for kitchen knives ..."
+
+博客: carving-knife-vs-chef-knife
+  关键词: carving knife vs chef knife
+  所属分类: Western Specialty Knives
+  匹配理由: keyword "knife", keyword "chef", keyword "knife"
+  目标段落类型: plain-p
+  段落原文:
+    "Kitchen knives are not interchangeable. A Western chef's knife and a Japanese gyuto may look similar to casual buyers, b..."
+  建议锚文本: "carving knife vs chef knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... carving knife vs chef knife ..."
+
+博客: what-is-a-fixed-blade-knife
+  关键词: what is a fixed blade knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "blade", keyword "knife", keyword "japanese"
+  目标段落类型: content-note
+  段落原文:
+    "Japanese knife philosophy Where Western traditions favor one or two versatile knives, Japanese kitchen culture uses a la..."
+  建议锚文本: "what is a fixed blade knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... what is a fixed blade knife ..."
+
+博客: fixed-blade-vs-folding-knife
+  关键词: fixed blade vs folding knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "blade", keyword "knife", keyword "japanese"
+  目标段落类型: hero-lead
+  段落原文:
+    "Japanese, Western, Chinese cleavers, and specialty profiles — organized by use case, blade geometry, and sourcing consid..."
+  建议锚文本: "fixed blade vs folding knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... fixed blade vs folding knife ..."
+
+博客: pocket-knife-uses
+  关键词: pocket knife uses
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "knife", keyword "japanese", knife context
+  目标段落类型: stat-desc
+  段落原文:
+    "Western (German/French), Japanese (wa-bocho), and Chinese (caidao) knife families."
+  建议锚文本: "pocket knife uses"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... pocket knife uses ..."
+
+博客: hunting-knife-anatomy
+  关键词: parts of a hunting knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "knife", keyword "kitchen", knife context
+  目标段落类型: plain-p
+  段落原文:
+    "The "best" kitchen knife is the one whose profile, weight, and edge geometry match the user's cutting habits and mainten..."
+  建议锚文本: "parts of a hunting knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... parts of a hunting knife ..."
+
+博客: what-is-an-otf-knife
+  关键词: what is an otf knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "knife", keyword "kitchen", knife context
+  目标段落类型: section-sub
+  段落原文:
+    "German and French traditions dominate Western kitchen knife design. Heavier, more curved, and built for rocking cuts on ..."
+  建议锚文本: "what is an otf knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... what is an otf knife ..."
+
+博客: crossbar-lock
+  关键词: crossbar lock knives
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "knives", keyword "kitchen", keyword "knives"
+  目标段落类型: plain-p
+  段落原文:
+    "This guide organizes kitchen knives by tradition and use case. For each profile, we cover the blade shape, typical dimen..."
+  建议锚文本: "crossbar lock knives"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... crossbar lock knives ..."
+
+博客: how-to-carry-a-fixed-blade-knife
+  关键词: how to carry a fixed blade knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "blade", keyword "knife", keyword "kitchen"
+  目标段落类型: profile-desc
+  段落原文:
+    "The universal Western kitchen knife. Curved belly supports rocking cuts; tall blade provides knuckle clearance. Availabl..."
+  建议锚文本: "how to carry a fixed blade knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... how to carry a fixed blade knife ..."
+
+博客: super-steels
+  关键词: super steels
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "japanese"
+  目标段落类型: stat-desc
+  段落原文:
+    "Covering Western, Japanese, Chinese, and specialty categories in active production."
+  建议锚文本: "super steels"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... super steels ..."
+
+博客: types-of-switchblades
+  关键词: types of switchblades
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "types", keyword "japanese"
+  目标段落类型: section-sub
+  段落原文:
+    "Related guides: Japanese knife types, Gyuto vs Santoku, Gyuto vs Chef Knife, Santoku vs Chef Knife, Nakiri guide, Yanagi..."
+  建议锚文本: "types of switchblades"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... types of switchblades ..."
+
+博客: types-of-hunting-knives
+  关键词: types of hunting knife
+  所属分类: Japanese Kitchen Knives
+  匹配理由: keyword "knife", keyword "japanese"
+  目标段落类型: profile-desc
+  段落原文:
+    "The Japanese "cow sword" — essentially a chef's knife with less belly and thinner spine. The most popular Japanese profi..."
+  建议锚文本: "types of hunting knife"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... types of hunting knife ..."
+
+------------------------------------------------------------------------------------------
+【目标文件】pillar-yangjiang-oem-guide.html
+  可用段落数: 44
+  需插入博客数: 1
+------------------------------------------------------------------------------------------
+
+博客: 3cr13-steel
+  关键词: 3cr13 steel
+  所属分类: Chinese Steels
+  匹配理由: keyword "steel", keyword "chinese", keyword "steels"
+  目标段落类型: plain-p
+  段落原文:
+    "Budget and mid-tier carbon steels available from Chinese factories for heritage or outdoor lines."
+  建议锚文本: "3cr13 steel"
+  建议插入位置: 在包含相关主题的句子中
+    示例: "... 3cr13 steel ..."

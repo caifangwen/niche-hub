@@ -1,0 +1,90 @@
+==========================================================================================
+内链引用分布计划
+==========================================================================================
+
+原则：
+1. 每篇文章（源文件）最多新增 5 个内链引用
+2. 优先引用当前被引用次数 <=2 的文章（目标文件）
+3. hub.html 已有大量引用，不再作为新增引用源
+4. 引用需自然融入正文描述段落，不堆砌在列表末尾
+5. 锚文本使用关键词或自然语句，避免重复 "Explore →"
+
+------------------------------------------------------------------------------------------
+一、各文件当前引用状态
+------------------------------------------------------------------------------------------
+
+文件                                               被引用     本地出站
+-----------------------------------------------------------------
+hub.html                                          51       77
+pillar-american-knife-companies.html               7        5
+pillar-best-cookware-material.html                 5        8
+pillar-best-cutting-board-material.html            3        8
+pillar-carbon-steels.html                          9       12
+pillar-cross-family-comparisons.html              20        6
+pillar-damascus-layered.html                       5        5
+pillar-european-knife-regions.html                 7        8
+pillar-global-knife-sourcing.html                  5        8
+pillar-how-kitchen-knives-are-made.html            9        5
+pillar-how-to-care-for-knives.html                 7        6
+pillar-how-to-start-a-knife-brand.html            11       12
+pillar-japanese-knife-brands.html                  7        5
+pillar-kitchen-tools-accessories.html              4        7
+pillar-knife-history-traditions.html               6        9
+pillar-pocket-outdoor-knives.html                  6        5
+pillar-powder-metallurgy-steels.html               8        5
+pillar-stainless-steels.html                      17        4
+pillar-tool-semi-stainless.html                    8        7
+pillar-types-of-kitchen-knives.html                9        5
+pillar-yangjiang-oem-guide.html                    5        7
+
+------------------------------------------------------------------------------------------
+二、建议新增引用计划
+------------------------------------------------------------------------------------------
+
+【源文件】pillar-stainless-steels.html
+  当前本地出站链接: 4
+  可新增槽位: 1
+  建议引用目标:
+    -> pillar-damascus-layered.html (当前被引用 5 次)
+
+------------------------------------------------------------------------------------------
+三、新增引用后预期效果
+------------------------------------------------------------------------------------------
+
+文件                                                 当前被引用      预期被引用
+----------------------------------------------------------------------
+pillar-american-knife-companies.html                   7          7
+pillar-best-cookware-material.html                     5          5
+pillar-best-cutting-board-material.html                3          3
+pillar-carbon-steels.html                              9          9
+pillar-cross-family-comparisons.html                  20         20
+pillar-damascus-layered.html                           5          6 (+1)
+pillar-european-knife-regions.html                     7          7
+pillar-global-knife-sourcing.html                      5          5
+pillar-how-kitchen-knives-are-made.html                9          9
+pillar-how-to-care-for-knives.html                     7          7
+pillar-how-to-start-a-knife-brand.html                11         11
+pillar-japanese-knife-brands.html                      7          7
+pillar-kitchen-tools-accessories.html                  4          4
+pillar-knife-history-traditions.html                   6          6
+pillar-pocket-outdoor-knives.html                      6          6
+pillar-powder-metallurgy-steels.html                   8          8
+pillar-stainless-steels.html                          17         17
+pillar-tool-semi-stainless.html                        8          8
+pillar-types-of-kitchen-knives.html                    9          9
+pillar-yangjiang-oem-guide.html                        5          5
+
+------------------------------------------------------------------------------------------
+四、执行细节说明
+------------------------------------------------------------------------------------------
+
+每个新增链接需要：
+  1. 在源文件中找到与目标主题相关的正文段落
+  2. 用自然语句插入锚文本链接，例如：
+     "对于需要耐腐蚀的厨房刀具，参考我们的 <a href="pillar-stainless-steels">不锈钢钢材指南</a>。"
+  3. 避免在按钮区重复添加 "Explore →" 式的链接
+  4. 每篇文章总计新增不超过 5 个链接
+
+本次计划涉及新增链接: 1 处
+涉及源文件数: 1 个
+涉及目标文件数: 1 个

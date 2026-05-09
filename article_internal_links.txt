@@ -1,0 +1,1360 @@
+================================================================================
+本地文章内链引用情况报告
+================================================================================
+扫描文件数: 21
+
+--------------------------------------------------------------------------------
+一、各文章引用的内链（按文件分组）
+--------------------------------------------------------------------------------
+
+【hub.html】
+  引用链接数: 124 | 唯一目标数: 60
+    -> hub [本地] types of steel for knives
+    -> hub [本地] Rockwell scale
+    -> hub [本地] steel composition chart
+    -> pillar-powder-metallurgy-steels [本地] PM steel family page
+    -> hub [本地] View all Fundamentals →
+    -> 1095-steel-review [外部] 1095
+    -> pillar-carbon-steels [本地] Aogami vs Shirogami
+    -> pillar-carbon-steels [本地] tamahagane
+    -> pillar-cross-family-comparisons [本地] carbon steel vs stainless stee...
+    -> pillar-carbon-steels [本地] Source Carbon steel knives →
+    -> pillar-carbon-steels [本地] View all articles →
+    -> vg-10-steel-review [外部] VG-10
+    -> 14c28n-steel-review [外部] 14C28N
+    -> 5cr15mov-steel-review [外部] 5Cr15MoV
+    -> nitro-v-steel [外部] Nitro-V
+    -> pillar-stainless-steels [本地] Source Stainless steel knives ...
+    -> pillar-stainless-steels [本地] View all articles →
+    -> d2-steel-review [外部] D2
+    -> k110-steel-guide [外部] K110
+    -> a2-tool-steel [外部] A2
+    -> pillar-tool-semi-stainless [本地] tool and semi-stainless
+    -> pillar-tool-semi-stainless [本地] Source Tool steel knives →
+    -> pillar-tool-semi-stainless [本地] View all articles →
+    -> s35vn-steel-review [外部] S35VN
+    -> m390-steel-review [外部] M390
+    -> magnacut-steel [外部] MagnaCut
+    -> sg2-steel-review [外部] SG2
+    -> pillar-powder-metallurgy-steels [本地] Source PM steel knives →
+    -> pillar-powder-metallurgy-steels [本地] View all articles →
+    -> san-mai [外部] San Mai
+    -> damasteel-vs-damascus [外部] Damasteel and traditional Dama...
+    -> pillar-damascus-layered [本地] Source Damascus knives →
+    -> pillar-damascus-layered [本地] View all articles →
+    -> pillar-cross-family-comparisons [本地] 8Cr13MoV vs D2Budget stainless...
+    -> pillar-cross-family-comparisons [本地] 14C28N vs D2Corrosion-first st...
+    -> pillar-cross-family-comparisons [本地] S35VN vs M390Two premium PM st...
+    -> pillar-cross-family-comparisons [本地] SG2 vs VG-10Japanese PM stainl...
+    -> pillar-cross-family-comparisons [本地] 420HC vs S30VEntry-to-mid stai...
+    -> pillar-cross-family-comparisons [本地] Damascus vs Carbon SteelVisual...
+    -> pillar-cross-family-comparisons [本地] AUS-8 vs D2Balanced budget sta...
+    -> pillar-cross-family-comparisons [本地] Nitro-V vs S35VNUpper-mid stai...
+    -> pillar-cross-family-comparisons [本地] S30V vs 154CMTwo generations o...
+    -> pillar-cross-family-comparisons [本地] S30V vs S35VNHow Crucible refi...
+    -> pillar-cross-family-comparisons [本地] S110V vs MagnaCutUltra-high-va...
+    -> pillar-cross-family-comparisons [本地] Maxamet vs MagnaCutExtreme edg...
+    -> pillar-cross-family-comparisons [本地] S45VN vs Cru-WearNext-gen Cruc...
+    -> pillar-cross-family-comparisons [本地] 8Cr13MoV vs AUS-8Two budget wo...
+    -> pillar-cross-family-comparisons [本地] Elmax vs S35VNB&ouml;hler-Udde...
+    -> pillar-cross-family-comparisons [本地] Carbon vs StainlessThe fundame...
+    -> 8cr13mov-vs-d2 [外部] 8Cr13MoV
+    -> 14c28n-steel [外部] 14C28N
+    -> s35vn-vs-d2 [外部] S35VN
+    -> m390-steel [外部] M390
+    -> pillar-stainless-steels [本地] Compare full steel dataset in ...
+    -> pillar-stainless-steels [本地] Get our full steel spec sheet ...
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> https://leeknives.com/contact/ [外部] Spec sheet + quote →
+    -> pillar-how-kitchen-knives-are-made.html#forging [外部] Forged vs. Stamped Knives
+    -> pillar-how-kitchen-knives-are-made.html#heat-treatment [外部] Heat Treatment for Knives
+    -> pillar-how-kitchen-knives-are-made.html#handle [外部] Handle Materials Guide
+    -> pillar-how-kitchen-knives-are-made [本地] Explore →
+    -> pillar-types-of-kitchen-knives.html#western [外部] Western Kitchen Knives
+    -> pillar-types-of-kitchen-knives.html#japanese [外部] Gyuto
+    -> pillar-types-of-kitchen-knives.html#specialty [外部] Specialty &amp; Precision Kniv...
+    -> pillar-types-of-kitchen-knives [本地] Explore →
+    -> pillar-pocket-outdoor-knives.html#folding [外部] Folding Knife Anatomy
+    -> pillar-pocket-outdoor-knives.html#folding [外部] Knife Lock Types
+    -> pillar-pocket-outdoor-knives.html#hunting [外部] Types of Hunting Knives
+    -> pillar-pocket-outdoor-knives [本地] Explore →
+    -> pillar-how-to-care-for-knives.html#sharpening [外部] Sharpening Systems
+    -> pillar-how-to-care-for-knives.html#steel-specific [外部] Steel-Specific Care
+    -> pillar-how-to-care-for-knives.html#storage [外部] Knife Storage Ideas
+    -> pillar-how-to-care-for-knives [本地] Explore →
+    -> pillar-knife-history-traditions [本地] Chinese Knife History
+    -> pillar-knife-history-traditions [本地] Knife Making Regions of Japan
+    -> pillar-knife-history-traditions [本地] Seki vs Solingen vs Yangjiang
+    -> pillar-knife-history-traditions [本地] Explore Culture &amp; History ...
+    -> pillar-best-cookware-material [本地] cookware materials guide
+    -> pillar-best-cookware-material [本地] Cookware materials
+    -> pillar-best-cookware-material.html#comparison [外部] cast iron vs stainless steel
+    -> pillar-best-cookware-material.html#care [外部] care and maintenance
+    -> pillar-best-cookware-material.html#sourcing [外部] sourcing
+    -> pillar-best-cookware-material [本地] Explore Cookware →
+    -> pillar-best-cutting-board-material.html#wood [外部] wood cutting boards
+    -> pillar-best-cutting-board-material.html#grain [外部] edge grain vs end grain
+    -> pillar-best-cutting-board-material.html#comparison [外部] material comparison
+    -> pillar-best-cutting-board-material [本地] cutting board guide
+    -> pillar-best-cutting-board-material [本地] Explore Cutting Boards →
+    -> pillar-kitchen-tools-accessories.html#whetstones [外部] Whetstone &amp; Grit
+    -> pillar-kitchen-tools-accessories.html#storage [外部] Knife Storage Solutions
+    -> pillar-kitchen-tools-accessories.html#safety [外部] Kitchen Safety Gear
+    -> pillar-kitchen-tools-accessories [本地] Explore Accessories →
+    -> pillar-global-knife-sourcing [本地] Global Knife Manufacturing &am...
+    -> pillar-european-knife-regions [本地] European Knife Regions
+    -> pillar-yangjiang-oem-guide [本地] Yangjiang OEM Guide
+    -> pillar-global-knife-sourcing [本地] Explore →
+    -> pillar-how-to-start-a-knife-brand [本地] Private Label Knife Manufactur...
+    -> pillar-how-to-start-a-knife-brand [本地] OEM Knife Manufacturers
+    -> pillar-how-to-start-a-knife-brand [本地] Dropship Knives
+    -> pillar-how-to-start-a-knife-brand [本地] Explore →
+    -> pillar-american-knife-companies [本地] Famous American Knife Makers
+    -> pillar-american-knife-companies [本地] Knife Companies in Oregon
+    -> pillar-american-knife-companies [本地] Custom Knife Makers California
+    -> pillar-american-knife-companies [本地] Explore →
+    -> pillar-japanese-knife-brands [本地] Sakai and Seki
+    -> pillar-japanese-knife-brands [本地] Sanjo and Takefu
+    -> pillar-japanese-knife-brands [本地] Japanese knife steel
+    -> pillar-japanese-knife-brands [本地] Explore →
+    -> pillar-european-knife-regions [本地] Solingen Knife Manufacturing
+    -> pillar-european-knife-regions [本地] Thiers Pocket Knives
+    -> pillar-european-knife-regions [本地] Albacete Cutlery
+    -> pillar-european-knife-regions [本地] Sheffield Knife History
+    -> pillar-european-knife-regions [本地] Explore →
+    -> pillar-yangjiang-oem-guide [本地] Yangjiang sourcing guide
+    -> pillar-yangjiang-oem-guide [本地] OEM pitfalls
+    -> pillar-yangjiang-oem-guide [本地] Explore →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+    -> pillar-stainless-steels [本地] See full steel articles
+    -> hub [本地] See related products
+    -> https://leeknives.com/contact/ [外部] Request samples for these stee...
+
+【pillar-american-knife-companies.html】
+  引用链接数: 15 | 唯一目标数: 11
+    -> hub [本地] ← Back to Knowledge Center
+    -> yangjiang-knife [外部] Yangjiang knife manufacturing
+    -> s30v-steel [外部] S30V
+    -> s90v-steel [外部] S90V
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/ [外部] custom knife makers
+    -> https://leeknives.com/knife-companies-in-oregon/ [外部] Custom Makers
+    -> hub [本地] Back to Knowledge Center →
+    -> https://leeknives.com/contact/ [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/ [外部] Request sample →
+    -> https://leeknives.com/contact/ [外部] Customize model →
+    -> shirogami-vs-aogami [外部] high-carbon steels
+    -> pillar-carbon-steels [本地] Carbon Steels Pillar →
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-how-to-start-a-knife-brand [本地] Explore →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-best-cookware-material.html】
+  引用链接数: 45 | 唯一目标数: 44
+    -> hub [本地] &larr; Back to Knowledge Cente...
+    -> oem-knife-manufacturers [外部] OEM
+    -> what-is-enameled-cast-iron [外部] Cast iron
+    -> 1810-188-180-stainless-steel [外部] Stainless steel
+    -> damascus-steel-vs-carbon-steel [外部] Carbon steel
+    -> enameled-cast-iron-vs-cast-iron [外部] enameled vs cast iron
+    -> is-cast-iron-non-stick [外部] non-stick properties
+    -> cast-iron-skillet-sizes [外部] skillet sizes
+    -> can-cast-iron-skillet-go-in-oven [外部] oven safety
+    -> cast-iron-in-dishwasher [外部] dishwasher safety
+    -> does-cast-iron-work-on-induction [外部] induction compatibility
+    -> cast-aluminum-vs-cast-iron [外部] cast aluminum vs cast iron
+    -> cast-iron-vs-stainless-steel [外部] cast iron vs stainless steel
+    -> how-are-cast-iron-skillets-made [外部] how skillets are made
+    -> history-of-cast-iron-cookware [外部] history of cast iron
+    -> is-lodge-cast-iron-made-in-china [外部] Lodge made in China
+    -> cast-iron-on-glass-top-stove [外部] glass top stove safety
+    -> enameled-cast-iron-cookware-pros-cons [外部] pros and cons
+    -> enameled-cast-iron-vs-stainless-steel [外部] vs stainless steel
+    -> enamel-vs-ceramic-cookware [外部] enamel vs ceramic
+    -> is-enameled-cast-iron-non-stick [外部] non-stick
+    -> is-enameled-cast-iron-safe [外部] safety
+    -> best-cookware-material [外部] best cookware materials
+    -> best-non-stick-pan-material [外部] non-stick materials
+    -> is-cookware-made-in-china-safe [外部] China-made safety
+    -> cookware-wholesale-distributors [外部] wholesale distributors
+    -> cookware-manufacturers [外部] manufacturers
+    -> cast-iron-cookware-manufacturers [外部] cast iron manufacturers
+    -> non-stick-vs-stainless-steel [外部] non-stick vs stainless
+    -> alternatives-to-non-stick-pan [外部] alternatives to non-stick
+    -> are-non-stick-pans-dishwasher-safe [外部] dishwasher safety
+    -> can-non-stick-pans-go-in-the-oven [外部] oven safety
+    -> is-non-stick-cookware-safe [外部] safety
+    -> is-enameled-cast-iron-dishwasher-safe [外部] dishwasher safe
+    -> can-enameled-cast-iron-go-in-the-oven [外部] oven safe
+    -> does-enameled-cast-iron-work-on-induction [外部] induction
+    -> metal-utensils-on-enameled-cast-iron [外部] metal utensils
+    -> hub [本地] &larr; Knowledge Center
+    -> pillar-types-of-kitchen-knives [本地] Kitchen Knife Types &rarr;
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing Pillar &rarr;
+    -> pillar-knife-history-traditions [本地] History Pillar &rarr;
+    -> pillar-how-to-start-a-knife-brand [本地] Business Hub &rarr;
+    -> pillar-pocket-outdoor-knives [本地] Outdoor Knives Pillar &rarr;
+    -> pillar-kitchen-tools-accessories [本地] Accessories Pillar &rarr;
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote &rar...
+
+【pillar-best-cutting-board-material.html】
+  引用链接数: 39 | 唯一目标数: 38
+    -> hub [本地] &larr; Back to Knowledge Cente...
+    -> oem-knife-manufacturers [外部] OEM
+    -> types-of-cutting-boards [外部] types of cutting boards
+    -> best-wood-for-cutting-board [外部] best wood options
+    -> acacia-wood-vs-teak [外部] acacia vs teak
+    -> bamboo-vs-wood-cutting-board [外部] bamboo vs wood
+    -> wood-vs-plastic-cutting-board [外部] wood vs plastic
+    -> are-wood-cutting-boards-sanitary [外部] sanitary concerns
+    -> cutting-board-sizes [外部] cutting board sizes
+    -> is-acacia-wood-good-for-cutting-boards [外部] acacia wood
+    -> is-teak-good-for-cutting-boards [外部] teak
+    -> is-mahogany-good-for-cutting-boards [外部] mahogany
+    -> is-oak-good-for-cutting-boards [外部] oak
+    -> is-poplar-good-for-cutting-boards [外部] poplar
+    -> is-bamboo-good-for-cutting-boards [外部] bamboo
+    -> best-cutting-board-for-knives [外部] best for knives
+    -> most-sanitary-cutting-board [外部] most sanitary
+    -> butcher-block-vs-cutting-board [外部] butcher block vs cutting board
+    -> best-wood-for-charcuterie-board [外部] charcuterie boards
+    -> is-walnut-good-for-cutting-boards [外部] walnut
+    -> is-ash-good-for-cutting-boards [外部] ash
+    -> is-birch-good-for-cutting-boards [外部] birch
+    -> is-alder-good-for-cutting-boards [外部] alder
+    -> is-cedar-good-for-cutting-boards [外部] cedar
+    -> is-cherry-good-for-cutting-boards [外部] cherry
+    -> are-marble-cutting-boards-good [外部] marble
+    -> is-zebra-wood-good-for-cutting-boards [外部] zebrawood
+    -> are-glass-cutting-boards-good [外部] glass
+    -> are-plastic-cutting-boards-safe [外部] plastic safety
+    -> charcuterie-board-vs-cutting-board [外部] charcuterie vs cutting board
+    -> hub [本地] &larr; Knowledge Center
+    -> best-cookware-material-for-gas-stove [外部] cookware material guide
+    -> pillar-best-cookware-material [本地] Cookware Pillar &rarr;
+    -> pillar-how-to-care-for-knives [本地] Care Guide &rarr;
+    -> pillar-types-of-kitchen-knives [本地] Kitchen Knife Types &rarr;
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing Pillar &rarr;
+    -> pillar-knife-history-traditions [本地] History Pillar &rarr;
+    -> pillar-kitchen-tools-accessories [本地] Accessories Pillar &rarr;
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote &rar...
+
+【pillar-carbon-steels.html】
+  引用链接数: 54 | 唯一目标数: 32
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> 1095-steel [外部] 1095
+    -> 52100-steel [外部] 52100
+    -> https://leeknives.com/contact/?steel=1095&amp;utm_source=carbon_pillar [外部] View product →
+    -> 1095-steel-review [外部] 1095 →
+    -> https://leeknives.com/contact/?steel=1095&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/types-of-hunting-knives/ [外部] Hunting Knives
+    -> https://leeknives.com/contact/?steel=1084&amp;utm_source=carbon_pillar [外部] View product →
+    -> 1084-steel-review [外部] 1084 →
+    -> https://leeknives.com/contact/?steel=1084&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> private-label-knife-manufacturers [外部] Private Label
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/ [外部] custom knife makers
+    -> https://leeknives.com/contact/?steel=52100&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> 52100-steel-review [外部] 52100 →
+    -> https://leeknives.com/contact/?steel=52100&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=w2&amp;utm_source=carbon_pillar [外部] Discuss MOQ →
+    -> w2-steel-review [外部] W2 →
+    -> https://leeknives.com/contact/?steel=w2&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=shirogami1&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> shirogami-1-white-paper-steel-steel-review [外部] Shirogami #1 →
+    -> https://leeknives.com/contact/?steel=shirogami1&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=aogami2&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> aogami-2-blue-paper-steel-steel-review [外部] Aogami #2 →
+    -> https://leeknives.com/contact/?steel=aogami2&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=aogami_super&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=aogami_super&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=1075&amp;utm_source=carbon_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=1075&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=5160&amp;utm_source=carbon_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=5160&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=carbon_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=15n20&amp;utm_source=carbon_pillar [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/?steel=15n20&amp;utm_source=carbon_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=1095&amp;utm_source=carbon_pillar [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/?steel=52100&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=shirogami1&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=carbon_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=5160&amp;utm_source=carbon_pillar [外部] Discuss MOQ →
+    -> pillar-cross-family-comparisons [本地] Compare carbon vs other famili...
+    -> 1055-steel [外部] 1055 steel properties
+    -> carbon-steel-patina [外部] carbon steel patina formation
+    -> forged-vs-stamped-knives [外部] forged vs stamped construction
+    -> pillar-stainless-steels [本地] stainless steel pillar
+    -> hub [本地] SteeSteel Finder on the hub pa...
+    -> hub [本地] main steel hub
+    -> pillar-tool-semi-stainless [本地] tool steel pillar
+    -> pillar-damascus-layered [本地] Damascus &amp; layered strateg...
+    -> hub [本地] hub checklist standards
+    -> hub [本地] ← Knife Steel Knowledge Center
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-tool-semi-stainless [本地] Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels [本地] PM Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-cross-family-comparisons.html】
+  引用链接数: 24 | 唯一目标数: 22
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> https://leeknives.com/knife-sharpener-manufacturers/ [外部] B2B
+    -> 8cr13mov [外部] 8Cr13MoV
+    -> a2-steel [外部] Tool Steel
+    -> Japanese-steel [外部] to Japanese
+    -> sg2-steel [外部] SG2
+    -> 420-steel [外部] 420HC
+    -> s30v-steel [外部] S30V
+    -> nitro-v-steel [外部] Nitro-V
+    -> hub [本地] Back to full steel comparison ...
+    -> s30v-vs-s90v [外部] S30V vs S90V
+    -> 14c28n-vs-d2 [外部] 14C28N vs D2
+    -> d2-vs-s30v [外部] D2 vs S30V
+    -> aus-8-vs-d2 [外部] AUS-8 vs D2
+    -> s35vn-vs-m390 [外部] S35VN vs M390
+    -> s30v-vs-s35vn [外部] S30V vs S35VN
+    -> 420hc-vs-s30v [外部] 420HC vs S30V
+    -> 8cr13mov-vs-440c [外部] 8Cr13MoV vs 440C
+    -> why-damascus-steel-so-expensive [外部] why Damascus is expensive
+    -> hub [本地] Knife Steel Knowledge Center →
+    -> pillar-carbon-steels [本地] Carbon Steels Pillar →
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-powder-metallurgy-steels [本地] PM Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-damascus-layered.html】
+  引用链接数: 35 | 唯一目标数: 23
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> san-mai [外部] San Mai
+    -> hub [本地] How to Choose a Layered Build
+    -> sg2-steel [外部] SG2
+    -> damasteel-vs-damascus [外部] Damasteel
+    -> damasteel-vs-damascus [外部] Damasteel
+    -> rwl-34-steel [外部] RWL-34
+    -> layered-steel-knife [外部] Layered Steel
+    -> https://leeknives.com/contact/?construction=sanmai&amp;utm_source=damascus_pillar [外部] Get spec template →
+    -> https://leeknives.com/contact/?construction=sanmai&amp;utm_source=damascus_pillar [外部] See San Mai knives →
+    -> private-label-knife-manufacturers [外部] Private Label
+    -> https://leeknives.com/contact/?construction=damascus_vg10&amp;utm_source=damascus_pillar [外部] Request pattern options →
+    -> https://leeknives.com/contact/?construction=damascus_vg10&amp;utm_source=damascus_pillar [外部] See Damascus-clad knives →
+    -> https://leeknives.com/contact/?construction=pattern_welded&amp;utm_source=damascus_pillar [外部] Start custom project →
+    -> https://leeknives.com/contact/?construction=pattern_welded&amp;utm_source=damascus_pillar [外部] See pattern-welded knives →
+    -> https://leeknives.com/contact/?construction=sg2_damascus&amp;utm_source=damascus_pillar [外部] Discuss MOQ →
+    -> sg2-steel-review [外部] SG2 Damascus →
+    -> https://leeknives.com/contact/?construction=sg2_damascus&amp;utm_source=damascus_pillar [外部] See SG2 Damascus knives →
+    -> https://leeknives.com/contact/?construction=damasteel&amp;utm_source=damascus_pillar [外部] Start custom project →
+    -> https://leeknives.com/contact/?construction=damasteel&amp;utm_source=damascus_pillar [外部] See Damasteel knives →
+    -> https://leeknives.com/contact/ [外部] Request pattern options →
+    -> https://leeknives.com/contact/ [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/ [外部] Get spec template →
+    -> custom-cookware-manufacturers [外部] Custom OEM
+    -> https://leeknives.com/contact/ [外部] Start custom project →
+    -> what-is-damascus-steel [外部] what is Damascus steel
+    -> damascus-patterns [外部] Damascus pattern designs
+    -> is-damascus-steel-strong [外部] strength comparison
+    -> how-to-tell-if-damascus-is-real [外部] real vs fake Damascus
+    -> how-is-damascus-steel-made [外部] how Damascus is made
+    -> ceramic-vs-steel-knife [外部] ceramic vs steel knives
+    -> hub [本地] ← Kn← Knife Steel Knowledge Ce...
+    -> pillar-tool-semi-stainless [本地] Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels [本地] PM Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-european-knife-regions.html】
+  引用链接数: 17 | 唯一目标数: 15
+    -> hub [本地] ← Back to Knowledge Center
+    -> oem-knife-manufacturers [外部] OEM
+    -> x50crmov15 [外部] X50CrMoV15
+    -> 1-4116-steel [外部] 1.4116
+    -> 12c27-steel [外部] 12C27
+    -> https://leeknives.com/best-custom-knife-makers-in-texas/ [外部] custom knife makers
+    -> pillar-global-knife-sourcing [本地] Compare All Regions →
+    -> japanese-vs-german-knives [外部] Japanese vs German
+    -> boning-knife-vs-fillet-knife [外部] boning vs fillet
+    -> slicing-knife-vs-carving-knife [外部] slicing vs carving
+    -> pillar-global-knife-sourcing [本地] Explore →
+    -> pillar-japanese-knife-brands [本地] Explore →
+    -> pillar-american-knife-companies [本地] Explore →
+    -> pillar-stainless-steels [本地] Explore →
+    -> pillar-how-to-start-a-knife-brand [本地] Explore →
+    -> hub [本地] ← Knowledge Center
+    -> https://leeknives.com/contact/ [外部] Request a Sourcing Assessment ...
+
+【pillar-global-knife-sourcing.html】
+  引用链接数: 14 | 唯一目标数: 12
+    -> hub [本地] ← Back to Knowledge Center
+    -> https://leeknives.com/where-is-caraway-cookware-manufactured/ [外部] Sourcing Guide
+    -> x50crmov15 [外部] X50CrMoV15
+    -> s30v-steel [外部] S30V
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> sg2-steel [外部] SG2
+    -> pillar-how-to-start-a-knife-brand [本地] Read the Full OEM Playbook →
+    -> pillar-japanese-knife-brands [本地] Explore →
+    -> pillar-european-knife-regions [本地] Explore →
+    -> pillar-yangjiang-oem-guide [本地] Explore →
+    -> pillar-american-knife-companies [本地] Explore →
+    -> pillar-how-to-start-a-knife-brand [本地] Explore →
+    -> hub [本地] ← Knowledge Center
+    -> https://leeknives.com/contact/ [外部] Get a Sourcing Assessment →
+
+【pillar-how-kitchen-knives-are-made.html】
+  引用链接数: 13 | 唯一目标数: 10
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> hub [本地] Making &amp; Using Knives
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> forged-vs-stamped-knives [外部] forged vs stamped
+    -> heat-treating-knives [外部] heat treatment
+    -> quenching [外部] quenching process
+    -> rockwell-hardness-scale [外部] Rockwell hardness scale
+    -> knife-testing [外部] knife testing
+    -> rockwell-hardness-scale [外部] Rockwell hardness
+    -> hub [本地] U← Knife Steel Knowledge Cente...
+    -> pillar-how-to-care-for-knives [本地] Care Guide Pillar →
+    -> pillar-pocket-outdoor-knives [本地] Outdoor Knives Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-how-to-care-for-knives.html】
+  引用链接数: 17 | 唯一目标数: 15
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> hub [本地] Making &amp; Using Knives
+    -> oem-knife-manufacturers [外部] OEM
+    -> s90v-steel [外部] S90V
+    -> k390-steel [外部] K390
+    -> whetstone-vs-sharpener [外部] whetstone vs sharpener
+    -> whetstone-grit [外部] whetstone grit guide
+    -> honing-vs-sharpening [外部] honing vs sharpening
+    -> knife-sharpening-angle [外部] sharpening angles
+    -> what-is-a-whetstone [外部] what is a whetstone
+    -> types-of-sharpening-stones [外部] types of sharpening stones
+    -> knife-sharpness-test [外部] sharpness tests
+    -> hub [本地] U← Knife Steel Knowledge Cente...
+    -> pillar-types-of-kitchen-knives [本地] Knife Types Pillar →
+    -> pillar-pocket-outdoor-knives [本地] Outdoor Knives Pillar →
+    -> pillar-kitchen-tools-accessories [本地] Accessories Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-how-to-start-a-knife-brand.html】
+  引用链接数: 17 | 唯一目标数: 11
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> frame-lock-vs-liner-lock [外部] Deep Dive
+    -> pillar-stainless-steels [本地] Steel pillars →
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing →
+    -> pillar-types-of-kitchen-knives [本地] Knife types →
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing →
+    -> pillar-how-kitchen-knives-are-made [本地] ManuManufacturing →insert
+    ...
+    -> hub [本地] Back to steel selection hub →
+    -> dropship-knives [外部] dropshipping knives
+    -> selling-knives-online [外部] selling knives online
+    -> how-to-buy-knives-wholesale [外部] buying wholesale
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing Pillar →
+    -> pillar-types-of-kitchen-knives [本地] Knife Types Pillar →
+    -> pillar-how-to-care-for-knives [本地] Care Guide Pillar →
+    -> pillar-cross-family-comparisons [本地] VS Series Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-japanese-knife-brands.html】
+  引用链接数: 18 | 唯一目标数: 13
+    -> hub [本地] ← Back to Knowledge Center
+    -> sg2-steel [外部] SG2
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> gyuto-guide [外部] The Japanese
+    -> hub [本地] Back to Knowledge Center →
+    -> https://leeknives.com/contact/ [外部] Request sample →
+    -> https://leeknives.com/contact/ [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/ [外部] Get spec sheet →
+    -> https://leeknives.com/contact/ [外部] Request cost sheet →
+    -> japanese-vs-german-knives [外部] Japanese vs German knives
+    -> japanese-knife-types [外部] Japanese knife types overview
+    -> gyuto-vs-santoku [外部] Gyuto vs Santoku
+    -> shirogami-vs-aogami [外部] Shirogami and Aogami
+    -> pillar-carbon-steels [本地] Carbon Steels Pillar →
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> san-mai [外部] San Mai
+    -> pillar-damascus-layered [本地] Damascus Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-kitchen-tools-accessories.html】
+  引用链接数: 30 | 唯一目标数: 29
+    -> hub [本地] &larr; Back to Knowledge Cente...
+    -> oem-knife-manufacturers [外部] OEM
+    -> kitchen-knife-handle [外部] knife handles
+    -> kitchen-knife-parts-and-anatomy [外部] knife parts and anatomy
+    -> pakkawood [外部] pakkawood handles
+    -> best-wood-for-knife-handles [外部] best wood for handles
+    -> granton-edge [外部] Granton edge
+    -> wa-handle [外部] Japanese wa-handle
+    -> knife-handle-designs [外部] handle designs
+    -> guide-to-knife-handle-material [外部] handle materials
+    -> what-is-stabilized-wood [外部] stabilized wood
+    -> best-leather-for-knife-sheath [外部] leather sheaths
+    -> types-of-sheaths [外部] types of sheaths
+    -> knife-balance [外部] knife balance
+    -> types-of-flatware [外部] types of flatware
+    -> unagisaki-eel-knife-guide [外部] unagisaki eel knife
+    -> chukabocho-cleaver-guide [外部] chukabocho cleaver
+    -> pankiri-guide [外部] pankiri bread knife
+    -> micarta-vs-g10 [外部] micarta vs G10
+    -> g10-material [外部] G10
+    -> micarta-material [外部] micarta
+    -> ultem-material [外部] ultem
+    -> hub [本地] &larr; Knowledge Center
+    -> pillar-how-to-care-for-knives [本地] Care Guide &rarr;
+    -> pillar-best-cutting-board-material [本地] Cutting Board Pillar &rarr;
+    -> pillar-types-of-kitchen-knives [本地] Kitchen Knife Types &rarr;
+    -> best-cookware-material-for-gas-stove [外部] cookware material guide
+    -> pillar-best-cookware-material [本地] Cookware Pillar &rarr;
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing Pillar &rarr;
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote &rar...
+
+【pillar-knife-history-traditions.html】
+  引用链接数: 23 | 唯一目标数: 22
+    -> hub [本地] ← Back to Knowledge Center
+    -> https://leeknives.com/what-is-a-bowie-knife/ [外部] The Bowie
+    -> x50crmov15 [外部] X50CrMoV15
+    -> carbon-steel-vs-stainless-steel-knife [外部] stainless steel
+    -> 65mn-steel [外部] carbon steel
+    -> wootz-steel-vs-damascus [外部] crucible steel
+    -> pattern-welding [外部] pattern welding
+    -> 440c-steel [外部] 440C
+    -> ats-34-steel [外部] ATS-34
+    -> s30v-steel [外部] S30V
+    -> 1095-steel [外部] 1095
+    -> hub [本地] Back to Knowledge Center →
+    -> how-is-damascus-steel-made [外部] Damascus making
+    -> forged-vs-stamped-knives [外部] forged vs stamped
+    -> rockwell-hardness-scale [外部] Rockwell hardness
+    -> pillar-types-of-kitchen-knives [本地] Kitchen Knife Types →
+    -> pillar-pocket-outdoor-knives [本地] Outdoor Knives Pillar →
+    -> pillar-japanese-knife-brands [本地] Japanese Brands →
+    -> pillar-american-knife-companies [本地] American Makers →
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-how-kitchen-knives-are-made [本地] Manufacturing Pillar →
+    -> pillar-how-to-start-a-knife-brand [本地] Business Hub →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-pocket-outdoor-knives.html】
+  引用链接数: 31 | 唯一目标数: 29
+    -> hub [本地] ← Back to Knowledge Center
+    -> hub [本地] Making &amp; Using Knives
+    -> knife-lock-types-guide [外部] frame locks and axis locking s...
+    -> oem-knife-manufacturers [外部] OEM
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> 8cr13mov [外部] 8Cr13MoV
+    -> 420-steel [外部] 420HC
+    -> frn-handle [外部] FRN
+    -> 440c-steel [外部] 440C
+    -> s30v-steel [外部] S30V
+    -> 154cm-steel [外部] 154CM
+    -> drop-point-blade [外部] Drop point
+    -> clip-point-blade [外部] Clip point
+    -> lc200n-steel [外部] LC200N
+    -> 1095-steel [外部] 1095
+    -> chinese-cleaver [外部] Chinese cleaver
+    -> cai-dao [外部] Cai Dao
+    -> carving-knife-guide [外部] carving knives
+    -> paring-knife-guide [外部] paring knives
+    -> meat-cleaver-guide [外部] meat cleavers
+    -> best-pocket-knife-steels [外部] best steels
+    -> knife-grinds-guide [外部] blade grinds
+    -> knife-blade-shapes-guide [外部] blade shapes
+    -> what-are-switchblades [外部] switchblades
+    -> what-are-automatic-knives [外部] automatic knives
+    -> knife-opening-mechanisms-guide [外部] opening mechanisms
+    -> pocket-knife-anatomy [外部] pocket knife anatomy
+    -> hub [本地] U← Knife Steel Knowledge Cente...
+    -> pillar-types-of-kitchen-knives [本地] Knife Types Pillar →
+    -> pillar-how-to-care-for-knives [本地] Care Guide Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-powder-metallurgy-steels.html】
+  引用链接数: 64 | 唯一目标数: 38
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> s35vn-vs-d2 [外部] S35VN
+    -> elmax-steel [外部] Elmax
+    -> s30v-steel [外部] S30V
+    -> s90v-steel [外部] S90V
+    -> cts-204p-steel [外部] CTS-204P
+    -> rwl-34-steel [外部] RWL-34
+    -> ats-34-steel [外部] ATS-34
+    -> 20cv-steel [外部] 20CV
+    -> cts-xhp-steel [外部] CTS-XHP
+    -> cts-bd1-steel [外部] CTS-BD1
+    -> rex-45-steel [外部] Rex 45
+    -> cpm-spy27 [外部] CPM SPY27
+    -> private-label-knife-manufacturers [外部] Private Label
+    -> https://leeknives.com/contact/?steel=s35vn&amp;utm_source=pm_pillar [外部] Request BOM estimate →
+    -> s35vn-steel-review [外部] S35VN →
+    -> https://leeknives.com/contact/?steel=s35vn&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=s45vn&amp;utm_source=pm_pillar [外部] Build a flagship brief →
+    -> s45vn-steel-review [外部] S45VN →
+    -> https://leeknives.com/contact/?steel=s45vn&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> m390-steel-review [外部] M390
+    -> 20cv-steel [外部] 20CV
+    -> https://leeknives.com/contact/?steel=m390&amp;utm_source=pm_pillar [外部] Discuss supply plan →
+    -> m390-steel-review [外部] M390 / 20CV →
+    -> https://leeknives.com/contact/?steel=m390&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=magnacut&amp;utm_source=pm_pillar [外部] Build a flagship brief →
+    -> magnacut-steel [外部] MagnaCut →
+    -> https://leeknives.com/contact/?steel=magnacut&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> sg2-steel [外部] SG2
+    -> https://leeknives.com/contact/?steel=sg2&amp;utm_source=pm_pillar [外部] Request samples →
+    -> sg2-steel-review [外部] SG2 / R2 →
+    -> https://leeknives.com/contact/?steel=sg2&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> types-of-kitchen-knives [外部] Kitchen Knives
+    -> https://leeknives.com/contact/?steel=elmax&amp;utm_source=pm_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=elmax&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=s30v&amp;utm_source=pm_pillar [外部] Request BOM estimate →
+    -> https://leeknives.com/contact/?steel=s30v&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=s90v&amp;utm_source=pm_pillar [外部] Discuss supply plan →
+    -> https://leeknives.com/contact/?steel=s90v&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=cts204p&amp;utm_source=pm_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=cts204p&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> 154cm-steel [外部] 154CM
+    -> https://leeknives.com/contact/?steel=rwl34&amp;utm_source=pm_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=rwl34&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=zdp189&amp;utm_source=pm_pillar [外部] Discuss MOQ →
+    -> zdp-189-steel-review [外部] ZDP-189 →
+    -> https://leeknives.com/contact/?steel=zdp189&amp;utm_source=pm_pillar [外部] See knives in this steel →
+    -> 20cv-steel [外部] 20CV
+    -> cts-xhp-steel [外部] CTS-XHP
+    -> cts-bd1-steel [外部] CTS-BD1
+    -> cpm-spy27 [外部] CPM SPY27
+    -> rex-45-steel [外部] Rex 45
+    -> zdp-189-steel-review [外部] ZDP-189
+    -> s90v-steel [外部] S90V
+    -> cts-204p-steel [外部] CTS-204P
+    -> hub [本地] See comparison chart in the hu...
+    -> https://leeknives.com/contact/ [外部] Request BOM estimate →
+    -> https://leeknives.com/contact/ [外部] Discuss supply plan →
+    -> https://leeknives.com/contact/ [外部] Request samples →
+    -> https://leeknives.com/contact/ [外部] Build a flagship brief →
+    -> pillar-damascus-layered [本地] Damascus &amp; Layered Pillar ...
+    -> pillar-tool-semi-stainless [本地] Tool &amp; Semi-Stainless Pill...
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-stainless-steels.html】
+  引用链接数: 57 | 唯一目标数: 40
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> x50crmov15 [外部] X50CrMoV15
+    -> 14c28n-steel [外部] 14C28N
+    -> 420-steel [外部] 420HC
+    -> 440c-steel [外部] 440C
+    -> 1-4116-steel [外部] 1.4116
+    -> 154cm-steel [外部] 154CM
+    -> lc200n-steel [外部] LC200N
+    -> https://leeknives.com/martensitic-stainless-steel/ [外部] Martensitic Stainless
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> https://leeknives.com/contact/?steel=5cr15&amp;utm_source=stainless_pillar [外部] View product →
+    -> 5cr15mov-steel-review [外部] 5Cr15MoV →
+    -> https://leeknives.com/contact/?steel=5cr15&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> private-label-knife-manufacturers [外部] Private Label
+    -> https://leeknives.com/contact/?steel=14c28n&amp;utm_source=stainless_pillar [外部] Request samples →
+    -> 14c28n-steel-review [外部] 14C28N →
+    -> https://leeknives.com/contact/?steel=14c28n&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=vg10&amp;utm_source=stainless_pillar [外部] Customize model →
+    -> vg-10-steel-review [外部] VG-10 →
+    -> https://leeknives.com/contact/?steel=vg10&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> nitro-v-steel [外部] Nitro-V
+    -> 8cr13mov [外部] 8Cr13MoV
+    -> https://leeknives.com/contact/?steel=nitrov&amp;utm_source=stainless_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=nitrov&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/types-of-hunting-knives/ [外部] Hunting Knives
+    -> https://leeknives.com/contact/?steel=420hc&amp;utm_source=stainless_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=420hc&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> types-of-kitchen-knives [外部] Kitchen Knives
+    -> https://leeknives.com/contact/?steel=440c&amp;utm_source=stainless_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=440c&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> butcher-knife-guide [外部] Butcher Knives
+    -> https://leeknives.com/contact/?steel=x50crmov15&amp;utm_source=stainless_pillar [外部] Request cost sheet →
+    -> https://leeknives.com/contact/?steel=x50crmov15&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> s125v-steel [外部] CPM
+    -> https://leeknives.com/contact/?steel=cpm154&amp;utm_source=stainless_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=cpm154&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=n690&amp;utm_source=stainless_pillar [外部] Request samples →
+    -> n690-steel-review [外部] N690 →
+    -> https://leeknives.com/contact/?steel=n690&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=lc200n&amp;utm_source=stainless_pillar [外部] Request samples →
+    -> https://leeknives.com/contact/?steel=lc200n&amp;utm_source=stainless_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/ [外部] Request cost sheet →
+    -> https://leeknives.com/contact/ [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/ [外部] Request samples →
+    -> https://leeknives.com/contact/ [外部] Customize model →
+    -> https://leeknives.com/contact/ [外部] Request samples →
+    -> https://leeknives.com/contact/ [外部] Request cost sheet →
+    -> s30v-steel [外部] S30V steel
+    -> 10cr15comov [外部] 10Cr15coMoV steel
+    -> 420j2-steel [外部] 420J2
+    -> aus-6-steel [外部] AUS-6
+    -> aus-10-steel [外部] AUS-10
+    -> aeb-l-steel [外部] AEB-L
+    -> hub [本地] ← Kn← Knife Steel Knowledge Ce...
+    -> pillar-tool-semi-stainless [本地] Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels [本地] PM Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-tool-semi-stainless.html】
+  引用链接数: 43 | 唯一目标数: 30
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> hub [本地] Popular Grades at a Glance
+    -> cruwear-steel [外部] CPM Cru-Wear
+    -> 12c27-steel [外部] 12C27
+    -> niolox-steel [外部] Niolox
+    -> o1-tool-steel [外部] Tool Steel
+    -> private-label-knife-manufacturers [外部] Private Label
+    -> k110-steel [外部] K110
+    -> https://leeknives.com/contact/?steel=d2&amp;utm_source=tool_pillar [外部] Request full spec →
+    -> k110-steel-guide [外部] D2 / K110 →
+    -> https://leeknives.com/contact/?steel=d2&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/types-of-hunting-knives/ [外部] Hunting Knives
+    -> https://leeknives.com/contact/?steel=a2&amp;utm_source=tool_pillar [外部] Request samples →
+    -> a2-tool-steel [外部] A2 →
+    -> https://leeknives.com/contact/?steel=a2&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=tool_pillar [外部] Customize this SKU →
+    -> https://leeknives.com/contact/?steel=o1&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/martensitic-stainless-steel/ [外部] Martensitic Stainless
+    -> 8cr13mov [外部] 8Cr13MoV
+    -> https://leeknives.com/contact/?steel=12c27&amp;utm_source=tool_pillar [外部] View product →
+    -> https://leeknives.com/contact/?steel=12c27&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> https://leeknives.com/contact/?steel=niolox&amp;utm_source=tool_pillar [外部] Request sample →
+    -> https://leeknives.com/contact/?steel=niolox&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> s125v-steel [外部] CPM
+    -> https://leeknives.com/contact/?steel=cpm3v&amp;utm_source=tool_pillar [外部] Request full spec →
+    -> https://leeknives.com/contact/?steel=cpm3v&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> m4-steel [外部] CPM M4
+    -> https://leeknives.com/contact/?steel=cpmm4&amp;utm_source=tool_pillar [外部] Discuss MOQ →
+    -> https://leeknives.com/contact/?steel=cpmm4&amp;utm_source=tool_pillar [外部] See knives in this steel →
+    -> k390-steel [外部] K390
+    -> hub [本地] See all families in thSee all ...
+    -> https://leeknives.com/contact/ [外部] Discuss lock options →
+    -> https://leeknives.com/contact/ [外部] Request samples →
+    -> https://leeknives.com/contact/ [外部] Customize this SKU →
+    -> maxamet [外部] Maxamet
+    -> bg42-steel [外部] BG42
+    -> 3v-steel [外部] 3V
+    -> vanadis-4e [外部] Vanadis 4E
+    -> hub [本地] ← Knife Steel Knowledge Center
+    -> pillar-stainless-steels [本地] Stainless Steels Pillar →
+    -> pillar-carbon-steels [本地] Carbon Steels Pillar →
+    -> pillar-powder-metallurgy-steels [本地] PM Steels Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-types-of-kitchen-knives.html】
+  引用链接数: 41 | 唯一目标数: 39
+    -> hub [本地] ← Back to Steel Knowledge Cent...
+    -> hub [本地] Making &amp; Using Knives
+    -> oem-knife-manufacturers [外部] OEM
+    -> utility-knife-vs-paring-knife [外部] paring knife
+    -> utility-knife-guide [外部] utility knife
+    -> bread-knife-guide [外部] bread knife
+    -> boning-knife-guide [外部] boning knife
+    -> gyuto-guide [外部] The Japanese
+    -> fillet-knife-guide [外部] fillet knife
+    -> cheese-knife-guide [外部] cheese knife
+    -> wharncliffe-blade [外部] Wharncliffe blade
+    -> japanese-knife-types [外部] Japanese knife types
+    -> gyuto-vs-santoku [外部] Gyuto vs Santoku
+    -> gyuto-vs-chef-knife [外部] Gyuto vs Chef Knife
+    -> santoku-vs-chef-knife [外部] Santoku vs Chef Knife
+    -> nakiri-guide [外部] Nakiri guide
+    -> yanagiba-guide [外部] Yanagiba guide
+    -> chef-knife-guide [外部] Chef knife guide
+    -> knife-tang-full-or-partial [外部] full vs partial tang
+    -> kitchen-knife-handle [外部] knife handles
+    -> kitchen-knife-parts-and-anatomy [外部] knife anatomy
+    -> kiritsuke-guide [外部] kiritsuke
+    -> deba-guide [外部] deba
+    -> petty-knife-guide [外部] petty
+    -> bunka-guide [外部] bunka
+    -> sujihiki-guide [外部] sujihiki
+    -> honesuki-guide [外部] honesuki
+    -> usuba-vs-nakiri [外部] usuba vs nakiri
+    -> slicing-knife-guide [外部] slicing knives
+    -> serrated-vs-non-serrated-steak-knives [外部] serrated steak knives
+    -> tourne-knife-guide [外部] tourne knife
+    -> knife-bolster [外部] knife bolsters
+    -> knife-bevel-single-or-double [外部] knife bevels
+    -> kiritsuke-vs-gyuto-vs-chef-knife [外部] kiritsuke vs gyuto vs chef
+    -> nakiri-vs-santoku [外部] nakiri vs santoku
+    -> sujihiki-vs-yanagiba [外部] sujihiki vs yanagiba
+    -> ulu-knife-guide [外部] ulu knife
+    -> hub [本地] U← Knife Steel Knowledge Cente...
+    -> pillar-how-to-care-for-knives [本地] Care Guide Pillar →
+    -> pillar-pocket-outdoor-knives [本地] Outdoor Knives Pillar →
+    -> https://leeknives.com/contact/ [外部] Get a Manufacturing Quote →
+
+【pillar-yangjiang-oem-guide.html】
+  引用链接数: 15 | 唯一目标数: 14
+    -> hub [本地] ← Back to Knowledge Center
+    -> https://leeknives.com/yangjiang-knives-history/ [外部] of Yangjiang
+    -> 5cr15mov [外部] 5Cr15MoV
+    -> 7cr17mov [外部] 7Cr17MoV
+    -> 9cr18mov [外部] 9Cr18MoV
+    -> 14c28n-steel [外部] 14C28N
+    -> how-to-buy-knives-wholesale [外部] wholesale buying guide
+    -> pillar-global-knife-sourcing [本地] Explore →
+    -> pillar-how-to-start-a-knife-brand [本地] Explore →
+    -> pillar-stainless-steels [本地] Explore →
+    -> shirogami-vs-aogami [外部] carbon steels
+    -> pillar-carbon-steels [本地] Explore →
+    -> pillar-cross-family-comparisons [本地] Explore →
+    -> hub [本地] ← Knowledge Center
+    -> https://leeknives.com/contact/ [外部] Get a Yangjiang Sourcing Quote...
+
+--------------------------------------------------------------------------------
+二、各文章被引用情况（反向链接）
+--------------------------------------------------------------------------------
+
+【hub.html】被引用次数: 51
+    <- pillar-american-knife-companies.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-american-knife-companies.html | 锚文本: Back to Knowledge Center →
+    <- pillar-best-cookware-material.html | 锚文本: &larr; Back to Knowledge Cente...
+    <- pillar-best-cookware-material.html | 锚文本: &larr; Knowledge Center
+    <- pillar-best-cutting-board-material.html | 锚文本: &larr; Back to Knowledge Cente...
+    <- pillar-best-cutting-board-material.html | 锚文本: &larr; Knowledge Center
+    <- pillar-carbon-steels.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-carbon-steels.html | 锚文本: SteeSteel Finder on the hub pa...
+    <- pillar-carbon-steels.html | 锚文本: main steel hub
+    <- pillar-carbon-steels.html | 锚文本: hub checklist standards
+    <- pillar-carbon-steels.html | 锚文本: ← Knife Steel Knowledge Center
+    <- pillar-cross-family-comparisons.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-cross-family-comparisons.html | 锚文本: Back to full steel comparison ...
+    <- pillar-cross-family-comparisons.html | 锚文本: Knife Steel Knowledge Center →
+    <- pillar-damascus-layered.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-damascus-layered.html | 锚文本: How to Choose a Layered Build
+    <- pillar-damascus-layered.html | 锚文本: ← Kn← Knife Steel Knowledge Ce...
+    <- pillar-european-knife-regions.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-european-knife-regions.html | 锚文本: ← Knowledge Center
+    <- pillar-global-knife-sourcing.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-global-knife-sourcing.html | 锚文本: ← Knowledge Center
+    <- pillar-how-kitchen-knives-are-made.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-how-kitchen-knives-are-made.html | 锚文本: Making &amp; Using Knives
+    <- pillar-how-kitchen-knives-are-made.html | 锚文本: U← Knife Steel Knowledge Cente...
+    <- pillar-how-to-care-for-knives.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-how-to-care-for-knives.html | 锚文本: Making &amp; Using Knives
+    <- pillar-how-to-care-for-knives.html | 锚文本: U← Knife Steel Knowledge Cente...
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Back to steel selection hub →
+    <- pillar-japanese-knife-brands.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-japanese-knife-brands.html | 锚文本: Back to Knowledge Center →
+    <- pillar-kitchen-tools-accessories.html | 锚文本: &larr; Back to Knowledge Cente...
+    <- pillar-kitchen-tools-accessories.html | 锚文本: &larr; Knowledge Center
+    <- pillar-knife-history-traditions.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-knife-history-traditions.html | 锚文本: Back to Knowledge Center →
+    <- pillar-pocket-outdoor-knives.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-pocket-outdoor-knives.html | 锚文本: Making &amp; Using Knives
+    <- pillar-pocket-outdoor-knives.html | 锚文本: U← Knife Steel Knowledge Cente...
+    <- pillar-powder-metallurgy-steels.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-powder-metallurgy-steels.html | 锚文本: See comparison chart in the hu...
+    <- pillar-stainless-steels.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-stainless-steels.html | 锚文本: ← Kn← Knife Steel Knowledge Ce...
+    <- pillar-tool-semi-stainless.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-tool-semi-stainless.html | 锚文本: Popular Grades at a Glance
+    <- pillar-tool-semi-stainless.html | 锚文本: See all families in thSee all ...
+    <- pillar-tool-semi-stainless.html | 锚文本: ← Knife Steel Knowledge Center
+    <- pillar-types-of-kitchen-knives.html | 锚文本: ← Back to Steel Knowledge Cent...
+    <- pillar-types-of-kitchen-knives.html | 锚文本: Making &amp; Using Knives
+    <- pillar-types-of-kitchen-knives.html | 锚文本: U← Knife Steel Knowledge Cente...
+    <- pillar-yangjiang-oem-guide.html | 锚文本: ← Back to Knowledge Center
+    <- pillar-yangjiang-oem-guide.html | 锚文本: ← Knowledge Center
+
+【pillar-american-knife-companies.html】被引用次数: 7
+    <- hub.html | 锚文本: Famous American Knife Makers
+    <- hub.html | 锚文本: Knife Companies in Oregon
+    <- hub.html | 锚文本: Custom Knife Makers California
+    <- hub.html | 锚文本: Explore →
+    <- pillar-european-knife-regions.html | 锚文本: Explore →
+    <- pillar-global-knife-sourcing.html | 锚文本: Explore →
+    <- pillar-knife-history-traditions.html | 锚文本: American Makers →
+
+【pillar-best-cookware-material.html】被引用次数: 5
+    <- hub.html | 锚文本: cookware materials guide
+    <- hub.html | 锚文本: Cookware materials
+    <- hub.html | 锚文本: Explore Cookware →
+    <- pillar-best-cutting-board-material.html | 锚文本: Cookware Pillar &rarr;
+    <- pillar-kitchen-tools-accessories.html | 锚文本: Cookware Pillar &rarr;
+
+【pillar-best-cutting-board-material.html】被引用次数: 3
+    <- hub.html | 锚文本: cutting board guide
+    <- hub.html | 锚文本: Explore Cutting Boards →
+    <- pillar-kitchen-tools-accessories.html | 锚文本: Cutting Board Pillar &rarr;
+
+【pillar-carbon-steels.html】被引用次数: 9
+    <- hub.html | 锚文本: Aogami vs Shirogami
+    <- hub.html | 锚文本: tamahagane
+    <- hub.html | 锚文本: Source Carbon steel knives →
+    <- hub.html | 锚文本: View all articles →
+    <- pillar-american-knife-companies.html | 锚文本: Carbon Steels Pillar →
+    <- pillar-cross-family-comparisons.html | 锚文本: Carbon Steels Pillar →
+    <- pillar-japanese-knife-brands.html | 锚文本: Carbon Steels Pillar →
+    <- pillar-tool-semi-stainless.html | 锚文本: Carbon Steels Pillar →
+    <- pillar-yangjiang-oem-guide.html | 锚文本: Explore →
+
+【pillar-cross-family-comparisons.html】被引用次数: 20
+    <- hub.html | 锚文本: carbon steel vs stainless stee...
+    <- hub.html | 锚文本: 8Cr13MoV vs D2Budget stainless...
+    <- hub.html | 锚文本: 14C28N vs D2Corrosion-first st...
+    <- hub.html | 锚文本: S35VN vs M390Two premium PM st...
+    <- hub.html | 锚文本: SG2 vs VG-10Japanese PM stainl...
+    <- hub.html | 锚文本: 420HC vs S30VEntry-to-mid stai...
+    <- hub.html | 锚文本: Damascus vs Carbon SteelVisual...
+    <- hub.html | 锚文本: AUS-8 vs D2Balanced budget sta...
+    <- hub.html | 锚文本: Nitro-V vs S35VNUpper-mid stai...
+    <- hub.html | 锚文本: S30V vs 154CMTwo generations o...
+    <- hub.html | 锚文本: S30V vs S35VNHow Crucible refi...
+    <- hub.html | 锚文本: S110V vs MagnaCutUltra-high-va...
+    <- hub.html | 锚文本: Maxamet vs MagnaCutExtreme edg...
+    <- hub.html | 锚文本: S45VN vs Cru-WearNext-gen Cruc...
+    <- hub.html | 锚文本: 8Cr13MoV vs AUS-8Two budget wo...
+    <- hub.html | 锚文本: Elmax vs S35VNB&ouml;hler-Udde...
+    <- hub.html | 锚文本: Carbon vs StainlessThe fundame...
+    <- pillar-carbon-steels.html | 锚文本: Compare carbon vs other famili...
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: VS Series Pillar →
+    <- pillar-yangjiang-oem-guide.html | 锚文本: Explore →
+
+【pillar-damascus-layered.html】被引用次数: 5
+    <- hub.html | 锚文本: Source Damascus knives →
+    <- hub.html | 锚文本: View all articles →
+    <- pillar-carbon-steels.html | 锚文本: Damascus &amp; layered strateg...
+    <- pillar-japanese-knife-brands.html | 锚文本: Damascus Pillar →
+    <- pillar-powder-metallurgy-steels.html | 锚文本: Damascus &amp; Layered Pillar ...
+
+【pillar-european-knife-regions.html】被引用次数: 7
+    <- hub.html | 锚文本: European Knife Regions
+    <- hub.html | 锚文本: Solingen Knife Manufacturing
+    <- hub.html | 锚文本: Thiers Pocket Knives
+    <- hub.html | 锚文本: Albacete Cutlery
+    <- hub.html | 锚文本: Sheffield Knife History
+    <- hub.html | 锚文本: Explore →
+    <- pillar-global-knife-sourcing.html | 锚文本: Explore →
+
+【pillar-global-knife-sourcing.html】被引用次数: 5
+    <- hub.html | 锚文本: Global Knife Manufacturing &am...
+    <- hub.html | 锚文本: Explore →
+    <- pillar-european-knife-regions.html | 锚文本: Compare All Regions →
+    <- pillar-european-knife-regions.html | 锚文本: Explore →
+    <- pillar-yangjiang-oem-guide.html | 锚文本: Explore →
+
+【pillar-how-kitchen-knives-are-made.html】被引用次数: 9
+    <- hub.html | 锚文本: Explore →
+    <- pillar-best-cookware-material.html | 锚文本: Manufacturing Pillar &rarr;
+    <- pillar-best-cutting-board-material.html | 锚文本: Manufacturing Pillar &rarr;
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Manufacturing →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Manufacturing →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: ManuManufacturing →insert
+    ...
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Manufacturing Pillar →
+    <- pillar-kitchen-tools-accessories.html | 锚文本: Manufacturing Pillar &rarr;
+    <- pillar-knife-history-traditions.html | 锚文本: Manufacturing Pillar →
+
+【pillar-how-to-care-for-knives.html】被引用次数: 7
+    <- hub.html | 锚文本: Explore →
+    <- pillar-best-cutting-board-material.html | 锚文本: Care Guide &rarr;
+    <- pillar-how-kitchen-knives-are-made.html | 锚文本: Care Guide Pillar →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Care Guide Pillar →
+    <- pillar-kitchen-tools-accessories.html | 锚文本: Care Guide &rarr;
+    <- pillar-pocket-outdoor-knives.html | 锚文本: Care Guide Pillar →
+    <- pillar-types-of-kitchen-knives.html | 锚文本: Care Guide Pillar →
+
+【pillar-how-to-start-a-knife-brand.html】被引用次数: 11
+    <- hub.html | 锚文本: Private Label Knife Manufactur...
+    <- hub.html | 锚文本: OEM Knife Manufacturers
+    <- hub.html | 锚文本: Dropship Knives
+    <- hub.html | 锚文本: Explore →
+    <- pillar-american-knife-companies.html | 锚文本: Explore →
+    <- pillar-best-cookware-material.html | 锚文本: Business Hub &rarr;
+    <- pillar-european-knife-regions.html | 锚文本: Explore →
+    <- pillar-global-knife-sourcing.html | 锚文本: Read the Full OEM Playbook →
+    <- pillar-global-knife-sourcing.html | 锚文本: Explore →
+    <- pillar-knife-history-traditions.html | 锚文本: Business Hub →
+    <- pillar-yangjiang-oem-guide.html | 锚文本: Explore →
+
+【pillar-japanese-knife-brands.html】被引用次数: 7
+    <- hub.html | 锚文本: Sakai and Seki
+    <- hub.html | 锚文本: Sanjo and Takefu
+    <- hub.html | 锚文本: Japanese knife steel
+    <- hub.html | 锚文本: Explore →
+    <- pillar-european-knife-regions.html | 锚文本: Explore →
+    <- pillar-global-knife-sourcing.html | 锚文本: Explore →
+    <- pillar-knife-history-traditions.html | 锚文本: Japanese Brands →
+
+【pillar-kitchen-tools-accessories.html】被引用次数: 4
+    <- hub.html | 锚文本: Explore Accessories →
+    <- pillar-best-cookware-material.html | 锚文本: Accessories Pillar &rarr;
+    <- pillar-best-cutting-board-material.html | 锚文本: Accessories Pillar &rarr;
+    <- pillar-how-to-care-for-knives.html | 锚文本: Accessories Pillar →
+
+【pillar-knife-history-traditions.html】被引用次数: 6
+    <- hub.html | 锚文本: Chinese Knife History
+    <- hub.html | 锚文本: Knife Making Regions of Japan
+    <- hub.html | 锚文本: Seki vs Solingen vs Yangjiang
+    <- hub.html | 锚文本: Explore Culture &amp; History ...
+    <- pillar-best-cookware-material.html | 锚文本: History Pillar &rarr;
+    <- pillar-best-cutting-board-material.html | 锚文本: History Pillar &rarr;
+
+【pillar-pocket-outdoor-knives.html】被引用次数: 6
+    <- hub.html | 锚文本: Explore →
+    <- pillar-best-cookware-material.html | 锚文本: Outdoor Knives Pillar &rarr;
+    <- pillar-how-kitchen-knives-are-made.html | 锚文本: Outdoor Knives Pillar →
+    <- pillar-how-to-care-for-knives.html | 锚文本: Outdoor Knives Pillar →
+    <- pillar-knife-history-traditions.html | 锚文本: Outdoor Knives Pillar →
+    <- pillar-types-of-kitchen-knives.html | 锚文本: Outdoor Knives Pillar →
+
+【pillar-powder-metallurgy-steels.html】被引用次数: 8
+    <- hub.html | 锚文本: PM steel family page
+    <- hub.html | 锚文本: Source PM steel knives →
+    <- hub.html | 锚文本: View all articles →
+    <- pillar-carbon-steels.html | 锚文本: PM Steels Pillar →
+    <- pillar-cross-family-comparisons.html | 锚文本: PM Steels Pillar →
+    <- pillar-damascus-layered.html | 锚文本: PM Steels Pillar →
+    <- pillar-stainless-steels.html | 锚文本: PM Steels Pillar →
+    <- pillar-tool-semi-stainless.html | 锚文本: PM Steels Pillar →
+
+【pillar-stainless-steels.html】被引用次数: 17
+    <- hub.html | 锚文本: Source Stainless steel knives ...
+    <- hub.html | 锚文本: View all articles →
+    <- hub.html | 锚文本: Compare full steel dataset in ...
+    <- hub.html | 锚文本: Get our full steel spec sheet ...
+    <- hub.html | 锚文本: See full steel articles
+    <- pillar-american-knife-companies.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-carbon-steels.html | 锚文本: stainless steel pillar
+    <- pillar-carbon-steels.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-cross-family-comparisons.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-european-knife-regions.html | 锚文本: Explore →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Steel pillars →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-japanese-knife-brands.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-knife-history-traditions.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-powder-metallurgy-steels.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-tool-semi-stainless.html | 锚文本: Stainless Steels Pillar →
+    <- pillar-yangjiang-oem-guide.html | 锚文本: Explore →
+
+【pillar-tool-semi-stainless.html】被引用次数: 8
+    <- hub.html | 锚文本: tool and semi-stainless
+    <- hub.html | 锚文本: Source Tool steel knives →
+    <- hub.html | 锚文本: View all articles →
+    <- pillar-carbon-steels.html | 锚文本: tool steel pillar
+    <- pillar-carbon-steels.html | 锚文本: Tool &amp; Semi-Stainless Pill...
+    <- pillar-damascus-layered.html | 锚文本: Tool &amp; Semi-Stainless Pill...
+    <- pillar-powder-metallurgy-steels.html | 锚文本: Tool &amp; Semi-Stainless Pill...
+    <- pillar-stainless-steels.html | 锚文本: Tool &amp; Semi-Stainless Pill...
+
+【pillar-types-of-kitchen-knives.html】被引用次数: 9
+    <- hub.html | 锚文本: Explore →
+    <- pillar-best-cookware-material.html | 锚文本: Kitchen Knife Types &rarr;
+    <- pillar-best-cutting-board-material.html | 锚文本: Kitchen Knife Types &rarr;
+    <- pillar-how-to-care-for-knives.html | 锚文本: Knife Types Pillar →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Knife types →
+    <- pillar-how-to-start-a-knife-brand.html | 锚文本: Knife Types Pillar →
+    <- pillar-kitchen-tools-accessories.html | 锚文本: Kitchen Knife Types &rarr;
+    <- pillar-knife-history-traditions.html | 锚文本: Kitchen Knife Types →
+    <- pillar-pocket-outdoor-knives.html | 锚文本: Knife Types Pillar →
+
+【pillar-yangjiang-oem-guide.html】被引用次数: 5
+    <- hub.html | 锚文本: Yangjiang OEM Guide
+    <- hub.html | 锚文本: Yangjiang sourcing guide
+    <- hub.html | 锚文本: OEM pitfalls
+    <- hub.html | 锚文本: Explore →
+    <- pillar-global-knife-sourcing.html | 锚文本: Explore →
+
+--------------------------------------------------------------------------------
+三、最受欢迎的内链目标 TOP 30
+--------------------------------------------------------------------------------
+
+   56 次 -> hub [本地]
+   52 次 -> https://leeknives.com/contact/ [外部]
+   20 次 -> pillar-cross-family-comparisons [本地]
+   17 次 -> pillar-stainless-steels [本地]
+   11 次 -> pillar-how-to-start-a-knife-brand [本地]
+    9 次 -> pillar-carbon-steels [本地]
+    9 次 -> pillar-how-kitchen-knives-are-made [本地]
+    9 次 -> pillar-types-of-kitchen-knives [本地]
+    8 次 -> pillar-powder-metallurgy-steels [本地]
+    8 次 -> pillar-tool-semi-stainless [本地]
+    7 次 -> pillar-how-to-care-for-knives [本地]
+    7 次 -> pillar-european-knife-regions [本地]
+    7 次 -> pillar-american-knife-companies [本地]
+    7 次 -> pillar-japanese-knife-brands [本地]
+    7 次 -> s30v-steel [外部]
+    7 次 -> oem-knife-manufacturers [外部]
+    6 次 -> pillar-pocket-outdoor-knives [本地]
+    6 次 -> pillar-knife-history-traditions [本地]
+    6 次 -> 5cr15mov [外部]
+    5 次 -> pillar-damascus-layered [本地]
+    5 次 -> pillar-best-cookware-material [本地]
+    5 次 -> pillar-global-knife-sourcing [本地]
+    5 次 -> pillar-yangjiang-oem-guide [本地]
+    5 次 -> private-label-knife-manufacturers [外部]
+    5 次 -> sg2-steel [外部]
+    4 次 -> pillar-kitchen-tools-accessories [本地]
+    4 次 -> s90v-steel [外部]
+    4 次 -> 8cr13mov [外部]
+    4 次 -> x50crmov15 [外部]
+    3 次 -> nitro-v-steel [外部]
+
+--------------------------------------------------------------------------------
+四、本地文章互相引用矩阵
+--------------------------------------------------------------------------------
+
+【hub.html】引用本地文章:
+    -> hub | types of steel for knives
+    -> hub | Rockwell scale
+    -> hub | steel composition chart
+    -> pillar-powder-metallurgy-steels | PM steel family page
+    -> hub | View all Fundamentals →
+    -> pillar-carbon-steels | Aogami vs Shirogami
+    -> pillar-carbon-steels | tamahagane
+    -> pillar-cross-family-comparisons | carbon steel vs stainless stee...
+    -> pillar-carbon-steels | Source Carbon steel knives →
+    -> pillar-carbon-steels | View all articles →
+    -> pillar-stainless-steels | Source Stainless steel knives ...
+    -> pillar-stainless-steels | View all articles →
+    -> pillar-tool-semi-stainless | tool and semi-stainless
+    -> pillar-tool-semi-stainless | Source Tool steel knives →
+    -> pillar-tool-semi-stainless | View all articles →
+    -> pillar-powder-metallurgy-steels | Source PM steel knives →
+    -> pillar-powder-metallurgy-steels | View all articles →
+    -> pillar-damascus-layered | Source Damascus knives →
+    -> pillar-damascus-layered | View all articles →
+    -> pillar-cross-family-comparisons | 8Cr13MoV vs D2Budget stainless...
+    -> pillar-cross-family-comparisons | 14C28N vs D2Corrosion-first st...
+    -> pillar-cross-family-comparisons | S35VN vs M390Two premium PM st...
+    -> pillar-cross-family-comparisons | SG2 vs VG-10Japanese PM stainl...
+    -> pillar-cross-family-comparisons | 420HC vs S30VEntry-to-mid stai...
+    -> pillar-cross-family-comparisons | Damascus vs Carbon SteelVisual...
+    -> pillar-cross-family-comparisons | AUS-8 vs D2Balanced budget sta...
+    -> pillar-cross-family-comparisons | Nitro-V vs S35VNUpper-mid stai...
+    -> pillar-cross-family-comparisons | S30V vs 154CMTwo generations o...
+    -> pillar-cross-family-comparisons | S30V vs S35VNHow Crucible refi...
+    -> pillar-cross-family-comparisons | S110V vs MagnaCutUltra-high-va...
+    -> pillar-cross-family-comparisons | Maxamet vs MagnaCutExtreme edg...
+    -> pillar-cross-family-comparisons | S45VN vs Cru-WearNext-gen Cruc...
+    -> pillar-cross-family-comparisons | 8Cr13MoV vs AUS-8Two budget wo...
+    -> pillar-cross-family-comparisons | Elmax vs S35VNB&ouml;hler-Udde...
+    -> pillar-cross-family-comparisons | Carbon vs StainlessThe fundame...
+    -> pillar-stainless-steels | Compare full steel dataset in ...
+    -> pillar-stainless-steels | Get our full steel spec sheet ...
+    -> pillar-how-kitchen-knives-are-made | Explore →
+    -> pillar-types-of-kitchen-knives | Explore →
+    -> pillar-pocket-outdoor-knives | Explore →
+    -> pillar-how-to-care-for-knives | Explore →
+    -> pillar-knife-history-traditions | Chinese Knife History
+    -> pillar-knife-history-traditions | Knife Making Regions of Japan
+    -> pillar-knife-history-traditions | Seki vs Solingen vs Yangjiang
+    -> pillar-knife-history-traditions | Explore Culture &amp; History ...
+    -> pillar-best-cookware-material | cookware materials guide
+    -> pillar-best-cookware-material | Cookware materials
+    -> pillar-best-cookware-material | Explore Cookware →
+    -> pillar-best-cutting-board-material | cutting board guide
+    -> pillar-best-cutting-board-material | Explore Cutting Boards →
+    -> pillar-kitchen-tools-accessories | Explore Accessories →
+    -> pillar-global-knife-sourcing | Global Knife Manufacturing &am...
+    -> pillar-european-knife-regions | European Knife Regions
+    -> pillar-yangjiang-oem-guide | Yangjiang OEM Guide
+    -> pillar-global-knife-sourcing | Explore →
+    -> pillar-how-to-start-a-knife-brand | Private Label Knife Manufactur...
+    -> pillar-how-to-start-a-knife-brand | OEM Knife Manufacturers
+    -> pillar-how-to-start-a-knife-brand | Dropship Knives
+    -> pillar-how-to-start-a-knife-brand | Explore →
+    -> pillar-american-knife-companies | Famous American Knife Makers
+    -> pillar-american-knife-companies | Knife Companies in Oregon
+    -> pillar-american-knife-companies | Custom Knife Makers California
+    -> pillar-american-knife-companies | Explore →
+    -> pillar-japanese-knife-brands | Sakai and Seki
+    -> pillar-japanese-knife-brands | Sanjo and Takefu
+    -> pillar-japanese-knife-brands | Japanese knife steel
+    -> pillar-japanese-knife-brands | Explore →
+    -> pillar-european-knife-regions | Solingen Knife Manufacturing
+    -> pillar-european-knife-regions | Thiers Pocket Knives
+    -> pillar-european-knife-regions | Albacete Cutlery
+    -> pillar-european-knife-regions | Sheffield Knife History
+    -> pillar-european-knife-regions | Explore →
+    -> pillar-yangjiang-oem-guide | Yangjiang sourcing guide
+    -> pillar-yangjiang-oem-guide | OEM pitfalls
+    -> pillar-yangjiang-oem-guide | Explore →
+    -> pillar-stainless-steels | See full steel articles
+    -> hub | See related products
+
+【pillar-american-knife-companies.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> hub | Back to Knowledge Center →
+    -> pillar-carbon-steels | Carbon Steels Pillar →
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-how-to-start-a-knife-brand | Explore →
+
+【pillar-best-cookware-material.html】引用本地文章:
+    -> hub | &larr; Back to Knowledge Cente...
+    -> hub | &larr; Knowledge Center
+    -> pillar-types-of-kitchen-knives | Kitchen Knife Types &rarr;
+    -> pillar-how-kitchen-knives-are-made | Manufacturing Pillar &rarr;
+    -> pillar-knife-history-traditions | History Pillar &rarr;
+    -> pillar-how-to-start-a-knife-brand | Business Hub &rarr;
+    -> pillar-pocket-outdoor-knives | Outdoor Knives Pillar &rarr;
+    -> pillar-kitchen-tools-accessories | Accessories Pillar &rarr;
+
+【pillar-best-cutting-board-material.html】引用本地文章:
+    -> hub | &larr; Back to Knowledge Cente...
+    -> hub | &larr; Knowledge Center
+    -> pillar-best-cookware-material | Cookware Pillar &rarr;
+    -> pillar-how-to-care-for-knives | Care Guide &rarr;
+    -> pillar-types-of-kitchen-knives | Kitchen Knife Types &rarr;
+    -> pillar-how-kitchen-knives-are-made | Manufacturing Pillar &rarr;
+    -> pillar-knife-history-traditions | History Pillar &rarr;
+    -> pillar-kitchen-tools-accessories | Accessories Pillar &rarr;
+
+【pillar-carbon-steels.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> pillar-cross-family-comparisons | Compare carbon vs other famili...
+    -> pillar-stainless-steels | stainless steel pillar
+    -> hub | SteeSteel Finder on the hub pa...
+    -> hub | main steel hub
+    -> pillar-tool-semi-stainless | tool steel pillar
+    -> pillar-damascus-layered | Damascus &amp; layered strateg...
+    -> hub | hub checklist standards
+    -> hub | ← Knife Steel Knowledge Center
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-tool-semi-stainless | Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels | PM Steels Pillar →
+
+【pillar-cross-family-comparisons.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | Back to full steel comparison ...
+    -> hub | Knife Steel Knowledge Center →
+    -> pillar-carbon-steels | Carbon Steels Pillar →
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-powder-metallurgy-steels | PM Steels Pillar →
+
+【pillar-damascus-layered.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | How to Choose a Layered Build
+    -> hub | ← Kn← Knife Steel Knowledge Ce...
+    -> pillar-tool-semi-stainless | Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels | PM Steels Pillar →
+
+【pillar-european-knife-regions.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> pillar-global-knife-sourcing | Compare All Regions →
+    -> pillar-global-knife-sourcing | Explore →
+    -> pillar-japanese-knife-brands | Explore →
+    -> pillar-american-knife-companies | Explore →
+    -> pillar-stainless-steels | Explore →
+    -> pillar-how-to-start-a-knife-brand | Explore →
+    -> hub | ← Knowledge Center
+
+【pillar-global-knife-sourcing.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> pillar-how-to-start-a-knife-brand | Read the Full OEM Playbook →
+    -> pillar-japanese-knife-brands | Explore →
+    -> pillar-european-knife-regions | Explore →
+    -> pillar-yangjiang-oem-guide | Explore →
+    -> pillar-american-knife-companies | Explore →
+    -> pillar-how-to-start-a-knife-brand | Explore →
+    -> hub | ← Knowledge Center
+
+【pillar-how-kitchen-knives-are-made.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | Making &amp; Using Knives
+    -> hub | U← Knife Steel Knowledge Cente...
+    -> pillar-how-to-care-for-knives | Care Guide Pillar →
+    -> pillar-pocket-outdoor-knives | Outdoor Knives Pillar →
+
+【pillar-how-to-care-for-knives.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | Making &amp; Using Knives
+    -> hub | U← Knife Steel Knowledge Cente...
+    -> pillar-types-of-kitchen-knives | Knife Types Pillar →
+    -> pillar-pocket-outdoor-knives | Outdoor Knives Pillar →
+    -> pillar-kitchen-tools-accessories | Accessories Pillar →
+
+【pillar-how-to-start-a-knife-brand.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> pillar-stainless-steels | Steel pillars →
+    -> pillar-how-kitchen-knives-are-made | Manufacturing →
+    -> pillar-types-of-kitchen-knives | Knife types →
+    -> pillar-how-kitchen-knives-are-made | Manufacturing →
+    -> pillar-how-kitchen-knives-are-made | ManuManufacturing →insert
+    ...
+    -> hub | Back to steel selection hub →
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-how-kitchen-knives-are-made | Manufacturing Pillar →
+    -> pillar-types-of-kitchen-knives | Knife Types Pillar →
+    -> pillar-how-to-care-for-knives | Care Guide Pillar →
+    -> pillar-cross-family-comparisons | VS Series Pillar →
+
+【pillar-japanese-knife-brands.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> hub | Back to Knowledge Center →
+    -> pillar-carbon-steels | Carbon Steels Pillar →
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-damascus-layered | Damascus Pillar →
+
+【pillar-kitchen-tools-accessories.html】引用本地文章:
+    -> hub | &larr; Back to Knowledge Cente...
+    -> hub | &larr; Knowledge Center
+    -> pillar-how-to-care-for-knives | Care Guide &rarr;
+    -> pillar-best-cutting-board-material | Cutting Board Pillar &rarr;
+    -> pillar-types-of-kitchen-knives | Kitchen Knife Types &rarr;
+    -> pillar-best-cookware-material | Cookware Pillar &rarr;
+    -> pillar-how-kitchen-knives-are-made | Manufacturing Pillar &rarr;
+
+【pillar-knife-history-traditions.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> hub | Back to Knowledge Center →
+    -> pillar-types-of-kitchen-knives | Kitchen Knife Types →
+    -> pillar-pocket-outdoor-knives | Outdoor Knives Pillar →
+    -> pillar-japanese-knife-brands | Japanese Brands →
+    -> pillar-american-knife-companies | American Makers →
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-how-kitchen-knives-are-made | Manufacturing Pillar →
+    -> pillar-how-to-start-a-knife-brand | Business Hub →
+
+【pillar-pocket-outdoor-knives.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> hub | Making &amp; Using Knives
+    -> hub | U← Knife Steel Knowledge Cente...
+    -> pillar-types-of-kitchen-knives | Knife Types Pillar →
+    -> pillar-how-to-care-for-knives | Care Guide Pillar →
+
+【pillar-powder-metallurgy-steels.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | See comparison chart in the hu...
+    -> pillar-damascus-layered | Damascus &amp; Layered Pillar ...
+    -> pillar-tool-semi-stainless | Tool &amp; Semi-Stainless Pill...
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+
+【pillar-stainless-steels.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | ← Kn← Knife Steel Knowledge Ce...
+    -> pillar-tool-semi-stainless | Tool &amp; Semi-Stainless Pill...
+    -> pillar-powder-metallurgy-steels | PM Steels Pillar →
+
+【pillar-tool-semi-stainless.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | Popular Grades at a Glance
+    -> hub | See all families in thSee all ...
+    -> hub | ← Knife Steel Knowledge Center
+    -> pillar-stainless-steels | Stainless Steels Pillar →
+    -> pillar-carbon-steels | Carbon Steels Pillar →
+    -> pillar-powder-metallurgy-steels | PM Steels Pillar →
+
+【pillar-types-of-kitchen-knives.html】引用本地文章:
+    -> hub | ← Back to Steel Knowledge Cent...
+    -> hub | Making &amp; Using Knives
+    -> hub | U← Knife Steel Knowledge Cente...
+    -> pillar-how-to-care-for-knives | Care Guide Pillar →
+    -> pillar-pocket-outdoor-knives | Outdoor Knives Pillar →
+
+【pillar-yangjiang-oem-guide.html】引用本地文章:
+    -> hub | ← Back to Knowledge Center
+    -> pillar-global-knife-sourcing | Explore →
+    -> pillar-how-to-start-a-knife-brand | Explore →
+    -> pillar-stainless-steels | Explore →
+    -> pillar-carbon-steels | Explore →
+    -> pillar-cross-family-comparisons | Explore →
+    -> hub | ← Knowledge Center

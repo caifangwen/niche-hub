@@ -1,0 +1,203 @@
+==========================================================================================
+内链引用全局分布与修复计划
+==========================================================================================
+
+核心原则：
+1. 每个博客URL在全站最多被引用 5 次
+2. 每个博客URL至少被引用 1 次（当前 uncovered 需补齐）
+3. 引用过度集中 hub.html，需分散到各 Pillar
+4. 锚文本自然融入正文，不重复堆砌
+
+------------------------------------------------------------------------------------------
+一、引用超限的博客（需削减到 5 次以内）
+------------------------------------------------------------------------------------------
+
+【s30v-steel】当前 7 次
+  关键词: s30v steel
+  所属分类: American & Premium Steels
+  出现位置:
+    - pillar-american-knife-companies.html
+    - pillar-cross-family-comparisons.html
+    - pillar-global-knife-sourcing.html
+    - pillar-knife-history-traditions.html
+    - pillar-pocket-outdoor-knives.html
+    - pillar-powder-metallurgy-steels.html
+    - pillar-stainless-steels.html
+  建议移除位置（保留前5个最相关的）:
+    -> pillar-powder-metallurgy-steels.html
+    -> pillar-stainless-steels.html
+
+【oem-knife-manufacturers】当前 7 次
+  关键词: oem knife manufacturers
+  所属分类: Sourcing & OEM
+  出现位置:
+    - pillar-best-cookware-material.html
+    - pillar-best-cutting-board-material.html
+    - pillar-european-knife-regions.html
+    - pillar-how-to-care-for-knives.html
+    - pillar-kitchen-tools-accessories.html
+    - pillar-pocket-outdoor-knives.html
+    - pillar-types-of-kitchen-knives.html
+  建议移除位置（保留前5个最相关的）:
+    -> pillar-pocket-outdoor-knives.html
+    -> pillar-types-of-kitchen-knives.html
+
+【5cr15mov】当前 6 次
+  关键词: 5cr15mov
+  所属分类: Chinese Steels
+  出现位置:
+    - pillar-global-knife-sourcing.html
+    - pillar-how-kitchen-knives-are-made.html
+    - pillar-japanese-knife-brands.html
+    - pillar-pocket-outdoor-knives.html
+    - pillar-stainless-steels.html
+    - pillar-yangjiang-oem-guide.html
+  建议移除位置（保留前5个最相关的）:
+    -> pillar-yangjiang-oem-guide.html
+
+------------------------------------------------------------------------------------------
+二、未被引用的博客分配计划（共 69 个）
+------------------------------------------------------------------------------------------
+
+【目标文件】hub.html  需新增 2 个引用
+  -> <a href="best-cutting-board-material">best cutting board material</a>  []
+  -> <a href="spay-blade">spey blade</a>  []
+
+【目标文件】pillar-american-knife-companies.html  需新增 7 个引用
+  -> <a href="d2-steel">d2 steel</a>  [American & Premium Steels]
+  -> <a href="s35vn-steel">s35vn steel</a>  [American & Premium Steels]
+  -> <a href="cpm-s45vn">cpm s45vn</a>  [American & Premium Steels]
+  -> <a href="nitro-v-steel-vs-s35vn">nitro v steel vs s35vn</a>  [American & Premium Steels]
+  -> <a href="nitro-v-steel-vs-d2">nitro v steel vs d2</a>  [American & Premium Steels]
+  -> <a href="h1-steel">h1 steel</a>  [American & Premium Steels]
+  -> <a href="cpm-s110v">cpm s110v</a>  [American & Premium Steels]
+
+【目标文件】pillar-best-cookware-material.html  需新增 2 个引用
+  -> <a href="enameled-cast-iron-care">enameled cast iron care</a>  [Enameled Cast Iron]
+  -> <a href="dutch-oven-manufacturers">dutch oven manufacturers</a>  [Cookware Business & Sourcing]
+
+【目标文件】pillar-best-cutting-board-material.html  需新增 1 个引用
+  -> <a href="face-grain-vs-edge-grain-vs-end-grain">edge grain vs end grain cutting board,
+face grain vs edge grain</a>  [Construction & Grain Types]
+
+【目标文件】pillar-carbon-steels.html  需新增 1 个引用
+  -> <a href="w2-steel">w2 steel</a>  [Carbon & Tool Steels]
+
+【目标文件】pillar-cross-family-comparisons.html  需新增 1 个引用
+  -> <a href="powder-steel">powder steel</a>  [Steel Science & Selection]
+
+【目标文件】pillar-european-knife-regions.html  需新增 2 个引用
+  -> <a href="n690-steel">n690 steel</a>  [German & European Steels]
+  -> <a href="nitro-v-vs-14c28n">nitro v vs 14c28n</a>  [German & European Steels]
+
+【目标文件】pillar-global-knife-sourcing.html  需新增 14 个引用
+  -> <a href="axe-manufacturers">axe manufacturers</a>  [Sourcing & OEM]
+  -> <a href="au-axe-manufacturers">australian axe manufacturers</a>  [Sourcing & OEM]
+  -> <a href="axe-manufacturers-uk">axe manufacturers uk</a>  [Sourcing & OEM]
+  -> <a href="china-axe-suppliers">china axe supplier</a>  [Sourcing & OEM]
+  -> <a href="china-kitchen-utensil-manufacturers">kitchen utensils manufacturers in china</a>  [Sourcing & OEM]
+  -> <a href="silicone-kitchen-utensil-manufacturers">silicone kitchen utensils manufacturers</a>  [Sourcing & OEM]
+  -> <a href="stainless-steel-utensil-manufacturers">stainless steel utensils manufacturers</a>  [Sourcing & OEM]
+  -> <a href="bamboo-utensil-manufacturers">bamboo utensils manufacturers</a>  [Sourcing & OEM]
+  -> <a href="wooden-utensil-manufacturers">wooden utensils manufacturers</a>  [Sourcing & OEM]
+  -> <a href="best-axe-brands">best axe brands</a>  [Sourcing & OEM]
+  -> <a href="types-of-axes">types of axes</a>  [Sourcing & OEM]
+  -> <a href="throwing-axes">throwing axes</a>  [Sourcing & OEM]
+  -> <a href="how-coolina-knives-are-made">how coolina knives are made</a>  [Sourcing & OEM]
+  -> <a href="serbian-chef-knife">serbian chef knife</a>  [Sourcing & OEM]
+
+【目标文件】pillar-how-kitchen-knives-are-made.html  需新增 9 个引用
+  -> <a href="how-are-knives-made">how are knives made</a>  [Manufacturing Processes]
+  -> <a href="reverse-tanto-blade">reverse tanto</a>  [Blade Anatomy & Construction]
+  -> <a href="tanto-blade">tanto blade</a>  [Blade Anatomy & Construction]
+  -> <a href="tanto-vs-reverse-tanto">tanto vs reverse tanto</a>  [Blade Anatomy & Construction]
+  -> <a href="clip-point-vs-drop-point">clip point vs drop point</a>  [Blade Anatomy & Construction]
+  -> <a href="sheepfoot-blade">sheepfoot blade</a>  [Blade Anatomy & Construction]
+  -> <a href="spear-point-blade">spear point blade</a>  [Blade Anatomy & Construction]
+  -> <a href="hawkbill-blade">hawkbill blade</a>  [Blade Anatomy & Construction]
+  -> <a href="best-handforged-knife-blades">best handforged knife blades</a>  [Manufacturing Processes]
+
+【目标文件】pillar-how-to-care-for-knives.html  需新增 2 个引用
+  -> <a href="carbon-steel-knife-care">carbon steel knife care</a>  [Daily Care & Storage]
+  -> <a href="knife-sharpener-manufacturers">knife sharpener manufacturers</a>  [Sharpening]
+
+【目标文件】pillar-how-to-start-a-knife-brand.html  需新增 3 个引用
+  -> <a href="best-chinese-knife-brands">best chinese knife brands</a>  [Business Planning]
+  -> <a href="best-knife-brands">best knife brands</a>  [Business Planning]
+  -> <a href="best-handforged-knife-brands">best handforged knife brands</a>  [Business Planning]
+
+【目标文件】pillar-japanese-knife-brands.html  需新增 4 个引用
+  -> <a href="vg-10-steel">vg 10 steel</a>  [Japanese Steels]
+  -> <a href="zdp-189-steel">zdp 189 steel</a>  [Japanese Steels]
+  -> <a href="aus-8-steel">aus 8 steel</a>  [Japanese Steels]
+  -> <a href="8cr13mov-vs-aus-8">8cr13mov vs aus 8</a>  [Japanese Steels]
+
+【目标文件】pillar-kitchen-tools-accessories.html  需新增 4 个引用
+  -> <a href="grivory-vs-g10">grivory vs g10</a>  [Handle Materials & Design]
+  -> <a href="boltaron-vs-kydex">boltaron vs kydex</a>  [Handle Materials & Design]
+  -> <a href="colored-carbon-fiber">colored carbon fiber</a>  [Handle Materials & Design]
+  -> <a href="lexan-material">lexan material</a>  [Handle Materials & Design]
+
+【目标文件】pillar-pocket-outdoor-knives.html  需新增 3 个引用
+  -> <a href="types-of-pocket-knives">types of pocket knives</a>  [Knife Selection & Sets]
+  -> <a href="bushcraft-vs-survival-knife">bushcraft vs survival knife</a>  [Knife Selection & Sets]
+  -> <a href="pocket-knife-rules-laws">is it illegal to carry a pocket knife, pocket knife laws</a>  [Legal & Compliance]
+
+【目标文件】pillar-stainless-steels.html  需新增 1 个引用
+  -> <a href="440a-steel">440a steel</a>  [Stainless / Budget Steels]
+
+【目标文件】pillar-types-of-kitchen-knives.html  需新增 12 个引用
+  -> <a href="best-steel-for-kitchen-knives">best steel for kitchen knives</a>  [parts of a knife]
+  -> <a href="carving-knife-vs-chef-knife">carving knife vs chef knife</a>  [Western Specialty Knives]
+  -> <a href="what-is-a-fixed-blade-knife">what is a fixed blade knife</a>  [Japanese Kitchen Knives]
+  -> <a href="fixed-blade-vs-folding-knife">fixed blade vs folding knife</a>  [Japanese Kitchen Knives]
+  -> <a href="pocket-knife-uses">pocket knife uses</a>  [Japanese Kitchen Knives]
+  -> <a href="hunting-knife-anatomy">parts of a hunting knife</a>  [Japanese Kitchen Knives]
+  -> <a href="what-is-an-otf-knife">what is an otf knife</a>  [Japanese Kitchen Knives]
+  -> <a href="crossbar-lock">crossbar lock knives</a>  [Japanese Kitchen Knives]
+  -> <a href="how-to-carry-a-fixed-blade-knife">how to carry a fixed blade knife</a>  [Japanese Kitchen Knives]
+  -> <a href="super-steels">super steels</a>  [Japanese Kitchen Knives]
+  -> <a href="types-of-switchblades">types of switchblades</a>  [Japanese Kitchen Knives]
+  -> <a href="types-of-hunting-knives">types of hunting knife</a>  [Japanese Kitchen Knives]
+
+【目标文件】pillar-yangjiang-oem-guide.html  需新增 1 个引用
+  -> <a href="3cr13-steel">3cr13 steel</a>  [Chinese Steels]
+
+------------------------------------------------------------------------------------------
+三、各文件新增引用汇总
+------------------------------------------------------------------------------------------
+
+hub.html: +2 个引用
+pillar-american-knife-companies.html: +7 个引用
+pillar-best-cookware-material.html: +2 个引用
+pillar-best-cutting-board-material.html: +1 个引用
+pillar-carbon-steels.html: +1 个引用
+pillar-cross-family-comparisons.html: +1 个引用
+pillar-european-knife-regions.html: +2 个引用
+pillar-global-knife-sourcing.html: +14 个引用
+pillar-how-kitchen-knives-are-made.html: +9 个引用
+pillar-how-to-care-for-knives.html: +2 个引用
+pillar-how-to-start-a-knife-brand.html: +3 个引用
+pillar-japanese-knife-brands.html: +4 个引用
+pillar-kitchen-tools-accessories.html: +4 个引用
+pillar-pocket-outdoor-knives.html: +3 个引用
+pillar-stainless-steels.html: +1 个引用
+pillar-types-of-kitchen-knives.html: +12 个引用
+pillar-yangjiang-oem-guide.html: +1 个引用
+
+------------------------------------------------------------------------------------------
+四、执行说明
+------------------------------------------------------------------------------------------
+
+步骤1：削减超限引用
+  - 从超限博客出现位置中，移除与主题关联最弱的引用
+  - 优先保留 Pillar 直属分类内的引用
+
+步骤2：插入 uncovered 博客引用
+  - 在分配的 Pillar 文件正文描述段落中，自然插入链接
+  - 锚文本使用博客关键词或自然语句
+  - 每段插入1-2个，不连续堆叠
+
+步骤3：验证
+  - 确保每个博客URL在全站出现 1-5 次
+  - hub.html 引用数量精简到合理范围

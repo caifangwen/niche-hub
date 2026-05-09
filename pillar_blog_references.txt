@@ -1,0 +1,423 @@
+==========================================================================================
+各 Pillar 页面引用的博客文章清单
+==========================================================================================
+
+说明：只列出 href 与 Excel 中博客 URL 匹配的链接
+
+------------------------------------------------------------------------------------------
+【hub.html】引用博客数: 8
+------------------------------------------------------------------------------------------
+  -> nitro-v-steel | 锚文本: "Nitro-V"
+  -> magnacut-steel | 锚文本: "MagnaCut"
+  -> san-mai | 锚文本: "San Mai"
+  -> damasteel-vs-damascus | 锚文本: "Damasteel and traditional Damascus"
+  -> 8cr13mov-vs-d2 | 锚文本: "8Cr13MoV"
+  -> 14c28n-steel | 锚文本: "14C28N"
+  -> s35vn-vs-d2 | 锚文本: "S35VN"
+  -> m390-steel | 锚文本: "M390"
+
+------------------------------------------------------------------------------------------
+【pillar-american-knife-companies.html】引用博客数: 4
+------------------------------------------------------------------------------------------
+  -> yangjiang-knife | 锚文本: "Yangjiang knife manufacturing"
+  -> s30v-steel | 锚文本: "S30V"
+  -> s90v-steel | 锚文本: "S90V"
+  -> shirogami-vs-aogami | 锚文本: "high-carbon steels"
+
+------------------------------------------------------------------------------------------
+【pillar-best-cookware-material.html】引用博客数: 36
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> what-is-enameled-cast-iron | 锚文本: "Cast iron"
+  -> 1810-188-180-stainless-steel | 锚文本: "Stainless steel"
+  -> damascus-steel-vs-carbon-steel | 锚文本: "Carbon steel"
+  -> enameled-cast-iron-vs-cast-iron | 锚文本: "enameled vs cast iron"
+  -> is-cast-iron-non-stick | 锚文本: "non-stick properties"
+  -> cast-iron-skillet-sizes | 锚文本: "skillet sizes"
+  -> can-cast-iron-skillet-go-in-oven | 锚文本: "oven safety"
+  -> cast-iron-in-dishwasher | 锚文本: "dishwasher safety"
+  -> does-cast-iron-work-on-induction | 锚文本: "induction compatibility"
+  -> cast-aluminum-vs-cast-iron | 锚文本: "cast aluminum vs cast iron"
+  -> cast-iron-vs-stainless-steel | 锚文本: "cast iron vs stainless steel"
+  -> how-are-cast-iron-skillets-made | 锚文本: "how skillets are made"
+  -> history-of-cast-iron-cookware | 锚文本: "history of cast iron"
+  -> is-lodge-cast-iron-made-in-china | 锚文本: "Lodge made in China"
+  -> cast-iron-on-glass-top-stove | 锚文本: "glass top stove safety"
+  -> enameled-cast-iron-cookware-pros-cons | 锚文本: "pros and cons"
+  -> enameled-cast-iron-vs-stainless-steel | 锚文本: "vs stainless steel"
+  -> enamel-vs-ceramic-cookware | 锚文本: "enamel vs ceramic"
+  -> is-enameled-cast-iron-non-stick | 锚文本: "non-stick"
+  -> is-enameled-cast-iron-safe | 锚文本: "safety"
+  -> best-cookware-material | 锚文本: "best cookware materials"
+  -> best-non-stick-pan-material | 锚文本: "non-stick materials"
+  -> is-cookware-made-in-china-safe | 锚文本: "China-made safety"
+  -> cookware-wholesale-distributors | 锚文本: "wholesale distributors"
+  -> cookware-manufacturers | 锚文本: "manufacturers"
+  -> cast-iron-cookware-manufacturers | 锚文本: "cast iron manufacturers"
+  -> non-stick-vs-stainless-steel | 锚文本: "non-stick vs stainless"
+  -> alternatives-to-non-stick-pan | 锚文本: "alternatives to non-stick"
+  -> are-non-stick-pans-dishwasher-safe | 锚文本: "dishwasher safety"
+  -> can-non-stick-pans-go-in-the-oven | 锚文本: "oven safety"
+  -> is-non-stick-cookware-safe | 锚文本: "safety"
+  -> is-enameled-cast-iron-dishwasher-safe | 锚文本: "dishwasher safe"
+  -> can-enameled-cast-iron-go-in-the-oven | 锚文本: "oven safe"
+  -> does-enameled-cast-iron-work-on-induction | 锚文本: "induction"
+  -> metal-utensils-on-enameled-cast-iron | 锚文本: "metal utensils"
+
+------------------------------------------------------------------------------------------
+【pillar-best-cutting-board-material.html】引用博客数: 30
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> types-of-cutting-boards | 锚文本: "types of cutting boards"
+  -> best-wood-for-cutting-board | 锚文本: "best wood options"
+  -> acacia-wood-vs-teak | 锚文本: "acacia vs teak"
+  -> bamboo-vs-wood-cutting-board | 锚文本: "bamboo vs wood"
+  -> wood-vs-plastic-cutting-board | 锚文本: "wood vs plastic"
+  -> are-wood-cutting-boards-sanitary | 锚文本: "sanitary concerns"
+  -> cutting-board-sizes | 锚文本: "cutting board sizes"
+  -> is-acacia-wood-good-for-cutting-boards | 锚文本: "acacia wood"
+  -> is-teak-good-for-cutting-boards | 锚文本: "teak"
+  -> is-mahogany-good-for-cutting-boards | 锚文本: "mahogany"
+  -> is-oak-good-for-cutting-boards | 锚文本: "oak"
+  -> is-poplar-good-for-cutting-boards | 锚文本: "poplar"
+  -> is-bamboo-good-for-cutting-boards | 锚文本: "bamboo"
+  -> best-cutting-board-for-knives | 锚文本: "best for knives"
+  -> most-sanitary-cutting-board | 锚文本: "most sanitary"
+  -> butcher-block-vs-cutting-board | 锚文本: "butcher block vs cutting board"
+  -> best-wood-for-charcuterie-board | 锚文本: "charcuterie boards"
+  -> is-walnut-good-for-cutting-boards | 锚文本: "walnut"
+  -> is-ash-good-for-cutting-boards | 锚文本: "ash"
+  -> is-birch-good-for-cutting-boards | 锚文本: "birch"
+  -> is-alder-good-for-cutting-boards | 锚文本: "alder"
+  -> is-cedar-good-for-cutting-boards | 锚文本: "cedar"
+  -> is-cherry-good-for-cutting-boards | 锚文本: "cherry"
+  -> are-marble-cutting-boards-good | 锚文本: "marble"
+  -> is-zebra-wood-good-for-cutting-boards | 锚文本: "zebrawood"
+  -> are-glass-cutting-boards-good | 锚文本: "glass"
+  -> are-plastic-cutting-boards-safe | 锚文本: "plastic safety"
+  -> charcuterie-board-vs-cutting-board | 锚文本: "charcuterie vs cutting board"
+  -> best-cookware-material-for-gas-stove | 锚文本: "cookware material guide"
+
+------------------------------------------------------------------------------------------
+【pillar-carbon-steels.html】引用博客数: 6
+------------------------------------------------------------------------------------------
+  -> 1095-steel | 锚文本: "1095"
+  -> 52100-steel | 锚文本: "52100"
+  -> private-label-knife-manufacturers | 锚文本: "Private Label"
+  -> 1055-steel | 锚文本: "1055 steel properties"
+  -> carbon-steel-patina | 锚文本: "carbon steel patina formation"
+  -> forged-vs-stamped-knives | 锚文本: "forged vs stamped construction"
+
+------------------------------------------------------------------------------------------
+【pillar-cross-family-comparisons.html】引用博客数: 16
+------------------------------------------------------------------------------------------
+  -> 8cr13mov | 锚文本: "8Cr13MoV"
+  -> a2-steel | 锚文本: "Tool Steel"
+  -> Japanese-steel | 锚文本: "to Japanese"
+  -> sg2-steel | 锚文本: "SG2"
+  -> 420-steel | 锚文本: "420HC"
+  -> s30v-steel | 锚文本: "S30V"
+  -> nitro-v-steel | 锚文本: "Nitro-V"
+  -> s30v-vs-s90v | 锚文本: "S30V vs S90V"
+  -> 14c28n-vs-d2 | 锚文本: "14C28N vs D2"
+  -> d2-vs-s30v | 锚文本: "D2 vs S30V"
+  -> aus-8-vs-d2 | 锚文本: "AUS-8 vs D2"
+  -> s35vn-vs-m390 | 锚文本: "S35VN vs M390"
+  -> s30v-vs-s35vn | 锚文本: "S30V vs S35VN"
+  -> 420hc-vs-s30v | 锚文本: "420HC vs S30V"
+  -> 8cr13mov-vs-440c | 锚文本: "8Cr13MoV vs 440C"
+  -> why-damascus-steel-so-expensive | 锚文本: "why Damascus is expensive"
+
+------------------------------------------------------------------------------------------
+【pillar-damascus-layered.html】引用博客数: 13
+------------------------------------------------------------------------------------------
+  -> san-mai | 锚文本: "San Mai"
+  -> sg2-steel | 锚文本: "SG2"
+  -> damasteel-vs-damascus | 锚文本: "Damasteel"
+  -> damasteel-vs-damascus | 锚文本: "Damasteel"
+  -> layered-steel-knife | 锚文本: "Layered Steel"
+  -> private-label-knife-manufacturers | 锚文本: "Private Label"
+  -> custom-cookware-manufacturers | 锚文本: "Custom OEM"
+  -> what-is-damascus-steel | 锚文本: "what is Damascus steel"
+  -> damascus-patterns | 锚文本: "Damascus pattern designs"
+  -> is-damascus-steel-strong | 锚文本: "strength comparison"
+  -> how-to-tell-if-damascus-is-real | 锚文本: "real vs fake Damascus"
+  -> how-is-damascus-steel-made | 锚文本: "how Damascus is made"
+  -> ceramic-vs-steel-knife | 锚文本: "ceramic vs steel knives"
+
+------------------------------------------------------------------------------------------
+【pillar-european-knife-regions.html】引用博客数: 7
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> x50crmov15 | 锚文本: "X50CrMoV15"
+  -> 1-4116-steel | 锚文本: "1.4116"
+  -> 12c27-steel | 锚文本: "12C27"
+  -> japanese-vs-german-knives | 锚文本: "Japanese vs German"
+  -> boning-knife-vs-fillet-knife | 锚文本: "boning vs fillet"
+  -> slicing-knife-vs-carving-knife | 锚文本: "slicing vs carving"
+
+------------------------------------------------------------------------------------------
+【pillar-global-knife-sourcing.html】引用博客数: 4
+------------------------------------------------------------------------------------------
+  -> x50crmov15 | 锚文本: "X50CrMoV15"
+  -> s30v-steel | 锚文本: "S30V"
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> sg2-steel | 锚文本: "SG2"
+
+------------------------------------------------------------------------------------------
+【pillar-how-kitchen-knives-are-made.html】引用博客数: 7
+------------------------------------------------------------------------------------------
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> forged-vs-stamped-knives | 锚文本: "forged vs stamped"
+  -> heat-treating-knives | 锚文本: "heat treatment"
+  -> quenching | 锚文本: "quenching process"
+  -> rockwell-hardness-scale | 锚文本: "Rockwell hardness scale"
+  -> knife-testing | 锚文本: "knife testing"
+  -> rockwell-hardness-scale | 锚文本: "Rockwell hardness"
+
+------------------------------------------------------------------------------------------
+【pillar-how-to-care-for-knives.html】引用博客数: 10
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> s90v-steel | 锚文本: "S90V"
+  -> k390-steel | 锚文本: "K390"
+  -> whetstone-vs-sharpener | 锚文本: "whetstone vs sharpener"
+  -> whetstone-grit | 锚文本: "whetstone grit guide"
+  -> honing-vs-sharpening | 锚文本: "honing vs sharpening"
+  -> knife-sharpening-angle | 锚文本: "sharpening angles"
+  -> what-is-a-whetstone | 锚文本: "what is a whetstone"
+  -> types-of-sharpening-stones | 锚文本: "types of sharpening stones"
+  -> knife-sharpness-test | 锚文本: "sharpness tests"
+
+------------------------------------------------------------------------------------------
+【pillar-how-to-start-a-knife-brand.html】引用博客数: 4
+------------------------------------------------------------------------------------------
+  -> frame-lock-vs-liner-lock | 锚文本: "Deep Dive"
+  -> dropship-knives | 锚文本: "dropshipping knives"
+  -> selling-knives-online | 锚文本: "selling knives online"
+  -> how-to-buy-knives-wholesale | 锚文本: "buying wholesale"
+
+------------------------------------------------------------------------------------------
+【pillar-japanese-knife-brands.html】引用博客数: 8
+------------------------------------------------------------------------------------------
+  -> sg2-steel | 锚文本: "SG2"
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> gyuto-guide | 锚文本: "The Japanese"
+  -> japanese-vs-german-knives | 锚文本: "Japanese vs German knives"
+  -> japanese-knife-types | 锚文本: "Japanese knife types overview"
+  -> gyuto-vs-santoku | 锚文本: "Gyuto vs Santoku"
+  -> shirogami-vs-aogami | 锚文本: "Shirogami and Aogami"
+  -> san-mai | 锚文本: "San Mai"
+
+------------------------------------------------------------------------------------------
+【pillar-kitchen-tools-accessories.html】引用博客数: 22
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> kitchen-knife-handle | 锚文本: "knife handles"
+  -> kitchen-knife-parts-and-anatomy | 锚文本: "knife parts and anatomy"
+  -> pakkawood | 锚文本: "pakkawood handles"
+  -> best-wood-for-knife-handles | 锚文本: "best wood for handles"
+  -> granton-edge | 锚文本: "Granton edge"
+  -> wa-handle | 锚文本: "Japanese wa-handle"
+  -> knife-handle-designs | 锚文本: "handle designs"
+  -> guide-to-knife-handle-material | 锚文本: "handle materials"
+  -> what-is-stabilized-wood | 锚文本: "stabilized wood"
+  -> best-leather-for-knife-sheath | 锚文本: "leather sheaths"
+  -> types-of-sheaths | 锚文本: "types of sheaths"
+  -> knife-balance | 锚文本: "knife balance"
+  -> types-of-flatware | 锚文本: "types of flatware"
+  -> unagisaki-eel-knife-guide | 锚文本: "unagisaki eel knife"
+  -> chukabocho-cleaver-guide | 锚文本: "chukabocho cleaver"
+  -> pankiri-guide | 锚文本: "pankiri bread knife"
+  -> micarta-vs-g10 | 锚文本: "micarta vs G10"
+  -> g10-material | 锚文本: "G10"
+  -> micarta-material | 锚文本: "micarta"
+  -> ultem-material | 锚文本: "ultem"
+  -> best-cookware-material-for-gas-stove | 锚文本: "cookware material guide"
+
+------------------------------------------------------------------------------------------
+【pillar-knife-history-traditions.html】引用博客数: 12
+------------------------------------------------------------------------------------------
+  -> x50crmov15 | 锚文本: "X50CrMoV15"
+  -> carbon-steel-vs-stainless-steel-knife | 锚文本: "stainless steel"
+  -> 65mn-steel | 锚文本: "carbon steel"
+  -> wootz-steel-vs-damascus | 锚文本: "crucible steel"
+  -> pattern-welding | 锚文本: "pattern welding"
+  -> 440c-steel | 锚文本: "440C"
+  -> ats-34-steel | 锚文本: "ATS-34"
+  -> s30v-steel | 锚文本: "S30V"
+  -> 1095-steel | 锚文本: "1095"
+  -> how-is-damascus-steel-made | 锚文本: "Damascus making"
+  -> forged-vs-stamped-knives | 锚文本: "forged vs stamped"
+  -> rockwell-hardness-scale | 锚文本: "Rockwell hardness"
+
+------------------------------------------------------------------------------------------
+【pillar-pocket-outdoor-knives.html】引用博客数: 24
+------------------------------------------------------------------------------------------
+  -> knife-lock-types-guide | 锚文本: "frame locks and axis locking systems"
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> 8cr13mov | 锚文本: "8Cr13MoV"
+  -> 420-steel | 锚文本: "420HC"
+  -> frn-handle | 锚文本: "FRN"
+  -> 440c-steel | 锚文本: "440C"
+  -> s30v-steel | 锚文本: "S30V"
+  -> 154cm-steel | 锚文本: "154CM"
+  -> drop-point-blade | 锚文本: "Drop point"
+  -> clip-point-blade | 锚文本: "Clip point"
+  -> 1095-steel | 锚文本: "1095"
+  -> chinese-cleaver | 锚文本: "Chinese cleaver"
+  -> cai-dao | 锚文本: "Cai Dao"
+  -> carving-knife-guide | 锚文本: "carving knives"
+  -> paring-knife-guide | 锚文本: "paring knives"
+  -> meat-cleaver-guide | 锚文本: "meat cleavers"
+  -> best-pocket-knife-steels | 锚文本: "best steels"
+  -> knife-grinds-guide | 锚文本: "blade grinds"
+  -> knife-blade-shapes-guide | 锚文本: "blade shapes"
+  -> what-are-switchblades | 锚文本: "switchblades"
+  -> what-are-automatic-knives | 锚文本: "automatic knives"
+  -> knife-opening-mechanisms-guide | 锚文本: "opening mechanisms"
+  -> pocket-knife-anatomy | 锚文本: "pocket knife anatomy"
+
+------------------------------------------------------------------------------------------
+【pillar-powder-metallurgy-steels.html】引用博客数: 22
+------------------------------------------------------------------------------------------
+  -> s35vn-vs-d2 | 锚文本: "S35VN"
+  -> elmax-steel | 锚文本: "Elmax"
+  -> s30v-steel | 锚文本: "S30V"
+  -> s90v-steel | 锚文本: "S90V"
+  -> ats-34-steel | 锚文本: "ATS-34"
+  -> 20cv-steel | 锚文本: "20CV"
+  -> cts-xhp-steel | 锚文本: "CTS-XHP"
+  -> cts-bd1-steel | 锚文本: "CTS-BD1"
+  -> rex-45-steel | 锚文本: "Rex 45"
+  -> cpm-spy27 | 锚文本: "CPM SPY27"
+  -> private-label-knife-manufacturers | 锚文本: "Private Label"
+  -> 20cv-steel | 锚文本: "20CV"
+  -> magnacut-steel | 锚文本: "MagnaCut →"
+  -> sg2-steel | 锚文本: "SG2"
+  -> types-of-kitchen-knives | 锚文本: "Kitchen Knives"
+  -> 154cm-steel | 锚文本: "154CM"
+  -> 20cv-steel | 锚文本: "20CV"
+  -> cts-xhp-steel | 锚文本: "CTS-XHP"
+  -> cts-bd1-steel | 锚文本: "CTS-BD1"
+  -> cpm-spy27 | 锚文本: "CPM SPY27"
+  -> rex-45-steel | 锚文本: "Rex 45"
+  -> s90v-steel | 锚文本: "S90V"
+
+------------------------------------------------------------------------------------------
+【pillar-stainless-steels.html】引用博客数: 19
+------------------------------------------------------------------------------------------
+  -> x50crmov15 | 锚文本: "X50CrMoV15"
+  -> 14c28n-steel | 锚文本: "14C28N"
+  -> 420-steel | 锚文本: "420HC"
+  -> 440c-steel | 锚文本: "440C"
+  -> 1-4116-steel | 锚文本: "1.4116"
+  -> 154cm-steel | 锚文本: "154CM"
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> private-label-knife-manufacturers | 锚文本: "Private Label"
+  -> nitro-v-steel | 锚文本: "Nitro-V"
+  -> 8cr13mov | 锚文本: "8Cr13MoV"
+  -> types-of-kitchen-knives | 锚文本: "Kitchen Knives"
+  -> butcher-knife-guide | 锚文本: "Butcher Knives"
+  -> s125v-steel | 锚文本: "CPM"
+  -> s30v-steel | 锚文本: "S30V steel"
+  -> 10cr15comov | 锚文本: "10Cr15coMoV steel"
+  -> 420j2-steel | 锚文本: "420J2"
+  -> aus-6-steel | 锚文本: "AUS-6"
+  -> aus-10-steel | 锚文本: "AUS-10"
+  -> aeb-l-steel | 锚文本: "AEB-L"
+
+------------------------------------------------------------------------------------------
+【pillar-tool-semi-stainless.html】引用博客数: 13
+------------------------------------------------------------------------------------------
+  -> cruwear-steel | 锚文本: "CPM Cru-Wear"
+  -> 12c27-steel | 锚文本: "12C27"
+  -> o1-tool-steel | 锚文本: "Tool Steel"
+  -> private-label-knife-manufacturers | 锚文本: "Private Label"
+  -> k110-steel | 锚文本: "K110"
+  -> 8cr13mov | 锚文本: "8Cr13MoV"
+  -> s125v-steel | 锚文本: "CPM"
+  -> m4-steel | 锚文本: "CPM M4"
+  -> k390-steel | 锚文本: "K390"
+  -> maxamet | 锚文本: "Maxamet"
+  -> bg42-steel | 锚文本: "BG42"
+  -> 3v-steel | 锚文本: "3V"
+  -> vanadis-4e | 锚文本: "Vanadis 4E"
+
+------------------------------------------------------------------------------------------
+【pillar-types-of-kitchen-knives.html】引用博客数: 35
+------------------------------------------------------------------------------------------
+  -> oem-knife-manufacturers | 锚文本: "OEM"
+  -> utility-knife-vs-paring-knife | 锚文本: "paring knife"
+  -> utility-knife-guide | 锚文本: "utility knife"
+  -> bread-knife-guide | 锚文本: "bread knife"
+  -> boning-knife-guide | 锚文本: "boning knife"
+  -> gyuto-guide | 锚文本: "The Japanese"
+  -> fillet-knife-guide | 锚文本: "fillet knife"
+  -> cheese-knife-guide | 锚文本: "cheese knife"
+  -> wharncliffe-blade | 锚文本: "Wharncliffe blade"
+  -> japanese-knife-types | 锚文本: "Japanese knife types"
+  -> gyuto-vs-santoku | 锚文本: "Gyuto vs Santoku"
+  -> gyuto-vs-chef-knife | 锚文本: "Gyuto vs Chef Knife"
+  -> santoku-vs-chef-knife | 锚文本: "Santoku vs Chef Knife"
+  -> nakiri-guide | 锚文本: "Nakiri guide"
+  -> yanagiba-guide | 锚文本: "Yanagiba guide"
+  -> chef-knife-guide | 锚文本: "Chef knife guide"
+  -> knife-tang-full-or-partial | 锚文本: "full vs partial tang"
+  -> kitchen-knife-handle | 锚文本: "knife handles"
+  -> kitchen-knife-parts-and-anatomy | 锚文本: "knife anatomy"
+  -> kiritsuke-guide | 锚文本: "kiritsuke"
+  -> deba-guide | 锚文本: "deba"
+  -> petty-knife-guide | 锚文本: "petty"
+  -> bunka-guide | 锚文本: "bunka"
+  -> sujihiki-guide | 锚文本: "sujihiki"
+  -> honesuki-guide | 锚文本: "honesuki"
+  -> usuba-vs-nakiri | 锚文本: "usuba vs nakiri"
+  -> slicing-knife-guide | 锚文本: "slicing knives"
+  -> serrated-vs-non-serrated-steak-knives | 锚文本: "serrated steak knives"
+  -> tourne-knife-guide | 锚文本: "tourne knife"
+  -> knife-bolster | 锚文本: "knife bolsters"
+  -> knife-bevel-single-or-double | 锚文本: "knife bevels"
+  -> kiritsuke-vs-gyuto-vs-chef-knife | 锚文本: "kiritsuke vs gyuto vs chef"
+  -> nakiri-vs-santoku | 锚文本: "nakiri vs santoku"
+  -> sujihiki-vs-yanagiba | 锚文本: "sujihiki vs yanagiba"
+  -> ulu-knife-guide | 锚文本: "ulu knife"
+
+------------------------------------------------------------------------------------------
+【pillar-yangjiang-oem-guide.html】引用博客数: 6
+------------------------------------------------------------------------------------------
+  -> 5cr15mov | 锚文本: "5Cr15MoV"
+  -> 7cr17mov | 锚文本: "7Cr17MoV"
+  -> 9cr18mov | 锚文本: "9Cr18MoV"
+  -> 14c28n-steel | 锚文本: "14C28N"
+  -> how-to-buy-knives-wholesale | 锚文本: "wholesale buying guide"
+  -> shirogami-vs-aogami | 锚文本: "carbon steels"
+
+==========================================================================================
+汇总
+==========================================================================================
+
+文件                                                      引用博客数
+-----------------------------------------------------------------
+hub.html                                                    8
+pillar-american-knife-companies.html                        4
+pillar-best-cookware-material.html                         36
+pillar-best-cutting-board-material.html                    30
+pillar-carbon-steels.html                                   6
+pillar-cross-family-comparisons.html                       16
+pillar-damascus-layered.html                               13
+pillar-european-knife-regions.html                          7
+pillar-global-knife-sourcing.html                           4
+pillar-how-kitchen-knives-are-made.html                     7
+pillar-how-to-care-for-knives.html                         10
+pillar-how-to-start-a-knife-brand.html                      4
+pillar-japanese-knife-brands.html                           8
+pillar-kitchen-tools-accessories.html                      22
+pillar-knife-history-traditions.html                       12
+pillar-pocket-outdoor-knives.html                          24
+pillar-powder-metallurgy-steels.html                       22
+pillar-stainless-steels.html                               19
+pillar-tool-semi-stainless.html                            13
+pillar-types-of-kitchen-knives.html                        35
+pillar-yangjiang-oem-guide.html                             6
